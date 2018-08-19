@@ -1,553 +1,546 @@
 ,Tweet Author,Tweet Date,Tweet Text,compound,neg,neu,pos
-0,@CNN,Sat Aug 18 02:15:09 +0000 2018,A DOJ employee who heckled DHS Secretary Kirstjen Nielsen at a Washington restaurant and criticized the administrat… https://t.co/1m5ITY0M3h,-0.3612,0.143,0.857,0.0
-1,@CNN,Sat Aug 18 02:07:07 +0000 2018,"Aretha Franklin was America's first real grown-up female pop star, writes Kerra L. Bolton for @CNNOpinion. Today's… https://t.co/FTXvCLUEd4",0.0,0.0,1.0,0.0
-2,@CNN,Sat Aug 18 02:07:00 +0000 2018,"""Zero. I get zero dollars from consulting companies that deal with U.S. government. Are we clear?"" 
+0,@CNN,Sun Aug 19 06:00:11 +0000 2018,A majority of Americans (55%) say they don't support the Trump administration's plans to establish a Space Force https://t.co/444zYJmc4Y,-0.3089,0.124,0.876,0.0
+1,@CNN,Sun Aug 19 05:30:06 +0000 2018,"In a blistering op-ed, former CIA Director John Brennan says his security clearance was revoked to ""scare into sile… https://t.co/TmDOAXBO4s",-0.2023,0.142,0.752,0.106
+2,@CNN,Sun Aug 19 05:15:03 +0000 2018,"President Trump is as strongly disliked now as President Richard Nixon was before he resigned, poll shows… https://t.co/KEAPIVKZTp",-0.3818,0.216,0.688,0.096
+3,@CNN,Sun Aug 19 05:00:07 +0000 2018,Activists are renaming streets in the Netherlands after famous women. Welcome to Beyoncé Blvd.… https://t.co/sllVFFnmQv,0.4588,0.0,0.824,0.176
+4,@CNN,Sun Aug 19 04:44:38 +0000 2018,The world's biggest human catapult flings you out over the mountains of New Zealand at nearly 62 miles an hour… https://t.co/a13m6isRkP,0.0,0.0,1.0,0.0
+5,@CNN,Sun Aug 19 04:31:34 +0000 2018,"""Words matter, especially when they come from the President of the United States."" CNN's Brooke Baldwin reads off a… https://t.co/GKqzS2KsA7",0.4404,0.0,0.822,0.178
+6,@CNN,Sun Aug 19 04:00:11 +0000 2018,A new report details what it was like inside a rare fire tornado in California https://t.co/dxGpgJlWCd https://t.co/4dlkfytV9t,0.0258,0.134,0.726,0.14
+7,@CNN,Sun Aug 19 03:33:05 +0000 2018,"Once the kids are tucked in, this Indiana dad spends hours hunting Russian trolls https://t.co/w951cLUhz5 https://t.co/XwVus2b0UD",0.0,0.0,1.0,0.0
+8,@CNN,Sun Aug 19 03:00:18 +0000 2018,A store accused a woman of hiding school supplies under her clothes. She was pregnant. https://t.co/V9mvI94mCk https://t.co/He9xagxjRH,-0.5267,0.253,0.747,0.0
+9,@CNN,Sun Aug 19 02:30:13 +0000 2018,How Michael Avenatti helped a 9-year-old Guatemalan boy make it back to his mother https://t.co/LyQjYGgb58 https://t.co/hh1LF9csWx,0.0,0.0,1.0,0.0
+10,@CNN,Sun Aug 19 02:00:19 +0000 2018,It's that time again when there's speculation that Idris Elba might be cast as James Bond https://t.co/UpEO5IUy49 https://t.co/uZnVE5suuM,0.0,0.0,1.0,0.0
+11,@CNN,Sun Aug 19 01:59:34 +0000 2018,At least 14 people were sent to the hospital Saturday after a storm damaged an Oklahoma concert venue hosting the B… https://t.co/aBiSKmzAAc,-0.4404,0.127,0.873,0.0
+12,@CNN,Sun Aug 19 01:29:05 +0000 2018,"At the age of 30, Adrienne Bennett became the first black female master plumber in the US. Now, 30 years later, she… https://t.co/hhpKbFPifp",0.0,0.0,1.0,0.0
+13,@CNN,Sun Aug 19 01:27:38 +0000 2018,A massive 8.2 magnitude earthquake has struck in the middle of the Pacific. The Pacific Tsunami Warning Center says… https://t.co/Krx94cLpLn,-0.5267,0.206,0.794,0.0
+14,@CNN,Sun Aug 19 01:00:13 +0000 2018,"Scientists are warning that the Earth could face ""hothouse"" conditions and higher sea levels if global temperatures… https://t.co/naMNMg5Lau",-0.34,0.124,0.876,0.0
+15,@CNN,Sun Aug 19 00:27:08 +0000 2018,"Paris has installed new open-air urinals, and they're...not exactly subtle https://t.co/GRMN1914Vz https://t.co/HpgUFlHP2S",0.0,0.0,1.0,0.0
+16,@CNN,Sun Aug 19 00:15:22 +0000 2018,"Ruth Bader Ginsburg marked her 25th year as a Supreme Court justice this week. Ginsburg, who was appointed by Presi… https://t.co/NbezhG6jAt",0.7906,0.0,0.72,0.28
+17,@CNN,Sun Aug 19 00:00:27 +0000 2018,What song was on repeat on your MP3 player in the 2000s? Sing along to your favorite songs and hear the stories beh… https://t.co/N10WHzkZ0T,0.4588,0.0,0.885,0.115
+18,@CNN,Sat Aug 18 23:31:07 +0000 2018,"America's silence makes it complicit in Saudi bombing of Yemeni children, writes Jill Filipovic for @CNNOpinion… https://t.co/BsHRpNwyQA",0.0,0.0,1.0,0.0
+19,@CNN,Sat Aug 18 23:15:08 +0000 2018,Summer's top 10 essential cocktails — and where to sip them https://t.co/q6WmZolxqS https://t.co/U9gISlKfiH,0.2023,0.0,0.859,0.141
+20,@CNN,Sat Aug 18 23:00:27 +0000 2018,"Brett Kavanaugh's nomination to the Supreme Court has the lowest public support since Robert Bork in 1987, a new CN… https://t.co/ibBcGa28nI",0.5719,0.1,0.656,0.243
+21,@CNN,Sat Aug 18 22:45:02 +0000 2018,"Nearly 6 in 10 Americans say President Trump has been too friendly toward Russia, according to a new CNN poll… https://t.co/8ATMLwNSg1",0.4939,0.0,0.849,0.151
+22,@CNN,Sat Aug 18 22:30:11 +0000 2018,Sex toys were mistaken for a bomb at a Berlin airport and caused the closure of an entire terminal https://t.co/EBYoME6oHg,-0.6908,0.263,0.737,0.0
+23,@CNN,Sat Aug 18 22:15:09 +0000 2018,A new report details what it was like inside a rare fire tornado in California https://t.co/xPUZaXaTtO https://t.co/47rLO3KOuZ,0.0258,0.134,0.726,0.14
+24,@CNN,Sat Aug 18 22:00:23 +0000 2018,People are donating their frequent flyer miles to reunite families separated at the US-Mexico border… https://t.co/959VdUH2uE,0.0,0.0,1.0,0.0
+25,@CNN,Sat Aug 18 21:50:59 +0000 2018,"Twitter CEO @Jack Dorsey: We are not discriminating against any political viewpoint https://t.co/qOeCNUbv71
+
+Watch… https://t.co/OK9V6hDIbU",0.0,0.0,1.0,0.0
+26,@CNN,Sat Aug 18 21:43:11 +0000 2018,It takes most hikers between 10 and 12 days to complete this trail. Meet the ultra-runner who did it in two:… https://t.co/WmRuGw0DE5,0.0,0.0,1.0,0.0
+27,@CNN,Sat Aug 18 21:37:47 +0000 2018,"Relax, binge watchers. Netflix is not adding commercials. https://t.co/7XsJoyzuIK https://t.co/W4BTPQfvQK",0.4404,0.0,0.756,0.244
+28,@CNN,Sat Aug 18 21:23:58 +0000 2018,Dubai is racing to build the world's first hyperloop https://t.co/2ujNjUbotN https://t.co/5X4DdSXHlx,0.0,0.0,1.0,0.0
+29,@CNN,Sat Aug 18 21:14:42 +0000 2018,"Former CIA Director John Brennan says President Trump is “drunk on power”
+https://t.co/NzRGOWJQdT https://t.co/TCA1HqASEI",0.0,0.0,1.0,0.0
+30,@CNN,Sat Aug 18 21:00:07 +0000 2018,"Monsoon rains and heavy flooding have killed hundreds of people and forced more than 300,000 others to seek shelter… https://t.co/YgIBGgwtLc",-0.8176,0.294,0.706,0.0
+31,@CNN,Sat Aug 18 20:50:09 +0000 2018,"Michael Avenatti, the boisterous lawyer who has risen to national fame in recent months by publicly pestering Trump… https://t.co/hl0sIMrc2u",0.4404,0.0,0.861,0.139
+32,@CNN,Sat Aug 18 20:40:05 +0000 2018,"White House counsel Don McGahn is cooperating extensively with special counsel Robert Mueller's probe, according to… https://t.co/R33IiSsdKO",0.4019,0.0,0.856,0.144
+33,@CNN,Sat Aug 18 20:31:24 +0000 2018,Scarlett Johansson is now the highest-paid actress in the world. She took home $40.5 million in pre-tax earnings be… https://t.co/Rhe7dBvow1,0.0,0.0,1.0,0.0
+34,@CNN,Sat Aug 18 20:20:52 +0000 2018,"Two months after her 19-month-old daughter tragically drowned, Morgan Miller, the wife of Olympic alpine skier Bode… https://t.co/ST8f6VPch3",-0.8225,0.322,0.678,0.0
+35,@CNN,Sat Aug 18 20:01:03 +0000 2018,"A drug called K2 is believed to be behind more than 100 overdoses in New Haven, Connecticut, this week… https://t.co/ErGgtcwWJT",0.0,0.0,1.0,0.0
+36,@CNN,Sat Aug 18 20:00:00 +0000 2018,This beach is a slice of calm in Santa Barbara https://t.co/nWyWn9G4Y4 https://t.co/83yx9oJQ7s,0.3182,0.0,0.813,0.187
+37,@CNN,Sat Aug 18 19:50:07 +0000 2018,16 nurses who work in the intensive care unit at an Arizona hospital are pregnant https://t.co/rNPz8CBPmH https://t.co/iXVIZI127m,0.4939,0.0,0.833,0.167
+38,@CNN,Sat Aug 18 19:40:05 +0000 2018,A district attorney is lamenting his office's inability to prosecute any sex abuse allegations against Catholic pri… https://t.co/u4EfA9Gk6h,-0.9118,0.492,0.508,0.0
+39,@CNN,Sat Aug 18 19:30:00 +0000 2018,"A 1962 Ferrari 250 GTO, estimated to be worth between $45 million and $60 million, may soon be the most valuable ca… https://t.co/JH3jM2W5B8",0.6478,0.0,0.791,0.209
+40,@CNN,Sat Aug 18 19:20:25 +0000 2018,"Kofi Annan has been described as one of ""Africa's foremost son,"" as well as ""a tall Iroko tree,"" whose achievement… https://t.co/m8HLioRQeJ",0.2732,0.0,0.905,0.095
+41,@CNN,Sat Aug 18 19:03:52 +0000 2018,Hawaii may have a hurricane on its horizon next week -- though it's far too early to tell how close it will get… https://t.co/kSzxfgdMkH,0.0,0.0,1.0,0.0
+42,@CNN,Sat Aug 18 18:47:34 +0000 2018,Democratic congressional candidate Alexandria Ocasio-Cortez is facing criticism this week for barring media from at… https://t.co/bF3M0awPDg,-0.4404,0.162,0.838,0.0
+43,@CNN,Sat Aug 18 18:36:29 +0000 2018,"Relax, binge watchers. Netflix is not adding commercials. https://t.co/gczmNdWf3W https://t.co/MrDnWH9slt",0.4404,0.0,0.756,0.244
+44,@CNN,Sat Aug 18 18:20:08 +0000 2018,"President Trump lashed out at former CIA Director John Brennan, claiming he made mistakes during his time at the CI… https://t.co/TNaBDjkczm",-0.3612,0.111,0.889,0.0
+45,@CNN,Sat Aug 18 18:10:00 +0000 2018,Second lady Karen Pence installed the first beehive at the Vice President's residence in June last year and it now… https://t.co/UzqOZQQbCC,0.0,0.0,1.0,0.0
+46,@CNN,Sat Aug 18 18:00:42 +0000 2018,"To curse or not to curse? Many comedians consider a clean routine the highest form of comedy. But then again, somet… https://t.co/sQiKm2JpQ6",-0.0772,0.175,0.623,0.202
+47,@CNN,Sat Aug 18 17:50:05 +0000 2018,"Former CIA Director John Brennan says President Trump is “drunk on power”
+https://t.co/e1TIKz6vFq https://t.co/RpO432mpc8",0.0,0.0,1.0,0.0
+48,@CNN,Sat Aug 18 17:40:06 +0000 2018,A growing number of states are installing cyber-intrusion sensors in response to fears that election systems may be… https://t.co/hJcAwCD2xk,-0.2023,0.135,0.721,0.144
+49,@CNN,Sat Aug 18 17:28:05 +0000 2018,Trump has gained among black voters since the 2016 election | Analysis by @ForecasterEnten https://t.co/gXPXOWg2M2 https://t.co/iRioWN369V,0.3818,0.0,0.843,0.157
+50,@CNN,Sat Aug 18 17:20:03 +0000 2018,Who's the President attacking on Twitter? Trump has long used the platform to target critics. Here's what his words… https://t.co/lNucKSNdH0,-0.6369,0.224,0.776,0.0
+51,@CNN,Sat Aug 18 17:00:30 +0000 2018,"Two months after her 19-month-old daughter tragically drowned, Morgan Miller, the wife of Olympic alpine skier Bode… https://t.co/Gzo18WdIfd",-0.8225,0.322,0.678,0.0
+52,@CNN,Sat Aug 18 16:50:04 +0000 2018,Special counsel Robert Mueller's team wants former Trump campaign staffer George Papadopoulos to spend 6 months in… https://t.co/MSJX2nCfgE,0.4019,0.0,0.856,0.144
+53,@CNN,Sat Aug 18 16:40:09 +0000 2018,"Twitter CEO Jack Dorsey: ""Are we doing something according to political ideology or viewpoints? We are not. Period.… https://t.co/q6fINKlnfJ",0.0,0.0,1.0,0.0
+54,@CNN,Sat Aug 18 16:30:00 +0000 2018,SpaceX's Crew Dragon is designed to get NASA astronauts to the International Space Station after being launched fro… https://t.co/iLj8sJVCXH,0.128,0.0,0.923,0.077
+55,@CNN,Sat Aug 18 16:20:04 +0000 2018,Hawaii may have a hurricane on its horizon next week -- though it's far too early to tell how close it will get… https://t.co/rwxfBbJQYy,0.0,0.0,1.0,0.0
+56,@CNN,Sat Aug 18 16:10:07 +0000 2018,"As friends seek answers on how a picture-perfect Colorado couple's love story ended so tragically, records show Chr… https://t.co/iyP9fdWa6d",0.3734,0.175,0.555,0.27
+57,@CNN,Sat Aug 18 16:00:49 +0000 2018,Imagine a device that would allow humans to breathe underwater without heavy equipment. It could become a reality.… https://t.co/QtvLtwCPCY,0.2263,0.0,0.894,0.106
+58,@CNN,Sat Aug 18 16:00:05 +0000 2018,NY Times editor Dean Baquet says Trump's 'enemy of the people' mantra endangers journalists around the world… https://t.co/l1710Olcby,-0.5423,0.171,0.829,0.0
+59,@CNN,Sat Aug 18 15:56:34 +0000 2018,"Former CIA Director John Brennan says President Trump is “drunk on power”
+https://t.co/bcG2GFTJBY https://t.co/Ad7WabBMAS",0.0,0.0,1.0,0.0
+60,@CNN,Sat Aug 18 15:41:03 +0000 2018,"Georgia lawmaker: ""I will always say using the n-word is wrong... and should never be accepted in our society. But… https://t.co/2e2NfeDOp4",-0.2057,0.083,0.917,0.0
+61,@CNN,Sat Aug 18 15:29:28 +0000 2018,A DOJ employee who heckled DHS Secretary Kirstjen Nielsen at a Washington restaurant and criticized the administrat… https://t.co/IO0wI6WI3e,-0.3612,0.143,0.857,0.0
+62,@CNN,Sat Aug 18 15:14:47 +0000 2018,A growing number of states are installing cyber-intrusion sensors in response to fears that election systems may be… https://t.co/LEElMJqCtY,-0.2023,0.135,0.721,0.144
+63,@CNN,Sat Aug 18 14:56:39 +0000 2018,Trump has gained among black voters since the 2016 election | Analysis by @ForecasterEnten https://t.co/wDYNoi9Cfk https://t.co/12UwlBvFi1,0.3818,0.0,0.843,0.157
+64,@CNN,Sat Aug 18 14:44:56 +0000 2018,Who's the President attacking on Twitter? Trump has long used the platform to target critics. Here's what his words… https://t.co/bxLjAsx6gl,-0.6369,0.224,0.776,0.0
+65,@CNN,Sat Aug 18 14:30:13 +0000 2018,A Boston-area immigration office appears to have coordinated with ICE to arrest undocumented immigrants when they s… https://t.co/uNmf3p7SM7,-0.34,0.13,0.87,0.0
+66,@CNN,Sat Aug 18 14:23:35 +0000 2018,"It took 4 years, 3 miscarriages and 1,616 shots to make this baby. https://t.co/qM9bo8n6pd https://t.co/Ib6xex4Lpn",0.0,0.0,1.0,0.0
+67,@CNN,Sat Aug 18 14:13:08 +0000 2018,"Kofi Annan, the first black African to lead the United Nations, has died at age 80 https://t.co/av0HMc6bk6 https://t.co/IJR4TWWbY6",-0.2023,0.161,0.714,0.125
+68,@CNN,Sat Aug 18 14:00:19 +0000 2018,"President Trump is as strongly disliked now as President Richard Nixon was before he resigned, poll shows… https://t.co/2PxYh9tIj4",-0.3818,0.216,0.688,0.096
+69,@CNN,Sat Aug 18 13:30:17 +0000 2018,A jury awarded $289 million in damages to a man who said he got terminal cancer from Monsanto's popular weedkiller… https://t.co/dfopxuQOec,-0.4215,0.263,0.54,0.198
+70,@CNN,Sat Aug 18 13:00:47 +0000 2018,"A powerful mudslide roared through the village of Grugnay, Switzerland, following storms in the area… https://t.co/jKwT4mt8ww",0.4215,0.0,0.833,0.167
+71,@CNN,Sat Aug 18 12:01:30 +0000 2018,"This video of a Baltimore police officer beating a man led to the officer's suspension. Another officer, who did li… https://t.co/v0USwHmgF3",-0.4588,0.143,0.857,0.0
+72,@CNN,Sat Aug 18 12:00:09 +0000 2018,"America's silence makes it complicit in Saudi bombing of Yemeni children, writes Jill Filipovic for @CNNOpinion… https://t.co/xpWoU5illu",0.0,0.0,1.0,0.0
+73,@CNN,Sat Aug 18 11:27:04 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/hBgYC5NjGR",0.1779,0.253,0.506,0.241
+74,@CNN,Sat Aug 18 11:00:08 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/OBbKp7xxjK",0.431,0.0,0.863,0.137
+75,@CNN,Sat Aug 18 10:28:43 +0000 2018,"These cars were swept off a dealership lot in Little Falls, New Jersey, after rain showers and thunderstorms caused… https://t.co/q9J8cJvOvO",0.0,0.0,1.0,0.0
+76,@CNN,Sat Aug 18 10:01:07 +0000 2018,"A ""firenado"" recently struck Derbyshire, England, requiring 10 fire engines at its height. There were no reported i… https://t.co/QUFpwWNTEK",-0.6808,0.306,0.694,0.0
+77,@CNN,Sat Aug 18 10:00:05 +0000 2018,People are donating their frequent flyer miles to reunite families separated at the US-Mexico border… https://t.co/3TbfQXF47H,0.0,0.0,1.0,0.0
+78,@CNN,Sat Aug 18 10:00:05 +0000 2018,A Boston-area immigration office appears to have coordinated with ICE to arrest undocumented immigrants when they s… https://t.co/Cnlq64SeqW,-0.34,0.13,0.87,0.0
+79,@CNN,Sat Aug 18 09:49:29 +0000 2018,"Former UN Secretary-General and Nobel Peace Prize winner Kofi Annan has died at age 80, a UN agency confirms.… https://t.co/yAsvzd65Xe",0.7906,0.123,0.514,0.363
+80,@CNN,Sat Aug 18 09:29:05 +0000 2018,"A teacher battling cancer ran out of sick days, so school employees showered him with theirs https://t.co/vB01K7oB9e https://t.co/xkYHHObont",-0.8689,0.412,0.588,0.0
+81,@CNN,Sat Aug 18 09:00:14 +0000 2018,"President Trump this week signed the National Defense Authorization Act, named after Arizona Sen. John McCain, but… https://t.co/mi4jESeeei",0.128,0.0,0.919,0.081
+82,@CNN,Sat Aug 18 08:30:08 +0000 2018,"About 350 newspapers in the United States ran editorials this week telling Trump that the media is not the ""enemy o… https://t.co/oZ6mHHMj9D",0.6858,0.0,0.78,0.22
+83,@CNN,Sat Aug 18 07:30:25 +0000 2018,"""Words matter, especially when they come from the President of the United States."" CNN's Brooke Baldwin reads off a… https://t.co/dcoXaGyJC3",0.4404,0.0,0.822,0.178
+84,@CNN,Sat Aug 18 07:00:12 +0000 2018,The son of a prominent House Republican says that he is supporting the Democratic candidate to succeed his father—a… https://t.co/o9DeQny4zu,0.8126,0.0,0.656,0.344
+85,@CNN,Sat Aug 18 06:28:07 +0000 2018,John Lennon and Paul McCartney's kids are friends https://t.co/ivLkQ8w2uj https://t.co/FnkXgm4i93,0.4767,0.0,0.744,0.256
+86,@CNN,Sat Aug 18 06:00:15 +0000 2018,At least 107 measles cases have been confirmed across more than 20 states https://t.co/eYlTN5WCRf https://t.co/YGZRVIvqFB,0.0,0.0,1.0,0.0
+87,@CNN,Sat Aug 18 05:28:03 +0000 2018,"Trump calling Omarosa a ""dog"" is sexist and racist, period | @AnushayHossain for @CNNopinion https://t.co/YpIIvN3u9r https://t.co/9d6jxLjs2G",-0.6124,0.235,0.765,0.0
+88,@CNN,Sat Aug 18 05:00:12 +0000 2018,The architect of the bin Laden raid issues stunning rebuke of Trump's decision to revoke the security clearance of… https://t.co/kgb7TrgEQ6,0.6124,0.0,0.783,0.217
+89,@CNN,Sat Aug 18 04:31:06 +0000 2018,"The sea turned red with blood after whale hunt in Faroe Islands. The hunts, which are legal and closely regulated b… https://t.co/BuIR4qZGmv",0.128,0.0,0.933,0.067
+90,@CNN,Sat Aug 18 04:15:06 +0000 2018,A closer look at Omarosa's excerpt on Puerto Rico -- from a reporter who was there | Analysis by Maria Santana… https://t.co/wp0JiVYl6a,0.0,0.0,1.0,0.0
+91,@CNN,Sat Aug 18 04:00:10 +0000 2018,A man tried to grab a girl. Her sister hurled coffee at him to escape. https://t.co/0pDgWufd5Z https://t.co/hQ1w144GVC,0.1779,0.0,0.892,0.108
+92,@CNN,Sat Aug 18 03:45:04 +0000 2018,"The sea turned red with blood after whale hunt in Faroe Islands. The hunts, which are legal and closely regulated b… https://t.co/oVqKX0OThN",0.128,0.0,0.933,0.067
+93,@CNN,Sat Aug 18 03:30:10 +0000 2018,A growing number of states are installing cyber-intrusion sensors in response to fears that election systems may be… https://t.co/rLYSbAvqP3,-0.2023,0.135,0.721,0.144
+94,@CNN,Sat Aug 18 03:15:07 +0000 2018,A sobering question. A historic surgery. Grab a cup of coffee and settle in. Here's what you might have missed duri… https://t.co/XDnNKo6AL5,-0.4588,0.19,0.81,0.0
+95,@CNN,Sat Aug 18 03:00:04 +0000 2018,A Manafort-sized cloud hangs over Washington | Analysis by Chris Cillizza https://t.co/9PmXcPo2DN https://t.co/SuOisrgaUl,0.0,0.0,1.0,0.0
+96,@CNN,Sat Aug 18 02:45:00 +0000 2018,"This 92-year-old mom hasn't seen her son since he was four, 68 years ago when they were separated in the Korean War… https://t.co/vkTyMt6ocM",0.0,0.0,1.0,0.0
+97,@CNN,Sat Aug 18 02:30:10 +0000 2018,The Department of Housing and Urban Development is accusing Facebook of violating the Fair Housing Act… https://t.co/TUWL9YK3uk,-0.4404,0.242,0.651,0.107
+98,@CNN,Sat Aug 18 02:15:09 +0000 2018,A DOJ employee who heckled DHS Secretary Kirstjen Nielsen at a Washington restaurant and criticized the administrat… https://t.co/1m5ITY0M3h,-0.3612,0.143,0.857,0.0
+99,@CNN,Sat Aug 18 02:07:07 +0000 2018,"Aretha Franklin was America's first real grown-up female pop star, writes Kerra L. Bolton for @CNNOpinion. Today's… https://t.co/FTXvCLUEd4",0.0,0.0,1.0,0.0
+100,@CNN,Sat Aug 18 02:07:00 +0000 2018,"""Zero. I get zero dollars from consulting companies that deal with U.S. government. Are we clear?"" 
 
 Counterterrori… https://t.co/XxcZ6eAJF6",0.0,0.0,1.0,0.0
-3,@CNN,Sat Aug 18 02:00:32 +0000 2018,What’s the biggest hit you remember from the 2000s? Crank it up and get ready to explore a revolutionary decade of… https://t.co/JZ1aVKSGJs,0.3612,0.0,0.889,0.111
-4,@CNN,Sat Aug 18 01:51:07 +0000 2018,"Florida's Sen. Bill Nelson said he stands by his declaration that Russians have ""already penetrated"" the state's vo… https://t.co/Rt660CiwTl",0.0,0.0,1.0,0.0
-5,@CNN,Sat Aug 18 01:45:06 +0000 2018,A coroner's office confirmed three bodies found this week are those of a missing pregnant Colorado mother and her t… https://t.co/yVt7a0Mnva,-0.296,0.109,0.891,0.0
-6,@CNN,Sat Aug 18 01:37:03 +0000 2018,Republican fundraiser Elliott Broidy is under federal investigation for allegedly telling foreign officials he coul… https://t.co/sv87NXNsEZ,0.0,0.0,1.0,0.0
-7,@CNN,Sat Aug 18 01:32:05 +0000 2018,"A judge has ordered a mental evaluation for the man accused of starting the Holy Fire that has burned more than 22,… https://t.co/fFQ2ENgAds",-0.5574,0.195,0.805,0.0
-8,@CNN,Sat Aug 18 01:21:04 +0000 2018,Special counsel Robert Mueller's team wants former Trump campaign staffer George Papadopoulos to spend 6 months in… https://t.co/1WEn7YYFLv,0.4019,0.0,0.856,0.144
-9,@CNN,Sat Aug 18 01:15:03 +0000 2018,"Police in New Haven, Connecticut, have arrested one man in connection with a spate of synthetic marijuana overdoses… https://t.co/TKO3EsNDvi",-0.4767,0.154,0.846,0.0
-10,@CNN,Sat Aug 18 01:00:08 +0000 2018,"The FBI has been told about a cyberattack on the campaign of David Min, a Democratic congressional candidate who lo… https://t.co/ZcMAcgleac",0.0,0.0,1.0,0.0
-11,@CNN,Sat Aug 18 00:45:06 +0000 2018,Why Paul Manafort would have reason to hope for a Trump pardon | By Bernadette Meyler for @CNNOpinion… https://t.co/sEdNpUyc9V,0.6369,0.0,0.743,0.257
-12,@CNN,Sat Aug 18 00:40:28 +0000 2018,"RT @AC360: ""Zero. I get zero dollars from consulting companies that deal with U.S. government. Are we clear?"" Counterterrorism analyst Phil…",0.0,0.0,1.0,0.0
-13,@CNN,Sat Aug 18 00:30:06 +0000 2018,The US deported hundreds of parents without their kids. Should those parents be brought back?… https://t.co/8O5qxbqHfG,0.0,0.0,1.0,0.0
-14,@CNN,Sat Aug 18 00:15:10 +0000 2018,A federal lawsuit claims Louisiana State University ignored alleged fraternity hazing before a pledge's death last… https://t.co/T8rIgLzxsl,-0.7964,0.403,0.597,0.0
-15,@CNN,Sat Aug 18 00:00:18 +0000 2018,"Sixty former CIA officials warn President Trump that '""the country will be weakened"" if a political litmus test is… https://t.co/ibKSynEXo8",-0.4019,0.179,0.821,0.0
-16,@CNN,Fri Aug 17 23:45:01 +0000 2018,The bomb used by the Saudi-led coalition in a devastating attack on a school bus in Yemen was sold as part of a US… https://t.co/wIAMvrtqbZ,-0.891,0.358,0.642,0.0
-17,@CNN,Fri Aug 17 23:30:11 +0000 2018,The man accused of killing five people and wounding six others at the Fort Lauderdale-Hollywood International Airpo… https://t.co/jcpQ8VN7Lz,-0.765,0.292,0.708,0.0
-18,@CNN,Fri Aug 17 23:15:09 +0000 2018,"Sen. Mark Warner, the Senate Intelligence Committee's top Democrat, wants to block Trump from ""arbitrarily revoking… https://t.co/Uz01UKOtts",0.25,0.133,0.642,0.225
-19,@CNN,Fri Aug 17 23:00:11 +0000 2018,Alex Jones and InfoWars are accused of destroying evidence related to a defamation lawsuit filed by the father of a… https://t.co/3G5Nnycers,-0.7717,0.312,0.688,0.0
-20,@CNN,Fri Aug 17 22:51:04 +0000 2018,A beer delivery man joins Full Circle to talk about how he and his co-worker saved a suicidal man from jumping off… https://t.co/OvylEXHQ7Y,-0.4019,0.171,0.722,0.106
-21,@CNN,Fri Aug 17 22:45:05 +0000 2018,"The funeral for Aretha Franklin will be held August 31 in Detroit, according to the singer's publicist… https://t.co/pLbvPawmoT",-0.3612,0.128,0.872,0.0
-22,@CNN,Fri Aug 17 22:30:09 +0000 2018,The US will end funding for stabilization efforts in Syria in another sign of President Donald Trump's intent to pu… https://t.co/PVpxhg75K5,0.0,0.0,1.0,0.0
-23,@CNN,Fri Aug 17 22:22:01 +0000 2018,President Trump says he has asked the SEC to review whether companies should no longer be required to report quarte… https://t.co/Q9RI0QSWS9,-0.296,0.099,0.901,0.0
-24,@CNN,Fri Aug 17 22:15:08 +0000 2018,"President Donald Trump said that he would likely strip the security clearance of a Justice Department official ""ver… https://t.co/YufeekmYis",0.7003,0.0,0.734,0.266
-25,@CNN,Fri Aug 17 22:07:07 +0000 2018,Political spouses like George Conway are fair game | By Peggy Drexler for @CNNOpinion https://t.co/eagAz5wP2a https://t.co/MHVx6qRHT2,0.5859,0.0,0.73,0.27
-26,@CNN,Fri Aug 17 22:04:43 +0000 2018,"This 92-year-old mom hasn't seen her son since he was four, 68 years ago when they were separated in the Korean War… https://t.co/o7RBDIXqPi",0.0,0.0,1.0,0.0
-27,@CNN,Fri Aug 17 21:47:04 +0000 2018,Summer's top 10 essential cocktails — and where to sip them https://t.co/xydrHNJ6NA https://t.co/MDfypWXUKR,0.2023,0.0,0.859,0.141
-28,@CNN,Fri Aug 17 21:37:01 +0000 2018,"RT @drsanjaygupta: I couldn't wait another day without addressing this. No, I have not launched a line of CBD products. I report on medical…",-0.4348,0.177,0.823,0.0
-29,@CNN,Fri Aug 17 21:29:36 +0000 2018,Janet Jackson released her first new music in three years https://t.co/lKAYX4V2ZP https://t.co/i8nO79mgTC,0.0,0.0,1.0,0.0
-30,@CNN,Fri Aug 17 21:17:34 +0000 2018,"There have been 78 cases of Ebola reported in the current outbreak in the Democratic Republic of Congo, including 4… https://t.co/VEylIheYEc",0.0,0.0,1.0,0.0
-31,@CNN,Fri Aug 17 21:04:09 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/7kRlgxTTDl",0.0,0.0,1.0,0.0
-32,@CNN,Fri Aug 17 20:51:50 +0000 2018,"The Wall Street Journal fired back at Rachel Maddow after she said the newspaper ""tried to bury"" a story detailing… https://t.co/OOLy6THdwq",-0.5574,0.159,0.841,0.0
-33,@CNN,Fri Aug 17 20:40:38 +0000 2018,"The sea turned red with blood after whale hunt in Faroe Islands. The hunts, which are legal and closely regulated b… https://t.co/Wlw3fXDxFb",0.128,0.0,0.933,0.067
-34,@CNN,Fri Aug 17 20:26:05 +0000 2018,China will become the first nation in the world to explore the dark side of the moon. Here's the rover it'll send:… https://t.co/lPgRRPxI1b,0.0,0.0,1.0,0.0
-35,@CNN,Fri Aug 17 20:11:57 +0000 2018,A record number of women are running in congressional races this year. How many can win? https://t.co/eCp01Iuqev,0.6249,0.0,0.733,0.267
-36,@CNN,Fri Aug 17 19:58:21 +0000 2018,"""My kids are my life,"" said Chris Watts, a day before he was arrested in connection with the killing of his pregnan… https://t.co/PwEf4H58bz",-0.8176,0.273,0.727,0.0
-37,@CNN,Fri Aug 17 19:40:26 +0000 2018,A Turkish criminal court rejected US pastor Andrew Brunson's request to be released from house arrest and permitted… https://t.co/pm40Dvgknv,-0.8442,0.378,0.622,0.0
-38,@CNN,Fri Aug 17 19:26:37 +0000 2018,"Amazon is reportedly in the running to buy Landmark Theaters, a private chain of about 50 cinemas that specialize i… https://t.co/kllq3dlTv1",0.25,0.0,0.857,0.143
-39,@CNN,Fri Aug 17 19:16:16 +0000 2018,"A hotline for clergy sex abuse has been ""lit up"" this week following a grand jury report that detailed abuse allega… https://t.co/miEhHdjXew",-0.7506,0.296,0.599,0.106
-40,@CNN,Fri Aug 17 19:00:54 +0000 2018,A new report details what it was like inside a rare fire tornado in California https://t.co/2HsBVUTidI https://t.co/ra6CEeAtb5,0.0258,0.134,0.726,0.14
-41,@CNN,Fri Aug 17 18:48:45 +0000 2018,A mom pulled her two young children out of their toy electric car just before it burst into flames… https://t.co/4SlcAE46gE,0.0,0.0,1.0,0.0
-42,@CNN,Fri Aug 17 18:34:45 +0000 2018,"Nearly 6 in 10 Americans say President Trump has been too friendly toward Russia, according to a new CNN poll… https://t.co/r4LEMe5Gsv",0.4939,0.0,0.849,0.151
-43,@CNN,Fri Aug 17 18:20:48 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/YKF2rb6pJj",0.0,0.0,1.0,0.0
-44,@CNN,Fri Aug 17 18:06:47 +0000 2018,Summer's top 10 essential cocktails — and where to sip them https://t.co/lBXrYR17FY https://t.co/0LA8OwXqTO,0.2023,0.0,0.859,0.141
-45,@CNN,Fri Aug 17 17:54:45 +0000 2018,"While it's heartwarming to see teachers support each other, donating sick days is a symptom of an inhumane, utterly… https://t.co/N5CXRNkgCp",0.3612,0.131,0.637,0.231
-46,@CNN,Fri Aug 17 17:42:06 +0000 2018,"As part of a rebranding effort of sorts, the Church of Jesus Christ of Latter-day Saints no longer wants its member… https://t.co/j53Tstszdk",-0.296,0.099,0.901,0.0
-47,@CNN,Fri Aug 17 17:31:23 +0000 2018,"""My kids are my life,"" said Chris Watts, a day before he was arrested in connection with the killing of his pregnan… https://t.co/VU8xEvOkmD",-0.8176,0.273,0.727,0.0
-48,@CNN,Fri Aug 17 17:17:24 +0000 2018,How Aretha Franklin blew open the doors of the Rock &amp; Roll Hall of Fame for black women https://t.co/6sMUiBHwtW https://t.co/0ykB2OVJqH,0.4404,0.0,0.868,0.132
-49,@CNN,Fri Aug 17 17:05:55 +0000 2018,A record number of women are running in congressional races this year. How many can win? https://t.co/QIduOc8XE2,0.6249,0.0,0.733,0.267
-50,@CNN,Fri Aug 17 16:55:23 +0000 2018,Tesla's stock tumbled after CEO Elon Musk said he's working himself to the bone and relies on Ambien to sleep… https://t.co/DL6vnd5B8g,0.0,0.0,1.0,0.0
-51,@CNN,Fri Aug 17 16:43:59 +0000 2018,China will become the first nation in the world to explore the dark side of the moon. Here's the rover it'll send:… https://t.co/wak3BI35zZ,0.0,0.0,1.0,0.0
-52,@CNN,Fri Aug 17 16:28:56 +0000 2018,"This job market is so good, candidates aren't even showing up for interviews https://t.co/wE1v3fPFF9",0.5777,0.0,0.777,0.223
-53,@CNN,Fri Aug 17 16:17:12 +0000 2018,"The sea turned red with blood after whale hunt in Faroe Islands. The hunts, which are legal and closely regulated b… https://t.co/uuAFGBI7Lr",0.128,0.0,0.933,0.067
-54,@CNN,Fri Aug 17 16:06:01 +0000 2018,"There have been 78 cases of Ebola reported in the current outbreak in the Democratic Republic of Congo, including 4… https://t.co/fLK2hSGW3P",0.0,0.0,1.0,0.0
-55,@CNN,Fri Aug 17 15:53:31 +0000 2018,An 87-year-old grandmother using a knife to cut dandelions in the woods near her rural Georgia home last week was t… https://t.co/qgVkMLjjof,-0.2732,0.095,0.905,0.0
-56,@CNN,Fri Aug 17 15:42:30 +0000 2018,Janet Jackson released her first new music in three years https://t.co/w7oamEO7Nn https://t.co/NgYOM7uhT0,0.0,0.0,1.0,0.0
-57,@CNN,Fri Aug 17 15:32:27 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/BvbkhwRknB",0.1779,0.253,0.506,0.241
-58,@CNN,Fri Aug 17 15:21:18 +0000 2018,"By canceling the military parade, Trump's using a scapegoat he knows will work with his base—bad local government i… https://t.co/B8ypn1x4eg",-0.4019,0.13,0.87,0.0
-59,@CNN,Fri Aug 17 15:08:16 +0000 2018,"The Wall Street Journal fired back at Rachel Maddow after she said the newspaper ""tried to bury"" a story detailing… https://t.co/hmEpEduslA",-0.5574,0.159,0.841,0.0
-60,@CNN,Fri Aug 17 14:54:38 +0000 2018,"Proving even bad things must come to an end, the ""Sharknado"" franchise breathes its last—at least for now—with its… https://t.co/Bo4QKbuBlW",-0.5423,0.156,0.844,0.0
-61,@CNN,Fri Aug 17 14:42:57 +0000 2018,"Florida's toxic algae has killed fish, turtles, manatees and even a whale shark. And it's a health risk for humans,… https://t.co/JLOpKJjtDi",-0.765,0.28,0.72,0.0
-62,@CNN,Fri Aug 17 14:35:00 +0000 2018,Watch Aretha Franklin perform the hits that made her a star https://t.co/Q3zTV3r8Cx https://t.co/z6hm0d0ypz,0.0,0.0,1.0,0.0
-63,@CNN,Fri Aug 17 14:30:51 +0000 2018,Anti-Semitism in Britain is so bad that some Jews are planning to leave https://t.co/AEatFV4hS5 https://t.co/SvdY5X8PpZ,-0.6899,0.304,0.696,0.0
-64,@CNN,Fri Aug 17 14:19:32 +0000 2018,Rand Paul wants Trump to lift US travel sanctions on some Russian lawmakers https://t.co/bbaexKzKlv,0.0,0.0,1.0,0.0
-65,@CNN,Fri Aug 17 14:05:27 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/0JmYB1gi0S",0.431,0.0,0.863,0.137
-66,@CNN,Fri Aug 17 13:52:47 +0000 2018,"""Every time she sang, we were all graced with a glimpse of the divine""
+101,@CNN,Sat Aug 18 02:00:32 +0000 2018,What’s the biggest hit you remember from the 2000s? Crank it up and get ready to explore a revolutionary decade of… https://t.co/JZ1aVKSGJs,0.3612,0.0,0.889,0.111
+102,@CNN,Sat Aug 18 01:51:07 +0000 2018,"Florida's Sen. Bill Nelson said he stands by his declaration that Russians have ""already penetrated"" the state's vo… https://t.co/Rt660CiwTl",0.0,0.0,1.0,0.0
+103,@CNN,Sat Aug 18 01:45:06 +0000 2018,A coroner's office confirmed three bodies found this week are those of a missing pregnant Colorado mother and her t… https://t.co/yVt7a0Mnva,-0.296,0.109,0.891,0.0
+104,@CNN,Sat Aug 18 01:37:03 +0000 2018,Republican fundraiser Elliott Broidy is under federal investigation for allegedly telling foreign officials he coul… https://t.co/sv87NXNsEZ,0.0,0.0,1.0,0.0
+105,@CNN,Sat Aug 18 01:32:05 +0000 2018,"A judge has ordered a mental evaluation for the man accused of starting the Holy Fire that has burned more than 22,… https://t.co/fFQ2ENgAds",-0.5574,0.195,0.805,0.0
+106,@CNN,Sat Aug 18 01:21:04 +0000 2018,Special counsel Robert Mueller's team wants former Trump campaign staffer George Papadopoulos to spend 6 months in… https://t.co/1WEn7YYFLv,0.4019,0.0,0.856,0.144
+107,@CNN,Sat Aug 18 01:15:03 +0000 2018,"Police in New Haven, Connecticut, have arrested one man in connection with a spate of synthetic marijuana overdoses… https://t.co/TKO3EsNDvi",-0.4767,0.154,0.846,0.0
+108,@CNN,Sat Aug 18 01:00:08 +0000 2018,"The FBI has been told about a cyberattack on the campaign of David Min, a Democratic congressional candidate who lo… https://t.co/ZcMAcgleac",0.0,0.0,1.0,0.0
+109,@CNN,Sat Aug 18 00:45:06 +0000 2018,Why Paul Manafort would have reason to hope for a Trump pardon | By Bernadette Meyler for @CNNOpinion… https://t.co/sEdNpUyc9V,0.6369,0.0,0.743,0.257
+110,@CNN,Sat Aug 18 00:40:28 +0000 2018,"RT @AC360: ""Zero. I get zero dollars from consulting companies that deal with U.S. government. Are we clear?"" Counterterrorism analyst Phil…",0.0,0.0,1.0,0.0
+111,@CNN,Sat Aug 18 00:30:06 +0000 2018,The US deported hundreds of parents without their kids. Should those parents be brought back?… https://t.co/8O5qxbqHfG,0.0,0.0,1.0,0.0
+112,@CNN,Sat Aug 18 00:15:10 +0000 2018,A federal lawsuit claims Louisiana State University ignored alleged fraternity hazing before a pledge's death last… https://t.co/T8rIgLzxsl,-0.7964,0.403,0.597,0.0
+113,@CNN,Sat Aug 18 00:00:18 +0000 2018,"Sixty former CIA officials warn President Trump that '""the country will be weakened"" if a political litmus test is… https://t.co/ibKSynEXo8",-0.4019,0.179,0.821,0.0
+114,@CNN,Fri Aug 17 23:45:01 +0000 2018,The bomb used by the Saudi-led coalition in a devastating attack on a school bus in Yemen was sold as part of a US… https://t.co/wIAMvrtqbZ,-0.891,0.358,0.642,0.0
+115,@CNN,Fri Aug 17 23:30:11 +0000 2018,The man accused of killing five people and wounding six others at the Fort Lauderdale-Hollywood International Airpo… https://t.co/jcpQ8VN7Lz,-0.765,0.292,0.708,0.0
+116,@CNN,Fri Aug 17 23:15:09 +0000 2018,"Sen. Mark Warner, the Senate Intelligence Committee's top Democrat, wants to block Trump from ""arbitrarily revoking… https://t.co/Uz01UKOtts",0.25,0.133,0.642,0.225
+117,@CNN,Fri Aug 17 23:00:11 +0000 2018,Alex Jones and InfoWars are accused of destroying evidence related to a defamation lawsuit filed by the father of a… https://t.co/3G5Nnycers,-0.7717,0.312,0.688,0.0
+118,@CNN,Fri Aug 17 22:51:04 +0000 2018,A beer delivery man joins Full Circle to talk about how he and his co-worker saved a suicidal man from jumping off… https://t.co/OvylEXHQ7Y,-0.4019,0.171,0.722,0.106
+119,@CNN,Fri Aug 17 22:45:05 +0000 2018,"The funeral for Aretha Franklin will be held August 31 in Detroit, according to the singer's publicist… https://t.co/pLbvPawmoT",-0.3612,0.128,0.872,0.0
+120,@CNN,Fri Aug 17 22:30:09 +0000 2018,The US will end funding for stabilization efforts in Syria in another sign of President Donald Trump's intent to pu… https://t.co/PVpxhg75K5,0.0,0.0,1.0,0.0
+121,@CNN,Fri Aug 17 22:22:01 +0000 2018,President Trump says he has asked the SEC to review whether companies should no longer be required to report quarte… https://t.co/Q9RI0QSWS9,-0.296,0.099,0.901,0.0
+122,@CNN,Fri Aug 17 22:15:08 +0000 2018,"President Donald Trump said that he would likely strip the security clearance of a Justice Department official ""ver… https://t.co/YufeekmYis",0.7003,0.0,0.734,0.266
+123,@CNN,Fri Aug 17 22:07:07 +0000 2018,Political spouses like George Conway are fair game | By Peggy Drexler for @CNNOpinion https://t.co/eagAz5wP2a https://t.co/MHVx6qRHT2,0.5859,0.0,0.73,0.27
+124,@CNN,Fri Aug 17 22:04:43 +0000 2018,"This 92-year-old mom hasn't seen her son since he was four, 68 years ago when they were separated in the Korean War… https://t.co/o7RBDIXqPi",0.0,0.0,1.0,0.0
+125,@CNN,Fri Aug 17 21:47:04 +0000 2018,Summer's top 10 essential cocktails — and where to sip them https://t.co/xydrHNJ6NA https://t.co/MDfypWXUKR,0.2023,0.0,0.859,0.141
+126,@CNN,Fri Aug 17 21:37:01 +0000 2018,"RT @drsanjaygupta: I couldn't wait another day without addressing this. No, I have not launched a line of CBD products. I report on medical…",-0.4348,0.177,0.823,0.0
+127,@CNN,Fri Aug 17 21:29:36 +0000 2018,Janet Jackson released her first new music in three years https://t.co/lKAYX4V2ZP https://t.co/i8nO79mgTC,0.0,0.0,1.0,0.0
+128,@CNN,Fri Aug 17 21:17:34 +0000 2018,"There have been 78 cases of Ebola reported in the current outbreak in the Democratic Republic of Congo, including 4… https://t.co/VEylIheYEc",0.0,0.0,1.0,0.0
+129,@CNN,Fri Aug 17 21:04:09 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/7kRlgxTTDl",0.0,0.0,1.0,0.0
+130,@CNN,Fri Aug 17 20:51:50 +0000 2018,"The Wall Street Journal fired back at Rachel Maddow after she said the newspaper ""tried to bury"" a story detailing… https://t.co/OOLy6THdwq",-0.5574,0.159,0.841,0.0
+131,@CNN,Fri Aug 17 20:40:38 +0000 2018,"The sea turned red with blood after whale hunt in Faroe Islands. The hunts, which are legal and closely regulated b… https://t.co/Wlw3fXDxFb",0.128,0.0,0.933,0.067
+132,@CNN,Fri Aug 17 20:26:05 +0000 2018,China will become the first nation in the world to explore the dark side of the moon. Here's the rover it'll send:… https://t.co/lPgRRPxI1b,0.0,0.0,1.0,0.0
+133,@CNN,Fri Aug 17 20:11:57 +0000 2018,A record number of women are running in congressional races this year. How many can win? https://t.co/eCp01Iuqev,0.6249,0.0,0.733,0.267
+134,@CNN,Fri Aug 17 19:58:21 +0000 2018,"""My kids are my life,"" said Chris Watts, a day before he was arrested in connection with the killing of his pregnan… https://t.co/PwEf4H58bz",-0.8176,0.273,0.727,0.0
+135,@CNN,Fri Aug 17 19:40:26 +0000 2018,A Turkish criminal court rejected US pastor Andrew Brunson's request to be released from house arrest and permitted… https://t.co/pm40Dvgknv,-0.8442,0.378,0.622,0.0
+136,@CNN,Fri Aug 17 19:26:37 +0000 2018,"Amazon is reportedly in the running to buy Landmark Theaters, a private chain of about 50 cinemas that specialize i… https://t.co/kllq3dlTv1",0.25,0.0,0.857,0.143
+137,@CNN,Fri Aug 17 19:16:16 +0000 2018,"A hotline for clergy sex abuse has been ""lit up"" this week following a grand jury report that detailed abuse allega… https://t.co/miEhHdjXew",-0.7506,0.296,0.599,0.106
+138,@CNN,Fri Aug 17 19:00:54 +0000 2018,A new report details what it was like inside a rare fire tornado in California https://t.co/2HsBVUTidI https://t.co/ra6CEeAtb5,0.0258,0.134,0.726,0.14
+139,@CNN,Fri Aug 17 18:48:45 +0000 2018,A mom pulled her two young children out of their toy electric car just before it burst into flames… https://t.co/4SlcAE46gE,0.0,0.0,1.0,0.0
+140,@CNN,Fri Aug 17 18:34:45 +0000 2018,"Nearly 6 in 10 Americans say President Trump has been too friendly toward Russia, according to a new CNN poll… https://t.co/r4LEMe5Gsv",0.4939,0.0,0.849,0.151
+141,@CNN,Fri Aug 17 18:20:48 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/YKF2rb6pJj",0.0,0.0,1.0,0.0
+142,@CNN,Fri Aug 17 18:06:47 +0000 2018,Summer's top 10 essential cocktails — and where to sip them https://t.co/lBXrYR17FY https://t.co/0LA8OwXqTO,0.2023,0.0,0.859,0.141
+143,@CNN,Fri Aug 17 17:54:45 +0000 2018,"While it's heartwarming to see teachers support each other, donating sick days is a symptom of an inhumane, utterly… https://t.co/N5CXRNkgCp",0.3612,0.131,0.637,0.231
+144,@CNN,Fri Aug 17 17:42:06 +0000 2018,"As part of a rebranding effort of sorts, the Church of Jesus Christ of Latter-day Saints no longer wants its member… https://t.co/j53Tstszdk",-0.296,0.099,0.901,0.0
+145,@CNN,Fri Aug 17 17:31:23 +0000 2018,"""My kids are my life,"" said Chris Watts, a day before he was arrested in connection with the killing of his pregnan… https://t.co/VU8xEvOkmD",-0.8176,0.273,0.727,0.0
+146,@CNN,Fri Aug 17 17:17:24 +0000 2018,How Aretha Franklin blew open the doors of the Rock &amp; Roll Hall of Fame for black women https://t.co/6sMUiBHwtW https://t.co/0ykB2OVJqH,0.4404,0.0,0.868,0.132
+147,@CNN,Fri Aug 17 17:05:55 +0000 2018,A record number of women are running in congressional races this year. How many can win? https://t.co/QIduOc8XE2,0.6249,0.0,0.733,0.267
+148,@CNN,Fri Aug 17 16:55:23 +0000 2018,Tesla's stock tumbled after CEO Elon Musk said he's working himself to the bone and relies on Ambien to sleep… https://t.co/DL6vnd5B8g,0.0,0.0,1.0,0.0
+149,@CNN,Fri Aug 17 16:43:59 +0000 2018,China will become the first nation in the world to explore the dark side of the moon. Here's the rover it'll send:… https://t.co/wak3BI35zZ,0.0,0.0,1.0,0.0
+150,@CNN,Fri Aug 17 16:28:56 +0000 2018,"This job market is so good, candidates aren't even showing up for interviews https://t.co/wE1v3fPFF9",0.5777,0.0,0.777,0.223
+151,@CNN,Fri Aug 17 16:17:12 +0000 2018,"The sea turned red with blood after whale hunt in Faroe Islands. The hunts, which are legal and closely regulated b… https://t.co/uuAFGBI7Lr",0.128,0.0,0.933,0.067
+152,@CNN,Fri Aug 17 16:06:01 +0000 2018,"There have been 78 cases of Ebola reported in the current outbreak in the Democratic Republic of Congo, including 4… https://t.co/fLK2hSGW3P",0.0,0.0,1.0,0.0
+153,@CNN,Fri Aug 17 15:53:31 +0000 2018,An 87-year-old grandmother using a knife to cut dandelions in the woods near her rural Georgia home last week was t… https://t.co/qgVkMLjjof,-0.2732,0.095,0.905,0.0
+154,@CNN,Fri Aug 17 15:42:30 +0000 2018,Janet Jackson released her first new music in three years https://t.co/w7oamEO7Nn https://t.co/NgYOM7uhT0,0.0,0.0,1.0,0.0
+155,@CNN,Fri Aug 17 15:32:27 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/BvbkhwRknB",0.1779,0.253,0.506,0.241
+156,@CNN,Fri Aug 17 15:21:18 +0000 2018,"By canceling the military parade, Trump's using a scapegoat he knows will work with his base—bad local government i… https://t.co/B8ypn1x4eg",-0.4019,0.13,0.87,0.0
+157,@CNN,Fri Aug 17 15:08:16 +0000 2018,"The Wall Street Journal fired back at Rachel Maddow after she said the newspaper ""tried to bury"" a story detailing… https://t.co/hmEpEduslA",-0.5574,0.159,0.841,0.0
+158,@CNN,Fri Aug 17 14:54:38 +0000 2018,"Proving even bad things must come to an end, the ""Sharknado"" franchise breathes its last—at least for now—with its… https://t.co/Bo4QKbuBlW",-0.5423,0.156,0.844,0.0
+159,@CNN,Fri Aug 17 14:42:57 +0000 2018,"Florida's toxic algae has killed fish, turtles, manatees and even a whale shark. And it's a health risk for humans,… https://t.co/JLOpKJjtDi",-0.765,0.28,0.72,0.0
+160,@CNN,Fri Aug 17 14:35:00 +0000 2018,Watch Aretha Franklin perform the hits that made her a star https://t.co/Q3zTV3r8Cx https://t.co/z6hm0d0ypz,0.0,0.0,1.0,0.0
+161,@CNN,Fri Aug 17 14:30:51 +0000 2018,Anti-Semitism in Britain is so bad that some Jews are planning to leave https://t.co/AEatFV4hS5 https://t.co/SvdY5X8PpZ,-0.6899,0.304,0.696,0.0
+162,@CNN,Fri Aug 17 14:19:32 +0000 2018,Rand Paul wants Trump to lift US travel sanctions on some Russian lawmakers https://t.co/bbaexKzKlv,0.0,0.0,1.0,0.0
+163,@CNN,Fri Aug 17 14:05:27 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/0JmYB1gi0S",0.431,0.0,0.863,0.137
+164,@CNN,Fri Aug 17 13:52:47 +0000 2018,"""Every time she sang, we were all graced with a glimpse of the divine""
 
 Read the Obamas' statement on the death of… https://t.co/lv8YMsf39j",0.1531,0.137,0.669,0.194
-67,@CNN,Fri Aug 17 13:45:00 +0000 2018,"Choking back tears, CNN's Don Lemon remembers the life of Aretha Franklin:
+165,@CNN,Fri Aug 17 13:45:00 +0000 2018,"Choking back tears, CNN's Don Lemon remembers the life of Aretha Franklin:
 
 ""This is very personal for me, as you c… https://t.co/GIVst8o9Xv",-0.5994,0.197,0.803,0.0
-68,@CNN,Fri Aug 17 13:42:26 +0000 2018,President Trump is directing the SEC to consider dropping quarterly earnings reports for public companies in favor… https://t.co/ZFU6oFLAIX,0.0,0.0,1.0,0.0
-69,@CNN,Fri Aug 17 13:32:11 +0000 2018,"Extreme weather is expected to weigh on economic growth, but almost no mainstream economic forecasting model takes… https://t.co/gHxAJuzYWv",-0.1432,0.117,0.794,0.089
-70,@CNN,Fri Aug 17 13:21:53 +0000 2018,The Department of Education has opened an investigation into the Ohio State University's handling of allegations of… https://t.co/w9bu1dWmD2,0.0,0.0,1.0,0.0
-71,@CNN,Fri Aug 17 13:19:18 +0000 2018,"Escape from the Mayo Clinic: How CNN reported the story
+166,@CNN,Fri Aug 17 13:42:26 +0000 2018,President Trump is directing the SEC to consider dropping quarterly earnings reports for public companies in favor… https://t.co/ZFU6oFLAIX,0.0,0.0,1.0,0.0
+167,@CNN,Fri Aug 17 13:32:11 +0000 2018,"Extreme weather is expected to weigh on economic growth, but almost no mainstream economic forecasting model takes… https://t.co/gHxAJuzYWv",-0.1432,0.117,0.794,0.089
+168,@CNN,Fri Aug 17 13:21:53 +0000 2018,The Department of Education has opened an investigation into the Ohio State University's handling of allegations of… https://t.co/w9bu1dWmD2,0.0,0.0,1.0,0.0
+169,@CNN,Fri Aug 17 13:19:18 +0000 2018,"Escape from the Mayo Clinic: How CNN reported the story
  https://t.co/62m9q5TEBM https://t.co/EBXZo9Jwmd",0.1779,0.0,0.866,0.134
-72,@CNN,Fri Aug 17 13:10:59 +0000 2018,"President Trump says he canceled a military parade planned for Veterans Day weekend because of its ""ridiculously hi… https://t.co/n7a7grErpl",-0.34,0.124,0.876,0.0
-73,@CNN,Fri Aug 17 13:00:22 +0000 2018,Nigerian teens win Silicon Valley contest for app that spots fake drugs https://t.co/MHqVDe3h6v https://t.co/DldcOfONIU,0.1779,0.164,0.635,0.201
-74,@CNN,Fri Aug 17 12:48:07 +0000 2018,"A low-carb or high-carb diet raises your risk of death, a new study suggests https://t.co/zHcr0c3X1f",-0.7184,0.353,0.647,0.0
-75,@CNN,Fri Aug 17 12:36:21 +0000 2018,The University System of Maryland board of regents is meeting to discuss how campus officials handled the death of… https://t.co/nFHWaGLOls,-0.5994,0.17,0.83,0.0
-76,@CNN,Fri Aug 17 12:24:36 +0000 2018,A dozen former senior intelligence officials are denouncing President Trump's decision to revoke former CIA Directo… https://t.co/cVzotrrGvS,0.4767,0.0,0.829,0.171
-77,@CNN,Fri Aug 17 12:12:17 +0000 2018,"Google sought to reassure employees who are worried the company might compromise its values to get into China, foll… https://t.co/jOtBE1c7tu",0.4404,0.091,0.7,0.21
-78,@CNN,Fri Aug 17 11:59:55 +0000 2018,Why does alcohol give you the munchies? https://t.co/botNKOOBsQ https://t.co/uFS9mbj5x1,0.0,0.0,1.0,0.0
-79,@CNN,Fri Aug 17 11:48:36 +0000 2018,"A Massachusetts man has been indicted on 52 charges and is accused of raping, kidnapping and killing three women wh… https://t.co/X6RZtBmoMH",-0.926,0.458,0.542,0.0
-80,@CNN,Fri Aug 17 11:37:04 +0000 2018,Nearly 24 hours before Chris Watts was arrested in the disappearance of his pregnant wife and young daughters in Co… https://t.co/qazd6B1DB6,-0.4767,0.134,0.866,0.0
-81,@CNN,Fri Aug 17 11:25:48 +0000 2018,Why it's now cheaper than ever to fly across the Atlantic https://t.co/LdZmRkv4Gj https://t.co/FB0acaeDYi,0.0,0.0,1.0,0.0
-82,@CNN,Fri Aug 17 11:14:44 +0000 2018,"Malaysia has repealed a controversial anti-fake-news law, which was widely condemned for stifling free speech since… https://t.co/mumC0I8KEA",-0.1027,0.224,0.619,0.157
-83,@CNN,Fri Aug 17 11:04:02 +0000 2018,This is how China controls its currency https://t.co/VjvbUJL0Ge https://t.co/mSL22CbV7z,0.0,0.0,1.0,0.0
-84,@CNN,Fri Aug 17 10:54:02 +0000 2018,9 ski resorts to enjoy in summer https://t.co/Q2QjMPbYZM https://t.co/v9BhjXvaaW,0.4939,0.0,0.686,0.314
-85,@CNN,Fri Aug 17 10:44:05 +0000 2018,A Salvadoran woman has filed a federal lawsuit in Washington asking to be reunited with her infant daughter who nee… https://t.co/A0bpeDi7oD,-0.2263,0.095,0.905,0.0
-86,@CNN,Fri Aug 17 10:39:00 +0000 2018,"Did you know? Everyone has brown eyes, even if they appear blue or green https://t.co/3Q14GtlTAQ https://t.co/7mLUy8TCV7",0.0,0.0,1.0,0.0
-87,@CNN,Fri Aug 17 10:34:04 +0000 2018,Special counsel Robert Mueller's team has 3 times the evidence for Paul Manafort's next trial than his current tria… https://t.co/C2UXJWIZbg,0.4019,0.0,0.87,0.13
-88,@CNN,Fri Aug 17 10:24:04 +0000 2018,The Department of Defense says Trump's military parade originally scheduled for Veterans Day will be postponed https://t.co/aoMFrZLsLw,-0.0772,0.098,0.82,0.082
-89,@CNN,Fri Aug 17 10:11:24 +0000 2018,Serena Williams found out the man who killed her sister had been released from prison moments before suffering the… https://t.co/og4G3WdjCp,-0.8979,0.391,0.609,0.0
-90,@CNN,Fri Aug 17 10:04:02 +0000 2018,Former Trump lawyer Michael Cohen informed a representative for Stormy Daniels he was willing to strike a deal to b… https://t.co/CUWO7geddk,-0.128,0.077,0.923,0.0
-91,@CNN,Fri Aug 17 09:54:04 +0000 2018,"Republican campaigns, committees and outside groups have spent more than $1.7 million at Trump properties through t… https://t.co/Dph49w31YF",0.0,0.0,1.0,0.0
-92,@CNN,Fri Aug 17 09:44:05 +0000 2018,Just how many secret tapes does Omarosa actually have? | Analysis by Chris Cillizza https://t.co/jUuQIESZXX https://t.co/PBUJEHfVfO,0.0,0.0,1.0,0.0
-93,@CNN,Fri Aug 17 09:34:06 +0000 2018,"ISIS very much remains a threat and is ""well positioned"" to rebuild, despite being driven to only a few small towns… https://t.co/m20lCHAV8X",-0.3744,0.154,0.757,0.088
-94,@CNN,Fri Aug 17 09:24:03 +0000 2018,READ: The letter Omarosa Manigault Newman's publisher sent to the Trump campaign https://t.co/4lCTEW813U,0.0,0.0,1.0,0.0
-95,@CNN,Fri Aug 17 09:14:03 +0000 2018,"EXCLUSIVE: Omarosa Manigault Newman's publisher has responded to Trump's campaign's ""legal threats"" over her tell-a… https://t.co/QeJM18tkfZ",-0.0173,0.143,0.666,0.191
-96,@CNN,Fri Aug 17 09:04:05 +0000 2018,Secretary of State Mike Pompeo announced that the Trump administration is establishing an interagency task force ai… https://t.co/CbEDD5V5pz,0.0,0.0,1.0,0.0
-97,@CNN,Fri Aug 17 08:57:55 +0000 2018,"RT @cnnsport: ""It's a dark, dark road sometimes""
+170,@CNN,Fri Aug 17 13:10:59 +0000 2018,"President Trump says he canceled a military parade planned for Veterans Day weekend because of its ""ridiculously hi… https://t.co/n7a7grErpl",-0.34,0.124,0.876,0.0
+171,@CNN,Fri Aug 17 13:00:22 +0000 2018,Nigerian teens win Silicon Valley contest for app that spots fake drugs https://t.co/MHqVDe3h6v https://t.co/DldcOfONIU,0.1779,0.164,0.635,0.201
+172,@CNN,Fri Aug 17 12:48:07 +0000 2018,"A low-carb or high-carb diet raises your risk of death, a new study suggests https://t.co/zHcr0c3X1f",-0.7184,0.353,0.647,0.0
+173,@CNN,Fri Aug 17 12:36:21 +0000 2018,The University System of Maryland board of regents is meeting to discuss how campus officials handled the death of… https://t.co/nFHWaGLOls,-0.5994,0.17,0.83,0.0
+174,@CNN,Fri Aug 17 12:24:36 +0000 2018,A dozen former senior intelligence officials are denouncing President Trump's decision to revoke former CIA Directo… https://t.co/cVzotrrGvS,0.4767,0.0,0.829,0.171
+175,@CNN,Fri Aug 17 12:12:17 +0000 2018,"Google sought to reassure employees who are worried the company might compromise its values to get into China, foll… https://t.co/jOtBE1c7tu",0.4404,0.091,0.7,0.21
+176,@CNN,Fri Aug 17 11:59:55 +0000 2018,Why does alcohol give you the munchies? https://t.co/botNKOOBsQ https://t.co/uFS9mbj5x1,0.0,0.0,1.0,0.0
+177,@CNN,Fri Aug 17 11:48:36 +0000 2018,"A Massachusetts man has been indicted on 52 charges and is accused of raping, kidnapping and killing three women wh… https://t.co/X6RZtBmoMH",-0.926,0.458,0.542,0.0
+178,@CNN,Fri Aug 17 11:37:04 +0000 2018,Nearly 24 hours before Chris Watts was arrested in the disappearance of his pregnant wife and young daughters in Co… https://t.co/qazd6B1DB6,-0.4767,0.134,0.866,0.0
+179,@CNN,Fri Aug 17 11:25:48 +0000 2018,Why it's now cheaper than ever to fly across the Atlantic https://t.co/LdZmRkv4Gj https://t.co/FB0acaeDYi,0.0,0.0,1.0,0.0
+180,@CNN,Fri Aug 17 11:14:44 +0000 2018,"Malaysia has repealed a controversial anti-fake-news law, which was widely condemned for stifling free speech since… https://t.co/mumC0I8KEA",-0.1027,0.224,0.619,0.157
+181,@CNN,Fri Aug 17 11:04:02 +0000 2018,This is how China controls its currency https://t.co/VjvbUJL0Ge https://t.co/mSL22CbV7z,0.0,0.0,1.0,0.0
+182,@CNN,Fri Aug 17 10:54:02 +0000 2018,9 ski resorts to enjoy in summer https://t.co/Q2QjMPbYZM https://t.co/v9BhjXvaaW,0.4939,0.0,0.686,0.314
+183,@CNN,Fri Aug 17 10:44:05 +0000 2018,A Salvadoran woman has filed a federal lawsuit in Washington asking to be reunited with her infant daughter who nee… https://t.co/A0bpeDi7oD,-0.2263,0.095,0.905,0.0
+184,@CNN,Fri Aug 17 10:39:00 +0000 2018,"Did you know? Everyone has brown eyes, even if they appear blue or green https://t.co/3Q14GtlTAQ https://t.co/7mLUy8TCV7",0.0,0.0,1.0,0.0
+185,@CNN,Fri Aug 17 10:34:04 +0000 2018,Special counsel Robert Mueller's team has 3 times the evidence for Paul Manafort's next trial than his current tria… https://t.co/C2UXJWIZbg,0.4019,0.0,0.87,0.13
+186,@CNN,Fri Aug 17 10:24:04 +0000 2018,The Department of Defense says Trump's military parade originally scheduled for Veterans Day will be postponed https://t.co/aoMFrZLsLw,-0.0772,0.098,0.82,0.082
+187,@CNN,Fri Aug 17 10:11:24 +0000 2018,Serena Williams found out the man who killed her sister had been released from prison moments before suffering the… https://t.co/og4G3WdjCp,-0.8979,0.391,0.609,0.0
+188,@CNN,Fri Aug 17 10:04:02 +0000 2018,Former Trump lawyer Michael Cohen informed a representative for Stormy Daniels he was willing to strike a deal to b… https://t.co/CUWO7geddk,-0.128,0.077,0.923,0.0
+189,@CNN,Fri Aug 17 09:54:04 +0000 2018,"Republican campaigns, committees and outside groups have spent more than $1.7 million at Trump properties through t… https://t.co/Dph49w31YF",0.0,0.0,1.0,0.0
+190,@CNN,Fri Aug 17 09:44:05 +0000 2018,Just how many secret tapes does Omarosa actually have? | Analysis by Chris Cillizza https://t.co/jUuQIESZXX https://t.co/PBUJEHfVfO,0.0,0.0,1.0,0.0
+191,@CNN,Fri Aug 17 09:34:06 +0000 2018,"ISIS very much remains a threat and is ""well positioned"" to rebuild, despite being driven to only a few small towns… https://t.co/m20lCHAV8X",-0.3744,0.154,0.757,0.088
+192,@CNN,Fri Aug 17 09:24:03 +0000 2018,READ: The letter Omarosa Manigault Newman's publisher sent to the Trump campaign https://t.co/4lCTEW813U,0.0,0.0,1.0,0.0
+193,@CNN,Fri Aug 17 09:14:03 +0000 2018,"EXCLUSIVE: Omarosa Manigault Newman's publisher has responded to Trump's campaign's ""legal threats"" over her tell-a… https://t.co/QeJM18tkfZ",-0.0173,0.143,0.666,0.191
+194,@CNN,Fri Aug 17 09:04:05 +0000 2018,Secretary of State Mike Pompeo announced that the Trump administration is establishing an interagency task force ai… https://t.co/CbEDD5V5pz,0.0,0.0,1.0,0.0
+195,@CNN,Fri Aug 17 08:57:55 +0000 2018,"RT @cnnsport: ""It's a dark, dark road sometimes""
 
 Olympic swimming great @MichaelPhelps discusses his struggle with depression and how he h…",-0.2263,0.221,0.627,0.151
-98,@CNN,Fri Aug 17 08:54:03 +0000 2018,The architect of the bin Laden raid issues stunning rebuke of Trump's decision to revoke the security clearance of… https://t.co/0A2rZIXffb,0.6124,0.0,0.783,0.217
-99,@CNN,Fri Aug 17 08:44:04 +0000 2018,Omarosa releases recording of Lara Trump offering her a campaign gig https://t.co/Hjx9Zem98F https://t.co/7xqZgIWE5U,0.0,0.0,1.0,0.0
-100,@CNN,Fri Aug 17 08:34:05 +0000 2018,A body found at a New Mexico compound has been identified as a missing Georgia boy https://t.co/SWFmBcU1EJ https://t.co/nPAO6ACniu,-0.296,0.136,0.864,0.0
-101,@CNN,Fri Aug 17 08:24:05 +0000 2018,Could Elon Musk lose control of Tesla? https://t.co/UxBMV6ihem https://t.co/CTtiJGmbnH,-0.4019,0.252,0.748,0.0
-102,@CNN,Fri Aug 17 08:14:03 +0000 2018,The Vatican responded to a Pennsylvania grand jury report that detailed decades of sexual abuses by priests and cov… https://t.co/J5WhAeMr8C,-0.1531,0.153,0.72,0.127
-103,@CNN,Fri Aug 17 08:04:22 +0000 2018,It takes most hikers between 10 and 12 days to complete this trail. Meet the ultra-runner who did it in two:… https://t.co/UUIVN0a1RE,0.0,0.0,1.0,0.0
-104,@CNN,Fri Aug 17 07:54:06 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/kCshyEAQNx",0.0,0.0,1.0,0.0
-105,@CNN,Fri Aug 17 07:44:05 +0000 2018,The US Air Force is looking decades back in time to create a new uniform https://t.co/cycjVz715x https://t.co/Z3DhD1arct,0.2732,0.0,0.877,0.123
-106,@CNN,Fri Aug 17 07:34:02 +0000 2018,The US Food and Drug Administration announced the approval of the first generic version of EpiPen… https://t.co/in0VusR8J2,0.4767,0.0,0.838,0.162
-107,@CNN,Fri Aug 17 07:24:49 +0000 2018,"""They stole the most sacred thing that I had, and that was my Catholic Church."" 
+196,@CNN,Fri Aug 17 08:54:03 +0000 2018,The architect of the bin Laden raid issues stunning rebuke of Trump's decision to revoke the security clearance of… https://t.co/0A2rZIXffb,0.6124,0.0,0.783,0.217
+197,@CNN,Fri Aug 17 08:44:04 +0000 2018,Omarosa releases recording of Lara Trump offering her a campaign gig https://t.co/Hjx9Zem98F https://t.co/7xqZgIWE5U,0.0,0.0,1.0,0.0
+198,@CNN,Fri Aug 17 08:34:05 +0000 2018,A body found at a New Mexico compound has been identified as a missing Georgia boy https://t.co/SWFmBcU1EJ https://t.co/nPAO6ACniu,-0.296,0.136,0.864,0.0
+199,@CNN,Fri Aug 17 08:24:05 +0000 2018,Could Elon Musk lose control of Tesla? https://t.co/UxBMV6ihem https://t.co/CTtiJGmbnH,-0.4019,0.252,0.748,0.0
+200,@CNN,Fri Aug 17 08:14:03 +0000 2018,The Vatican responded to a Pennsylvania grand jury report that detailed decades of sexual abuses by priests and cov… https://t.co/J5WhAeMr8C,-0.1531,0.153,0.72,0.127
+201,@CNN,Fri Aug 17 08:04:22 +0000 2018,It takes most hikers between 10 and 12 days to complete this trail. Meet the ultra-runner who did it in two:… https://t.co/UUIVN0a1RE,0.0,0.0,1.0,0.0
+202,@CNN,Fri Aug 17 07:54:06 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/kCshyEAQNx",0.0,0.0,1.0,0.0
+203,@CNN,Fri Aug 17 07:44:05 +0000 2018,The US Air Force is looking decades back in time to create a new uniform https://t.co/cycjVz715x https://t.co/Z3DhD1arct,0.2732,0.0,0.877,0.123
+204,@CNN,Fri Aug 17 07:34:02 +0000 2018,The US Food and Drug Administration announced the approval of the first generic version of EpiPen… https://t.co/in0VusR8J2,0.4767,0.0,0.838,0.162
+205,@CNN,Fri Aug 17 07:24:49 +0000 2018,"""They stole the most sacred thing that I had, and that was my Catholic Church."" 
 
 A Pennsylvania survivor of priest… https://t.co/DduYY4hYo2",0.3612,0.0,0.878,0.122
-108,@CNN,Fri Aug 17 07:23:50 +0000 2018,New York City's recent decision to place a one-year cap on Uber and Lyft will hurt poor and minority riders and ent… https://t.co/iQgsaGP2E9,-0.7579,0.245,0.755,0.0
-109,@CNN,Fri Aug 17 07:20:03 +0000 2018,"A Massachusetts man has been indicted on 52 charges and is accused of raping, kidnapping and killing three women, w… https://t.co/rAIjwpMtb6",-0.926,0.458,0.542,0.0
-110,@CNN,Fri Aug 17 07:14:06 +0000 2018,"Paris has installed new open-air urinals, and they're...not exactly subtle https://t.co/PF0KrNbLDS https://t.co/qqtfSLGMbZ",0.0,0.0,1.0,0.0
-111,@CNN,Fri Aug 17 07:10:14 +0000 2018,"Elon Musk has said that ""this past year has been the most difficult and painful year of my career"" in an emotional… https://t.co/l1447iJxlm",-0.7146,0.221,0.779,0.0
-112,@CNN,Fri Aug 17 07:04:05 +0000 2018,A majority of Americans (55%) say they don't support the Trump administration's plans to establish a Space Force https://t.co/NC2PJ4d92N,-0.3089,0.124,0.876,0.0
-113,@CNN,Fri Aug 17 06:54:06 +0000 2018,"""For more than six decades...every time she sang, we were all graced with a glimpse of the divine""
+206,@CNN,Fri Aug 17 07:23:50 +0000 2018,New York City's recent decision to place a one-year cap on Uber and Lyft will hurt poor and minority riders and ent… https://t.co/iQgsaGP2E9,-0.7579,0.245,0.755,0.0
+207,@CNN,Fri Aug 17 07:20:03 +0000 2018,"A Massachusetts man has been indicted on 52 charges and is accused of raping, kidnapping and killing three women, w… https://t.co/rAIjwpMtb6",-0.926,0.458,0.542,0.0
+208,@CNN,Fri Aug 17 07:14:06 +0000 2018,"Paris has installed new open-air urinals, and they're...not exactly subtle https://t.co/PF0KrNbLDS https://t.co/qqtfSLGMbZ",0.0,0.0,1.0,0.0
+209,@CNN,Fri Aug 17 07:10:14 +0000 2018,"Elon Musk has said that ""this past year has been the most difficult and painful year of my career"" in an emotional… https://t.co/l1447iJxlm",-0.7146,0.221,0.779,0.0
+210,@CNN,Fri Aug 17 07:04:05 +0000 2018,A majority of Americans (55%) say they don't support the Trump administration's plans to establish a Space Force https://t.co/NC2PJ4d92N,-0.3089,0.124,0.876,0.0
+211,@CNN,Fri Aug 17 06:54:06 +0000 2018,"""For more than six decades...every time she sang, we were all graced with a glimpse of the divine""
 
 Read the Obamas… https://t.co/spBDZQGy4c",0.6705,0.0,0.776,0.224
-114,@CNN,Fri Aug 17 06:44:06 +0000 2018,This program is helping Kentucky's food stamp recipients find jobs https://t.co/Nd1Lh4QqKb,0.296,0.0,0.82,0.18
-115,@CNN,Fri Aug 17 06:36:27 +0000 2018,Anti-Semitism is so bad in Britain that some Jews are planning to leave https://t.co/TpIs18UwoG https://t.co/T7TyRyeF1n,-0.6899,0.304,0.696,0.0
-116,@CNN,Fri Aug 17 06:34:37 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/oj8M4gZgUM,-0.3182,0.126,0.874,0.0
-117,@CNN,Fri Aug 17 06:24:03 +0000 2018,"Life expectancy has dropped in the US and the UK, but risen in Australia, according to a new study https://t.co/lSyKnyJIL6",0.0,0.0,1.0,0.0
-118,@CNN,Fri Aug 17 06:14:04 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/fpluksu24s",0.431,0.0,0.863,0.137
-119,@CNN,Fri Aug 17 06:04:05 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/4tvT1A0C3Y",0.1779,0.253,0.506,0.241
-120,@CNN,Fri Aug 17 05:54:03 +0000 2018,Pennsylvania lawmakers are considering a bill that would eliminate the statute of limitations on child sex abuse ca… https://t.co/EAESJu7oMv,-0.6369,0.198,0.802,0.0
-121,@CNN,Fri Aug 17 05:44:06 +0000 2018,"Iranians vent anger at Trump as the wheels come off their economy: ""The price of an egg has doubled, and milk is ab… https://t.co/PDQGXl3bGS",-0.5719,0.139,0.861,0.0
-122,@CNN,Fri Aug 17 05:34:07 +0000 2018,"Unsafe levels of a weed killer chemical in oat products, report says https://t.co/llBXuyMgEI https://t.co/tqY5o8xS2i",-0.6486,0.264,0.736,0.0
-123,@CNN,Fri Aug 17 05:24:09 +0000 2018,"It was the perfect town to raise a family, until they learned about chemicals in the tap water… https://t.co/2WfQRxBghE",0.5719,0.0,0.821,0.179
-124,@CNN,Fri Aug 17 05:14:07 +0000 2018,9 extraordinary hotels to sleep in before you die https://t.co/MwMOayHy8l https://t.co/XgFyXGF7hq,-0.5994,0.302,0.698,0.0
-125,@CNN,Fri Aug 17 05:04:06 +0000 2018,Would Medicare-for-all be expensive? Yes. But it would be significantly less costly than our current dysfunctional… https://t.co/nyctZrfukd,0.1753,0.064,0.833,0.103
-126,@CNN,Fri Aug 17 04:54:07 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/CL1WwI2uqK,0.2263,0.0,0.826,0.174
-127,@CNN,Fri Aug 17 04:44:08 +0000 2018,Amateur golfer Ali Gibb hit three hole-in-ones on the same day https://t.co/r46Hl3GK0K,0.0,0.0,1.0,0.0
-128,@CNN,Fri Aug 17 04:34:05 +0000 2018,A Colorado man has been arrested after his pregnant wife and two young daughters disappeared this week… https://t.co/qF3LHqS7RX,-0.6124,0.25,0.75,0.0
-129,@CNN,Fri Aug 17 04:24:02 +0000 2018,Vegan diets may have major health benefits -- but those can be offset by deficiencies if the diet isn't managed car… https://t.co/XXxaW71yos,0.2023,0.0,0.921,0.079
-130,@CNN,Fri Aug 17 04:14:07 +0000 2018,China will become the first nation in the world to explore the dark side of the moon this year. Here's the rover it… https://t.co/rN7nO9PLPH,0.0,0.0,1.0,0.0
-131,@CNN,Fri Aug 17 04:04:02 +0000 2018,"Hundreds of thousands of additional vaccines intended for children have been found to be faulty, the Chinese govern… https://t.co/NPs7lgUpDf",-0.3182,0.113,0.887,0.0
-132,@CNN,Fri Aug 17 03:54:03 +0000 2018,A majority of Americans (55%) say they don't support the Trump administration's plans to establish a Space Force https://t.co/c2ueX3OThP,-0.3089,0.124,0.876,0.0
-133,@CNN,Fri Aug 17 03:44:04 +0000 2018,"More than 72,000 Americans died of drug overdoses in 2017, up nearly 7% from 2016, according to preliminary data fr… https://t.co/pBMv6z6iLW",-0.5574,0.153,0.847,0.0
-134,@CNN,Fri Aug 17 03:34:06 +0000 2018,British artist Lucy Sparrow's playful LA supermarket is stocked with felt fruit and veg https://t.co/zPsoC4FsAR https://t.co/QAkteGl5dE,0.4404,0.0,0.838,0.162
-135,@CNN,Fri Aug 17 03:24:02 +0000 2018,The Department of Defense says Trump's military parade originally scheduled for Veterans Day will be postponed https://t.co/n0nNypARY2,-0.0772,0.098,0.82,0.082
-136,@CNN,Fri Aug 17 03:14:08 +0000 2018,"China is actively developing its fleet of long-range bombers and ""likely"" training its pilots for missions targetin… https://t.co/4Iv3gE0VCx",0.3182,0.0,0.881,0.119
-137,@CNN,Fri Aug 17 03:08:06 +0000 2018,"Florida's toxic algae has killed fish, turtles, manatees and even a whale shark. And it's a health risk for humans,… https://t.co/hVo9eH6SL9",-0.765,0.28,0.72,0.0
-138,@CNN,Fri Aug 17 03:04:05 +0000 2018,The architect of the bin Laden raid issues stunning rebuke of Trump's decision to revoke the security clearance of… https://t.co/EmhUW5tFTh,0.6124,0.0,0.783,0.217
-139,@CNN,Fri Aug 17 03:00:55 +0000 2018,The US Food and Drug Administration has raised alarm about one way people might access opioids: their pets https://t.co/ZQag7mDMdm,-0.34,0.118,0.882,0.0
-140,@CNN,Fri Aug 17 02:54:05 +0000 2018,"Aretha Franklin, the Queen of Soul, 1942-2018:
+212,@CNN,Fri Aug 17 06:44:06 +0000 2018,This program is helping Kentucky's food stamp recipients find jobs https://t.co/Nd1Lh4QqKb,0.296,0.0,0.82,0.18
+213,@CNN,Fri Aug 17 06:36:27 +0000 2018,Anti-Semitism is so bad in Britain that some Jews are planning to leave https://t.co/TpIs18UwoG https://t.co/T7TyRyeF1n,-0.6899,0.304,0.696,0.0
+214,@CNN,Fri Aug 17 06:34:37 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/oj8M4gZgUM,-0.3182,0.126,0.874,0.0
+215,@CNN,Fri Aug 17 06:24:03 +0000 2018,"Life expectancy has dropped in the US and the UK, but risen in Australia, according to a new study https://t.co/lSyKnyJIL6",0.0,0.0,1.0,0.0
+216,@CNN,Fri Aug 17 06:14:04 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/fpluksu24s",0.431,0.0,0.863,0.137
+217,@CNN,Fri Aug 17 06:04:05 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/4tvT1A0C3Y",0.1779,0.253,0.506,0.241
+218,@CNN,Fri Aug 17 05:54:03 +0000 2018,Pennsylvania lawmakers are considering a bill that would eliminate the statute of limitations on child sex abuse ca… https://t.co/EAESJu7oMv,-0.6369,0.198,0.802,0.0
+219,@CNN,Fri Aug 17 05:44:06 +0000 2018,"Iranians vent anger at Trump as the wheels come off their economy: ""The price of an egg has doubled, and milk is ab… https://t.co/PDQGXl3bGS",-0.5719,0.139,0.861,0.0
+220,@CNN,Fri Aug 17 05:34:07 +0000 2018,"Unsafe levels of a weed killer chemical in oat products, report says https://t.co/llBXuyMgEI https://t.co/tqY5o8xS2i",-0.6486,0.264,0.736,0.0
+221,@CNN,Fri Aug 17 05:24:09 +0000 2018,"It was the perfect town to raise a family, until they learned about chemicals in the tap water… https://t.co/2WfQRxBghE",0.5719,0.0,0.821,0.179
+222,@CNN,Fri Aug 17 05:14:07 +0000 2018,9 extraordinary hotels to sleep in before you die https://t.co/MwMOayHy8l https://t.co/XgFyXGF7hq,-0.5994,0.302,0.698,0.0
+223,@CNN,Fri Aug 17 05:04:06 +0000 2018,Would Medicare-for-all be expensive? Yes. But it would be significantly less costly than our current dysfunctional… https://t.co/nyctZrfukd,0.1753,0.064,0.833,0.103
+224,@CNN,Fri Aug 17 04:54:07 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/CL1WwI2uqK,0.2263,0.0,0.826,0.174
+225,@CNN,Fri Aug 17 04:44:08 +0000 2018,Amateur golfer Ali Gibb hit three hole-in-ones on the same day https://t.co/r46Hl3GK0K,0.0,0.0,1.0,0.0
+226,@CNN,Fri Aug 17 04:34:05 +0000 2018,A Colorado man has been arrested after his pregnant wife and two young daughters disappeared this week… https://t.co/qF3LHqS7RX,-0.6124,0.25,0.75,0.0
+227,@CNN,Fri Aug 17 04:24:02 +0000 2018,Vegan diets may have major health benefits -- but those can be offset by deficiencies if the diet isn't managed car… https://t.co/XXxaW71yos,0.2023,0.0,0.921,0.079
+228,@CNN,Fri Aug 17 04:14:07 +0000 2018,China will become the first nation in the world to explore the dark side of the moon this year. Here's the rover it… https://t.co/rN7nO9PLPH,0.0,0.0,1.0,0.0
+229,@CNN,Fri Aug 17 04:04:02 +0000 2018,"Hundreds of thousands of additional vaccines intended for children have been found to be faulty, the Chinese govern… https://t.co/NPs7lgUpDf",-0.3182,0.113,0.887,0.0
+230,@CNN,Fri Aug 17 03:54:03 +0000 2018,A majority of Americans (55%) say they don't support the Trump administration's plans to establish a Space Force https://t.co/c2ueX3OThP,-0.3089,0.124,0.876,0.0
+231,@CNN,Fri Aug 17 03:44:04 +0000 2018,"More than 72,000 Americans died of drug overdoses in 2017, up nearly 7% from 2016, according to preliminary data fr… https://t.co/pBMv6z6iLW",-0.5574,0.153,0.847,0.0
+232,@CNN,Fri Aug 17 03:34:06 +0000 2018,British artist Lucy Sparrow's playful LA supermarket is stocked with felt fruit and veg https://t.co/zPsoC4FsAR https://t.co/QAkteGl5dE,0.4404,0.0,0.838,0.162
+233,@CNN,Fri Aug 17 03:24:02 +0000 2018,The Department of Defense says Trump's military parade originally scheduled for Veterans Day will be postponed https://t.co/n0nNypARY2,-0.0772,0.098,0.82,0.082
+234,@CNN,Fri Aug 17 03:14:08 +0000 2018,"China is actively developing its fleet of long-range bombers and ""likely"" training its pilots for missions targetin… https://t.co/4Iv3gE0VCx",0.3182,0.0,0.881,0.119
+235,@CNN,Fri Aug 17 03:08:06 +0000 2018,"Florida's toxic algae has killed fish, turtles, manatees and even a whale shark. And it's a health risk for humans,… https://t.co/hVo9eH6SL9",-0.765,0.28,0.72,0.0
+236,@CNN,Fri Aug 17 03:04:05 +0000 2018,The architect of the bin Laden raid issues stunning rebuke of Trump's decision to revoke the security clearance of… https://t.co/EmhUW5tFTh,0.6124,0.0,0.783,0.217
+237,@CNN,Fri Aug 17 03:00:55 +0000 2018,The US Food and Drug Administration has raised alarm about one way people might access opioids: their pets https://t.co/ZQag7mDMdm,-0.34,0.118,0.882,0.0
+238,@CNN,Fri Aug 17 02:54:05 +0000 2018,"Aretha Franklin, the Queen of Soul, 1942-2018:
 • First woman admitted to Rock and Roll Hall of Fame
 • Winner of 18… https://t.co/lymfJRBe6D",0.7964,0.0,0.69,0.31
-141,@CNN,Fri Aug 17 02:49:39 +0000 2018,"RT @CNNTonight: “Well done, my sister. Safe journey home, and I know you're going to be in the heavenly choir, and I hope to join you when…",0.9001,0.0,0.636,0.364
-142,@CNN,Fri Aug 17 02:44:04 +0000 2018,READ: The letter Omarosa Manigault Newman's publisher sent to the Trump campaign https://t.co/XJ8SmHseyN,0.0,0.0,1.0,0.0
-143,@CNN,Fri Aug 17 02:34:04 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/Aer9fzrI0B",0.0,0.0,1.0,0.0
-144,@CNN,Fri Aug 17 02:25:41 +0000 2018,"RT @CNNTonight: .@DonLemon: This country has lost one of our greatest treasures. Aretha Franklin. 
+239,@CNN,Fri Aug 17 02:49:39 +0000 2018,"RT @CNNTonight: “Well done, my sister. Safe journey home, and I know you're going to be in the heavenly choir, and I hope to join you when…",0.9001,0.0,0.636,0.364
+240,@CNN,Fri Aug 17 02:44:04 +0000 2018,READ: The letter Omarosa Manigault Newman's publisher sent to the Trump campaign https://t.co/XJ8SmHseyN,0.0,0.0,1.0,0.0
+241,@CNN,Fri Aug 17 02:34:04 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/Aer9fzrI0B",0.0,0.0,1.0,0.0
+242,@CNN,Fri Aug 17 02:25:41 +0000 2018,"RT @CNNTonight: .@DonLemon: This country has lost one of our greatest treasures. Aretha Franklin. 
 
 With a heart as big as her voice, and a…",0.6908,0.078,0.683,0.239
-145,@CNN,Fri Aug 17 02:24:06 +0000 2018,This is how China controls its currency https://t.co/NNEOO0fa1D https://t.co/155yfU0H25,0.0,0.0,1.0,0.0
-146,@CNN,Fri Aug 17 02:14:06 +0000 2018,Special counsel Robert Mueller's team has 3 times the evidence for Paul Manafort's next trial than his current tria… https://t.co/gotaxuI3Zn,0.4019,0.0,0.87,0.13
-147,@CNN,Fri Aug 17 02:04:04 +0000 2018,"Brett Kavanaugh's nomination to the Supreme Court has the lowest public support since Robert Bork in 1987, a new CN… https://t.co/0KMpxkCtb2",0.5719,0.1,0.656,0.243
-148,@CNN,Fri Aug 17 01:54:04 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/7G5ar7ZMdd",0.431,0.0,0.863,0.137
-149,@CNN,Fri Aug 17 01:44:07 +0000 2018,Nordstrom racks up a 23% jump in digital sales for the second quarter. The retailer says digital revenue now accoun… https://t.co/QPvPwgfNir,0.0,0.0,1.0,0.0
-150,@CNN,Fri Aug 17 01:34:18 +0000 2018,"RT @CuomoPrimeTime: ""The Earth lost a lot of music today and heaven must be excited because it has a new lead singer for the gospel choir.""…",0.5267,0.079,0.724,0.197
-151,@CNN,Fri Aug 17 01:34:06 +0000 2018,The US Food and Drug Administration announced the approval of the first generic version of EpiPen… https://t.co/lGdMOTeU7Y,0.4767,0.0,0.838,0.162
-152,@CNN,Fri Aug 17 01:24:07 +0000 2018,9 ski resorts to enjoy in summer https://t.co/bAWT7cgGfv https://t.co/SaF61HfXbe,0.4939,0.0,0.686,0.314
-153,@CNN,Fri Aug 17 01:14:03 +0000 2018,A Salvadoran woman has filed a federal lawsuit in Washington asking to be reunited with her infant daughter who nee… https://t.co/ZJWfdaJNb0,-0.2263,0.095,0.905,0.0
-154,@CNN,Fri Aug 17 01:04:05 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/BPiepSprvT",0.1779,0.253,0.506,0.241
-155,@CNN,Fri Aug 17 00:54:04 +0000 2018,A super PAC aligned with House Speaker Paul Ryan will drop nearly $10 million this month to attack Democrats in 14… https://t.co/faasS0AdEr,-0.0772,0.192,0.664,0.144
-156,@CNN,Fri Aug 17 00:44:04 +0000 2018,Special counsel Robert Mueller's team has 3 times the evidence for Paul Manafort's next trial than his current tria… https://t.co/k1BbUiMIAZ,0.4019,0.0,0.87,0.13
-157,@CNN,Fri Aug 17 00:36:38 +0000 2018,RT @AC360: Retired Lt. Gen. Mark Hertling tells CNN's @jimsciutto that if President Trump continues to strip security clearances from those…,0.34,0.0,0.893,0.107
-158,@CNN,Fri Aug 17 00:34:05 +0000 2018,"""Salute to the Queen."" 
+243,@CNN,Fri Aug 17 02:24:06 +0000 2018,This is how China controls its currency https://t.co/NNEOO0fa1D https://t.co/155yfU0H25,0.0,0.0,1.0,0.0
+244,@CNN,Fri Aug 17 02:14:06 +0000 2018,Special counsel Robert Mueller's team has 3 times the evidence for Paul Manafort's next trial than his current tria… https://t.co/gotaxuI3Zn,0.4019,0.0,0.87,0.13
+245,@CNN,Fri Aug 17 02:04:04 +0000 2018,"Brett Kavanaugh's nomination to the Supreme Court has the lowest public support since Robert Bork in 1987, a new CN… https://t.co/0KMpxkCtb2",0.5719,0.1,0.656,0.243
+246,@CNN,Fri Aug 17 01:54:04 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/7G5ar7ZMdd",0.431,0.0,0.863,0.137
+247,@CNN,Fri Aug 17 01:44:07 +0000 2018,Nordstrom racks up a 23% jump in digital sales for the second quarter. The retailer says digital revenue now accoun… https://t.co/QPvPwgfNir,0.0,0.0,1.0,0.0
+248,@CNN,Fri Aug 17 01:34:18 +0000 2018,"RT @CuomoPrimeTime: ""The Earth lost a lot of music today and heaven must be excited because it has a new lead singer for the gospel choir.""…",0.5267,0.079,0.724,0.197
+249,@CNN,Fri Aug 17 01:34:06 +0000 2018,The US Food and Drug Administration announced the approval of the first generic version of EpiPen… https://t.co/lGdMOTeU7Y,0.4767,0.0,0.838,0.162
+250,@CNN,Fri Aug 17 01:24:07 +0000 2018,9 ski resorts to enjoy in summer https://t.co/bAWT7cgGfv https://t.co/SaF61HfXbe,0.4939,0.0,0.686,0.314
+251,@CNN,Fri Aug 17 01:14:03 +0000 2018,A Salvadoran woman has filed a federal lawsuit in Washington asking to be reunited with her infant daughter who nee… https://t.co/ZJWfdaJNb0,-0.2263,0.095,0.905,0.0
+252,@CNN,Fri Aug 17 01:04:05 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/BPiepSprvT",0.1779,0.253,0.506,0.241
+253,@CNN,Fri Aug 17 00:54:04 +0000 2018,A super PAC aligned with House Speaker Paul Ryan will drop nearly $10 million this month to attack Democrats in 14… https://t.co/faasS0AdEr,-0.0772,0.192,0.664,0.144
+254,@CNN,Fri Aug 17 00:44:04 +0000 2018,Special counsel Robert Mueller's team has 3 times the evidence for Paul Manafort's next trial than his current tria… https://t.co/k1BbUiMIAZ,0.4019,0.0,0.87,0.13
+255,@CNN,Fri Aug 17 00:36:38 +0000 2018,RT @AC360: Retired Lt. Gen. Mark Hertling tells CNN's @jimsciutto that if President Trump continues to strip security clearances from those…,0.34,0.0,0.893,0.107
+256,@CNN,Fri Aug 17 00:34:05 +0000 2018,"""Salute to the Queen."" 
 
 Tributes to Aretha Franklin, who died Thursday after a battle with pancreatic cancer, are… https://t.co/bxVkPkZgPI",-0.891,0.414,0.586,0.0
-159,@CNN,Fri Aug 17 00:24:06 +0000 2018,The Department of Defense says Trump's military parade originally scheduled for Veterans Day will be postponed https://t.co/fF6AKnmbDG,-0.0772,0.098,0.82,0.082
-160,@CNN,Fri Aug 17 00:14:07 +0000 2018,"Of all the proposals spit out by the Trump administration, none baffles me more than the Space Force, writes CNN's… https://t.co/kkfYlvGULA",0.0,0.0,1.0,0.0
-161,@CNN,Fri Aug 17 00:04:04 +0000 2018,"The suspect in last month's hostage situation at a Trader Joe's faces additional charges, adding up to more than 50… https://t.co/cb3vWNBlXb",-0.5106,0.193,0.807,0.0
-162,@CNN,Thu Aug 16 23:54:04 +0000 2018,Trump's all-about-me approach is warping the presidency | By Frida Ghitis via @CNNOpinion  https://t.co/wAbF8o8nHP https://t.co/WZpdWK0ZX2,0.0,0.0,1.0,0.0
-163,@CNN,Thu Aug 16 23:44:01 +0000 2018,"The return of US sanctions on Iran has started to hit the country’s middle class, and ordinary Iranian families are… https://t.co/jDQypOGRk6",0.0,0.0,1.0,0.0
-164,@CNN,Thu Aug 16 23:34:07 +0000 2018,Former Trump lawyer Michael Cohen informed a representative for Stormy Daniels he was willing to strike a deal to b… https://t.co/BBQ4aXEjUp,-0.128,0.077,0.923,0.0
-165,@CNN,Thu Aug 16 23:24:06 +0000 2018,A Florida congressman has made three appearances on a radio show hosted by two people who regularly espouse fringe… https://t.co/IBAwk6UQJB,0.0,0.0,1.0,0.0
-166,@CNN,Thu Aug 16 23:14:05 +0000 2018,See the devastation of the Carr Fire | via @CNNVR https://t.co/Z7q16lxNPk https://t.co/TPp3LVLZij,-0.6369,0.366,0.634,0.0
-167,@CNN,Thu Aug 16 23:04:05 +0000 2018,"Republican campaigns, committees and outside groups have spent more than $1.7 million at Trump properties through t… https://t.co/8Q3FyJOPxt",0.0,0.0,1.0,0.0
-168,@CNN,Thu Aug 16 22:54:02 +0000 2018,Just how many secret tapes does Omarosa actually have? | Analysis by Chris Cillizza https://t.co/1ChN8xPGoq https://t.co/vjGgcrWMXe,0.0,0.0,1.0,0.0
-169,@CNN,Thu Aug 16 22:44:05 +0000 2018,"ISIS very much remains a threat and is ""well positioned"" to rebuild, despite being driven to only a few small towns… https://t.co/giYeFl3oMi",-0.3744,0.154,0.757,0.088
-170,@CNN,Thu Aug 16 22:34:02 +0000 2018,READ: The letter Omarosa Manigault Newman's publisher sent to the Trump campaign https://t.co/6bdXoH7oKM,0.0,0.0,1.0,0.0
-171,@CNN,Thu Aug 16 22:25:04 +0000 2018,"LIVE NOW: The Queen of Soul, Aretha Franklin, has died at age 76. Tonight, her longtime friend and Grammy winning g… https://t.co/HruwsFYTsH",0.4588,0.123,0.651,0.226
-172,@CNN,Thu Aug 16 22:22:05 +0000 2018,"Bebe Winans performed with Aretha Franklin during the 50th annual Grammy awards. Tonight, the award-winning gospel… https://t.co/rhfX1la8Gw",0.4588,0.0,0.842,0.158
-173,@CNN,Thu Aug 16 22:14:04 +0000 2018,"EXCLUSIVE: Omarosa Manigault Newman's publisher has responded to Trump's campaign's ""legal threats"" over her tell-a… https://t.co/JCNGyIDiwy",-0.0173,0.143,0.666,0.191
-174,@CNN,Thu Aug 16 22:04:06 +0000 2018,Secretary of State Mike Pompeo announced that the Trump administration is establishing an interagency task force ai… https://t.co/UBZUGEXX0l,0.0,0.0,1.0,0.0
-175,@CNN,Thu Aug 16 21:54:06 +0000 2018,The architect of the bin Laden raid issues stunning rebuke of Trump's decision to revoke the security clearance of… https://t.co/FUPSYIxRb1,0.6124,0.0,0.783,0.217
-176,@CNN,Thu Aug 16 21:45:23 +0000 2018,"RT @AC360: Bebe Winans performed with Aretha Franklin during the 50th annual Grammy awards. Tonight, the award-winning gospel singer shares…",0.4588,0.0,0.864,0.136
-177,@CNN,Thu Aug 16 21:37:57 +0000 2018,We’re outside the Apollo theater where they’ve changed the marquee in honor of Aretha Franklin. Fans gather outside… https://t.co/G2VSgeI2oR,0.4939,0.0,0.849,0.151
-178,@CNN,Thu Aug 16 21:34:05 +0000 2018,Omarosa releases recording of Lara Trump offering her a campaign gig https://t.co/Yx1E3AyAJw https://t.co/VJoVDxASKn,0.0,0.0,1.0,0.0
-179,@CNN,Thu Aug 16 21:24:08 +0000 2018,"This teacher battling cancer ran out of sick days, so school employees showered him with theirs… https://t.co/dgyJ7GnJyB",-0.8689,0.412,0.588,0.0
-180,@CNN,Thu Aug 16 21:14:03 +0000 2018,"Aretha Franklin, the Queen of Soul, 1942-2018:
+257,@CNN,Fri Aug 17 00:24:06 +0000 2018,The Department of Defense says Trump's military parade originally scheduled for Veterans Day will be postponed https://t.co/fF6AKnmbDG,-0.0772,0.098,0.82,0.082
+258,@CNN,Fri Aug 17 00:14:07 +0000 2018,"Of all the proposals spit out by the Trump administration, none baffles me more than the Space Force, writes CNN's… https://t.co/kkfYlvGULA",0.0,0.0,1.0,0.0
+259,@CNN,Fri Aug 17 00:04:04 +0000 2018,"The suspect in last month's hostage situation at a Trader Joe's faces additional charges, adding up to more than 50… https://t.co/cb3vWNBlXb",-0.5106,0.193,0.807,0.0
+260,@CNN,Thu Aug 16 23:54:04 +0000 2018,Trump's all-about-me approach is warping the presidency | By Frida Ghitis via @CNNOpinion  https://t.co/wAbF8o8nHP https://t.co/WZpdWK0ZX2,0.0,0.0,1.0,0.0
+261,@CNN,Thu Aug 16 23:44:01 +0000 2018,"The return of US sanctions on Iran has started to hit the country’s middle class, and ordinary Iranian families are… https://t.co/jDQypOGRk6",0.0,0.0,1.0,0.0
+262,@CNN,Thu Aug 16 23:34:07 +0000 2018,Former Trump lawyer Michael Cohen informed a representative for Stormy Daniels he was willing to strike a deal to b… https://t.co/BBQ4aXEjUp,-0.128,0.077,0.923,0.0
+263,@CNN,Thu Aug 16 23:24:06 +0000 2018,A Florida congressman has made three appearances on a radio show hosted by two people who regularly espouse fringe… https://t.co/IBAwk6UQJB,0.0,0.0,1.0,0.0
+264,@CNN,Thu Aug 16 23:14:05 +0000 2018,See the devastation of the Carr Fire | via @CNNVR https://t.co/Z7q16lxNPk https://t.co/TPp3LVLZij,-0.6369,0.366,0.634,0.0
+265,@CNN,Thu Aug 16 23:04:05 +0000 2018,"Republican campaigns, committees and outside groups have spent more than $1.7 million at Trump properties through t… https://t.co/8Q3FyJOPxt",0.0,0.0,1.0,0.0
+266,@CNN,Thu Aug 16 22:54:02 +0000 2018,Just how many secret tapes does Omarosa actually have? | Analysis by Chris Cillizza https://t.co/1ChN8xPGoq https://t.co/vjGgcrWMXe,0.0,0.0,1.0,0.0
+267,@CNN,Thu Aug 16 22:44:05 +0000 2018,"ISIS very much remains a threat and is ""well positioned"" to rebuild, despite being driven to only a few small towns… https://t.co/giYeFl3oMi",-0.3744,0.154,0.757,0.088
+268,@CNN,Thu Aug 16 22:34:02 +0000 2018,READ: The letter Omarosa Manigault Newman's publisher sent to the Trump campaign https://t.co/6bdXoH7oKM,0.0,0.0,1.0,0.0
+269,@CNN,Thu Aug 16 22:25:04 +0000 2018,"LIVE NOW: The Queen of Soul, Aretha Franklin, has died at age 76. Tonight, her longtime friend and Grammy winning g… https://t.co/HruwsFYTsH",0.4588,0.123,0.651,0.226
+270,@CNN,Thu Aug 16 22:22:05 +0000 2018,"Bebe Winans performed with Aretha Franklin during the 50th annual Grammy awards. Tonight, the award-winning gospel… https://t.co/rhfX1la8Gw",0.4588,0.0,0.842,0.158
+271,@CNN,Thu Aug 16 22:14:04 +0000 2018,"EXCLUSIVE: Omarosa Manigault Newman's publisher has responded to Trump's campaign's ""legal threats"" over her tell-a… https://t.co/JCNGyIDiwy",-0.0173,0.143,0.666,0.191
+272,@CNN,Thu Aug 16 22:04:06 +0000 2018,Secretary of State Mike Pompeo announced that the Trump administration is establishing an interagency task force ai… https://t.co/UBZUGEXX0l,0.0,0.0,1.0,0.0
+273,@CNN,Thu Aug 16 21:54:06 +0000 2018,The architect of the bin Laden raid issues stunning rebuke of Trump's decision to revoke the security clearance of… https://t.co/FUPSYIxRb1,0.6124,0.0,0.783,0.217
+274,@CNN,Thu Aug 16 21:45:23 +0000 2018,"RT @AC360: Bebe Winans performed with Aretha Franklin during the 50th annual Grammy awards. Tonight, the award-winning gospel singer shares…",0.4588,0.0,0.864,0.136
+275,@CNN,Thu Aug 16 21:37:57 +0000 2018,We’re outside the Apollo theater where they’ve changed the marquee in honor of Aretha Franklin. Fans gather outside… https://t.co/G2VSgeI2oR,0.4939,0.0,0.849,0.151
+276,@CNN,Thu Aug 16 21:34:05 +0000 2018,Omarosa releases recording of Lara Trump offering her a campaign gig https://t.co/Yx1E3AyAJw https://t.co/VJoVDxASKn,0.0,0.0,1.0,0.0
+277,@CNN,Thu Aug 16 21:24:08 +0000 2018,"This teacher battling cancer ran out of sick days, so school employees showered him with theirs… https://t.co/dgyJ7GnJyB",-0.8689,0.412,0.588,0.0
+278,@CNN,Thu Aug 16 21:14:03 +0000 2018,"Aretha Franklin, the Queen of Soul, 1942-2018:
 • First woman admitted to Rock and Roll Hall of Fame
 • Winner of 18… https://t.co/BS5urcPedU",0.7964,0.0,0.69,0.31
-181,@CNN,Thu Aug 16 21:04:03 +0000 2018,A body found at a New Mexico compound has been identified as a missing Georgia boy https://t.co/quvV5ktBzB https://t.co/UFeR5RkQts,-0.296,0.136,0.864,0.0
-182,@CNN,Thu Aug 16 20:54:50 +0000 2018,Could Elon Musk lose control of Tesla? https://t.co/D9jduay7lY https://t.co/lM84Y4eknx,-0.4019,0.252,0.748,0.0
-183,@CNN,Thu Aug 16 20:40:13 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/XeR5ehwBl7",0.431,0.0,0.863,0.137
-184,@CNN,Thu Aug 16 20:25:38 +0000 2018,About 350 newspapers across the US have at least one thing in common today: a statement supporting the free press a… https://t.co/I1YAdZ9aiD,0.7351,0.0,0.754,0.246
-185,@CNN,Thu Aug 16 20:16:50 +0000 2018,The Vatican responded to a Pennsylvania grand jury report that detailed decades of sexual abuses by priests and cov… https://t.co/QxBZJtyFQC,-0.1531,0.153,0.72,0.127
-186,@CNN,Thu Aug 16 20:12:04 +0000 2018,It takes most hikers between 10 and 12 days to complete this trail. Meet the ultra-runner who did it in two:… https://t.co/Pg62ICtkYU,0.0,0.0,1.0,0.0
-187,@CNN,Thu Aug 16 19:54:46 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/D8KyjtelGG",0.0,0.0,1.0,0.0
-188,@CNN,Thu Aug 16 19:44:09 +0000 2018,The US Air Force is looking decades back in time to create a new uniform https://t.co/QQ7nBNd9Zw https://t.co/F1t8y4Y1kC,0.2732,0.0,0.877,0.123
-189,@CNN,Thu Aug 16 19:33:19 +0000 2018,Now MoviePass is going to limit which movies you can see each day https://t.co/RF9A83TJPn,0.0,0.0,1.0,0.0
-190,@CNN,Thu Aug 16 19:25:45 +0000 2018,"BREAKING: Al Qaeda mastermind behind attempted Christmas Day ""underwear bomb"" may be dead, UN team says… https://t.co/DAy0NzWauj",-0.8176,0.333,0.667,0.0
-191,@CNN,Thu Aug 16 19:23:37 +0000 2018,"More than 72,000 Americans died of drug overdoses in 2017, up nearly 7% from 2016, according to preliminary data fr… https://t.co/RTYq0Icfvc",-0.5574,0.153,0.847,0.0
-192,@CNN,Thu Aug 16 19:13:40 +0000 2018,The US Food and Drug Administration announced the approval of the first generic version of EpiPen… https://t.co/zTafXhmYOC,0.4767,0.0,0.838,0.162
-193,@CNN,Thu Aug 16 18:58:37 +0000 2018,"""They stole the most sacred thing that I had, and that was my Catholic Church."" 
+279,@CNN,Thu Aug 16 21:04:03 +0000 2018,A body found at a New Mexico compound has been identified as a missing Georgia boy https://t.co/quvV5ktBzB https://t.co/UFeR5RkQts,-0.296,0.136,0.864,0.0
+280,@CNN,Thu Aug 16 20:54:50 +0000 2018,Could Elon Musk lose control of Tesla? https://t.co/D9jduay7lY https://t.co/lM84Y4eknx,-0.4019,0.252,0.748,0.0
+281,@CNN,Thu Aug 16 20:40:13 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/XeR5ehwBl7",0.431,0.0,0.863,0.137
+282,@CNN,Thu Aug 16 20:25:38 +0000 2018,About 350 newspapers across the US have at least one thing in common today: a statement supporting the free press a… https://t.co/I1YAdZ9aiD,0.7351,0.0,0.754,0.246
+283,@CNN,Thu Aug 16 20:16:50 +0000 2018,The Vatican responded to a Pennsylvania grand jury report that detailed decades of sexual abuses by priests and cov… https://t.co/QxBZJtyFQC,-0.1531,0.153,0.72,0.127
+284,@CNN,Thu Aug 16 20:12:04 +0000 2018,It takes most hikers between 10 and 12 days to complete this trail. Meet the ultra-runner who did it in two:… https://t.co/Pg62ICtkYU,0.0,0.0,1.0,0.0
+285,@CNN,Thu Aug 16 19:54:46 +0000 2018,"New York University will offer a scholarship that covers tuition to every new, current and future medical student… https://t.co/D8KyjtelGG",0.0,0.0,1.0,0.0
+286,@CNN,Thu Aug 16 19:44:09 +0000 2018,The US Air Force is looking decades back in time to create a new uniform https://t.co/QQ7nBNd9Zw https://t.co/F1t8y4Y1kC,0.2732,0.0,0.877,0.123
+287,@CNN,Thu Aug 16 19:33:19 +0000 2018,Now MoviePass is going to limit which movies you can see each day https://t.co/RF9A83TJPn,0.0,0.0,1.0,0.0
+288,@CNN,Thu Aug 16 19:25:45 +0000 2018,"BREAKING: Al Qaeda mastermind behind attempted Christmas Day ""underwear bomb"" may be dead, UN team says… https://t.co/DAy0NzWauj",-0.8176,0.333,0.667,0.0
+289,@CNN,Thu Aug 16 19:23:37 +0000 2018,"More than 72,000 Americans died of drug overdoses in 2017, up nearly 7% from 2016, according to preliminary data fr… https://t.co/RTYq0Icfvc",-0.5574,0.153,0.847,0.0
+290,@CNN,Thu Aug 16 19:13:40 +0000 2018,The US Food and Drug Administration announced the approval of the first generic version of EpiPen… https://t.co/zTafXhmYOC,0.4767,0.0,0.838,0.162
+291,@CNN,Thu Aug 16 18:58:37 +0000 2018,"""They stole the most sacred thing that I had, and that was my Catholic Church."" 
 
 A Pennsylvania survivor of priest… https://t.co/RpvaRxCjxl",0.3612,0.0,0.878,0.122
-194,@CNN,Thu Aug 16 18:43:21 +0000 2018,Fans flocked to the Hollywood Walk of Fame today to pay tribute to the late music legend Aretha Franklin… https://t.co/3nL1KrUMC5,0.3612,0.063,0.807,0.13
-195,@CNN,Thu Aug 16 18:29:24 +0000 2018,Chipotle will retrain its entire staff after customers got sick at an Ohio restaurant last month… https://t.co/6yUH4DoKPX,-0.5106,0.171,0.829,0.0
-196,@CNN,Thu Aug 16 18:15:19 +0000 2018,"In honor of National Aviation Day on Sunday, here's an innovation that might make you smile: Sleeping berths for pl… https://t.co/vmBwQafPkx",0.8074,0.0,0.684,0.316
-197,@CNN,Thu Aug 16 18:01:22 +0000 2018,Tesla has no chief operating officer. Here's why some financial experts say that's a big problem https://t.co/FgKnhZ52kI,-0.5994,0.259,0.741,0.0
-198,@CNN,Thu Aug 16 17:47:32 +0000 2018,"Paris has installed new open-air urinals, and they're...not exactly subtle https://t.co/I09dqigRk6 https://t.co/fgPMNKi2Rb",0.0,0.0,1.0,0.0
-199,@CNN,Thu Aug 16 17:45:00 +0000 2018,"Watch Aretha Franklin perform the hits that made her a star and earned her 18 Grammy awards. The ""Queen of Soul"" di… https://t.co/Q3zTV3r8Cx",0.4588,0.0,0.875,0.125
-200,@CNN,Thu Aug 16 17:36:53 +0000 2018,A majority of Americans (55%) say they don't support the Trump administration's plans to establish a Space Force https://t.co/8GrcOBxh4n,-0.3089,0.124,0.876,0.0
-201,@CNN,Thu Aug 16 17:22:16 +0000 2018,"Brett Kavanaugh's nomination to the Supreme Court has the lowest public support since Robert Bork in 1987, a new CN… https://t.co/W8IYooG7Wk",0.5719,0.1,0.656,0.243
-202,@CNN,Thu Aug 16 17:07:36 +0000 2018,"This Kansas paper endorsed Trump in the run-up to the 2016 election. But on Thursday, it joined nearly 350 other pu… https://t.co/qcJOEL8F3v",0.128,0.0,0.933,0.067
-203,@CNN,Thu Aug 16 16:53:20 +0000 2018,"""For more than six decades...every time she sang, we were all graced with a glimpse of the divine""
+292,@CNN,Thu Aug 16 18:43:21 +0000 2018,Fans flocked to the Hollywood Walk of Fame today to pay tribute to the late music legend Aretha Franklin… https://t.co/3nL1KrUMC5,0.3612,0.063,0.807,0.13
+293,@CNN,Thu Aug 16 18:29:24 +0000 2018,Chipotle will retrain its entire staff after customers got sick at an Ohio restaurant last month… https://t.co/6yUH4DoKPX,-0.5106,0.171,0.829,0.0
+294,@CNN,Thu Aug 16 18:15:19 +0000 2018,"In honor of National Aviation Day on Sunday, here's an innovation that might make you smile: Sleeping berths for pl… https://t.co/vmBwQafPkx",0.8074,0.0,0.684,0.316
+295,@CNN,Thu Aug 16 18:01:22 +0000 2018,Tesla has no chief operating officer. Here's why some financial experts say that's a big problem https://t.co/FgKnhZ52kI,-0.5994,0.259,0.741,0.0
+296,@CNN,Thu Aug 16 17:47:32 +0000 2018,"Paris has installed new open-air urinals, and they're...not exactly subtle https://t.co/I09dqigRk6 https://t.co/fgPMNKi2Rb",0.0,0.0,1.0,0.0
+297,@CNN,Thu Aug 16 17:45:00 +0000 2018,"Watch Aretha Franklin perform the hits that made her a star and earned her 18 Grammy awards. The ""Queen of Soul"" di… https://t.co/Q3zTV3r8Cx",0.4588,0.0,0.875,0.125
+298,@CNN,Thu Aug 16 17:36:53 +0000 2018,A majority of Americans (55%) say they don't support the Trump administration's plans to establish a Space Force https://t.co/8GrcOBxh4n,-0.3089,0.124,0.876,0.0
+299,@CNN,Thu Aug 16 17:22:16 +0000 2018,"Brett Kavanaugh's nomination to the Supreme Court has the lowest public support since Robert Bork in 1987, a new CN… https://t.co/W8IYooG7Wk",0.5719,0.1,0.656,0.243
+300,@CNN,Thu Aug 16 17:07:36 +0000 2018,"This Kansas paper endorsed Trump in the run-up to the 2016 election. But on Thursday, it joined nearly 350 other pu… https://t.co/qcJOEL8F3v",0.128,0.0,0.933,0.067
+301,@CNN,Thu Aug 16 16:53:20 +0000 2018,"""For more than six decades...every time she sang, we were all graced with a glimpse of the divine""
 
 Read the Obamas… https://t.co/IP1MPZfycp",0.6705,0.0,0.776,0.224
-204,@CNN,Thu Aug 16 16:40:45 +0000 2018,"Aretha Franklin, the Queen of Soul, 1942-2018:
+302,@CNN,Thu Aug 16 16:40:45 +0000 2018,"Aretha Franklin, the Queen of Soul, 1942-2018:
 • First woman admitted to Rock and Roll Hall of Fame
 • Winner of 18… https://t.co/F2WTizGH9Y",0.7964,0.0,0.69,0.31
-205,@CNN,Thu Aug 16 16:29:43 +0000 2018,"Romantic comedies haven't received a lot of love at the box office lately, but that could change this weekend with… https://t.co/YzIlbPSuDT",0.6486,0.0,0.73,0.27
-206,@CNN,Thu Aug 16 16:18:53 +0000 2018,This program is helping Kentucky's food stamp recipients find jobs https://t.co/P8Z8hlGPNc,0.296,0.0,0.82,0.18
-207,@CNN,Thu Aug 16 16:05:09 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/BEkiQgO90X,-0.3182,0.126,0.874,0.0
-208,@CNN,Thu Aug 16 15:53:01 +0000 2018,"""Salute to the Queen."" 
+303,@CNN,Thu Aug 16 16:29:43 +0000 2018,"Romantic comedies haven't received a lot of love at the box office lately, but that could change this weekend with… https://t.co/YzIlbPSuDT",0.6486,0.0,0.73,0.27
+304,@CNN,Thu Aug 16 16:18:53 +0000 2018,This program is helping Kentucky's food stamp recipients find jobs https://t.co/P8Z8hlGPNc,0.296,0.0,0.82,0.18
+305,@CNN,Thu Aug 16 16:05:09 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/BEkiQgO90X,-0.3182,0.126,0.874,0.0
+306,@CNN,Thu Aug 16 15:53:01 +0000 2018,"""Salute to the Queen."" 
 
 Tributes to Aretha Franklin, who died Thursday after a battle with pancreatic cancer, are… https://t.co/3GJTF75eJt",-0.891,0.414,0.586,0.0
-209,@CNN,Thu Aug 16 15:42:28 +0000 2018,"New York Gov. Andrew Cuomo says America ""was never that great"" https://t.co/pkjg2DTmAn https://t.co/H8VphxZcWE",-0.5096,0.215,0.785,0.0
-210,@CNN,Thu Aug 16 15:31:44 +0000 2018,"Two days after a highway bridge collapsed in northern Italy, experts are warning that thousands of other bridges in… https://t.co/ECeXSjSG31",-0.5423,0.209,0.791,0.0
-211,@CNN,Thu Aug 16 15:22:32 +0000 2018,Aretha Franklin was the first woman inducted into the Rock and Roll Hall of Fame https://t.co/Oh4Fz1mI4W https://t.co/zQHHnonCEJ,0.4404,0.0,0.847,0.153
-212,@CNN,Thu Aug 16 15:18:55 +0000 2018,"Life expectancy has dropped in the US and the UK, but risen in Australia, according to a new study https://t.co/xnWiJ9ICln",0.0,0.0,1.0,0.0
-213,@CNN,Thu Aug 16 15:13:30 +0000 2018,"RT @CNNnewsroom: ""We have lost a legend and a good person,"" says an emotional @donlemon, recalling his friendship with Aretha Franklin, who…",0.6249,0.089,0.623,0.288
-214,@CNN,Thu Aug 16 15:11:49 +0000 2018,Aretha Franklin's life in photos: https://t.co/SVzVEQyY8R,0.0,0.0,1.0,0.0
-215,@CNN,Thu Aug 16 15:06:12 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/04VA6REJ0t",0.431,0.0,0.863,0.137
-216,@CNN,Thu Aug 16 14:53:39 +0000 2018,"Aretha Franklin's gospel-rooted singing and bluesy yet expansive delivery earned her the title ""the Queen of Soul.""… https://t.co/uF5pi6XfjD",0.0,0.0,1.0,0.0
-217,@CNN,Thu Aug 16 14:45:00 +0000 2018,Aretha Franklin inspired generations with hits such as “Respect” and “Natural Woman” that stood as symbols of black… https://t.co/lTOcPY6qob,0.4939,0.0,0.849,0.151
-218,@CNN,Thu Aug 16 14:40:07 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/tr11I9a78x",0.1779,0.253,0.506,0.241
-219,@CNN,Thu Aug 16 14:25:15 +0000 2018,Pennsylvania lawmakers are considering a bill that would eliminate the statute of limitations on child sex abuse ca… https://t.co/qU5DR5KKDI,-0.6369,0.198,0.802,0.0
-220,@CNN,Thu Aug 16 14:14:57 +0000 2018,"BREAKING: Aretha Franklin, the Queen of Soul, is dead at 76 https://t.co/fKJt6IbIiq https://t.co/XTGZcHkb4d",-0.6486,0.264,0.736,0.0
-221,@CNN,Thu Aug 16 14:06:07 +0000 2018,"Iranians vent anger at Trump as the wheels come off their economy: ""The price of an egg has doubled, and milk is ab… https://t.co/Y8KilmxHZe",-0.5719,0.139,0.861,0.0
-222,@CNN,Thu Aug 16 13:54:50 +0000 2018,"German grocer Aldi is going after Whole Foods in the US, hoping a shift to trendy, natural foods will help grow its… https://t.co/Q3kpbmqMfS",0.7906,0.0,0.704,0.296
-223,@CNN,Thu Aug 16 13:45:00 +0000 2018,Get ready to scream: It's National Roller Coaster Day https://t.co/edfk0jCXbe https://t.co/ygjvJkQvgC,-0.0516,0.19,0.634,0.176
-224,@CNN,Thu Aug 16 13:43:28 +0000 2018,"Unsafe levels of a weed killer chemical in oat products, report says https://t.co/RHL776U3Ux https://t.co/iUBQwPeXCs",-0.6486,0.264,0.736,0.0
-225,@CNN,Thu Aug 16 13:32:19 +0000 2018,White House corrects Sarah Sanders after false claim about African American job numbers https://t.co/ONf9ZI7koH https://t.co/sVMF5UtY0g,0.0,0.0,1.0,0.0
-226,@CNN,Thu Aug 16 13:21:33 +0000 2018,"Former Director of National Intelligence James Clapper says Trump is retaliating against an ""enemies list"" in threa… https://t.co/L6dYKByncw",-0.0258,0.143,0.717,0.139
-227,@CNN,Thu Aug 16 13:10:56 +0000 2018,"It was the perfect town to raise a family, until they learned about chemicals in the tap water… https://t.co/noGlEwKve5",0.5719,0.0,0.821,0.179
-228,@CNN,Thu Aug 16 12:59:36 +0000 2018,About 350 newspapers across the US have at least one thing in common today: a statement supporting the free press a… https://t.co/DH3gj6U5Ft,0.7351,0.0,0.754,0.246
-229,@CNN,Thu Aug 16 12:49:19 +0000 2018,9 extraordinary hotels to sleep in before you die https://t.co/dRmF3Fidlq https://t.co/2Alnz9r715,-0.5994,0.302,0.698,0.0
-230,@CNN,Thu Aug 16 12:36:40 +0000 2018,Would Medicare-for-all be expensive? Yes. But it would be significantly less costly than our current dysfunctional… https://t.co/ze3t8rDgFX,0.1753,0.064,0.833,0.103
-231,@CNN,Thu Aug 16 12:26:16 +0000 2018,It's Madonna's 60th birthday. Here's how the ever-evolving Material Girl has always stayed in vogue #MadonnaAt60… https://t.co/fuWRfJLL9H,0.0,0.0,1.0,0.0
-232,@CNN,Thu Aug 16 12:13:51 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/iskRHgIEwm,0.2263,0.0,0.826,0.174
-233,@CNN,Thu Aug 16 12:01:27 +0000 2018,"This teacher battling cancer ran out of sick days, so school employees showered him with theirs… https://t.co/zshoHSrTjL",-0.8689,0.412,0.588,0.0
-234,@CNN,Thu Aug 16 11:49:48 +0000 2018,Amateur golfer Ali Gibb hit three hole-in-ones on the same day https://t.co/xJuytM59pS,0.0,0.0,1.0,0.0
-235,@CNN,Thu Aug 16 11:37:55 +0000 2018,A Colorado man has been arrested after his pregnant wife and two young daughters disappeared this week… https://t.co/HKxRkF5eyg,-0.6124,0.25,0.75,0.0
-236,@CNN,Thu Aug 16 11:25:48 +0000 2018,"In a blistering op-ed, former CIA Director John Brennan says his security clearance was revoked to ""scare into sile… https://t.co/V2CJiHHcLg",-0.2023,0.142,0.752,0.106
-237,@CNN,Thu Aug 16 11:09:16 +0000 2018,Vegan diets may have major health benefits -- but those can be offset by deficiencies if the diet isn't managed car… https://t.co/ejqeKWM0eW,0.2023,0.0,0.921,0.079
-238,@CNN,Thu Aug 16 11:01:42 +0000 2018,China will become the first nation in the world to explore the dark side of the moon this year. Here's the rover it… https://t.co/uJLaisB0qd,0.0,0.0,1.0,0.0
-239,@CNN,Thu Aug 16 10:54:56 +0000 2018,"Hundreds of thousands of additional vaccines intended for children have been found to be faulty, the Chinese govern… https://t.co/Aq1mjgwJxr",-0.3182,0.113,0.887,0.0
-240,@CNN,Thu Aug 16 10:46:27 +0000 2018,"About 350 newspapers in the United States will have editorials today telling Trump that the media is not the ""enemy… https://t.co/cFl683SceJ",0.4215,0.0,0.877,0.123
-241,@CNN,Thu Aug 16 10:41:39 +0000 2018,"Florida's toxic algae has killed fish, turtles, manatees and even a whale shark. And it's a health risk for humans,… https://t.co/FolqjTZSZV",-0.765,0.28,0.72,0.0
-242,@CNN,Thu Aug 16 10:34:54 +0000 2018,The US Food and Drug Administration has raised alarm about one way people might access opioids: their pets https://t.co/ugHGUDG2ux,-0.34,0.118,0.882,0.0
-243,@CNN,Thu Aug 16 10:28:15 +0000 2018,A brief history of Madonna's relationship with Catholicism https://t.co/DSwgRmfona #MadonnaAt60 https://t.co/Pix1vmnkXU,0.0,0.0,1.0,0.0
-244,@CNN,Thu Aug 16 10:22:06 +0000 2018,A lawsuit filed by ten current and former Tinder executives accuses former CEO Greg Blatt of groping and sexually h… https://t.co/MTOxQC6Rjt,-0.5106,0.193,0.807,0.0
-245,@CNN,Thu Aug 16 10:15:10 +0000 2018,Every teacher in this Kentucky school district was gifted $100 for school supplies by an anonymous donor… https://t.co/dkfxiRk4EP,0.0,0.0,1.0,0.0
-246,@CNN,Thu Aug 16 10:07:07 +0000 2018,The Colorado baker who became a national figure after he refused to bake a custom cake to celebrate the marriage of… https://t.co/14utQjpgYT,0.3612,0.092,0.753,0.155
-247,@CNN,Thu Aug 16 09:59:03 +0000 2018,"Coast to coast, and in between, local news is standing up to President Trump's press attacks https://t.co/DSNO5j3eOm https://t.co/UwHf9VBwHG",-0.4404,0.146,0.854,0.0
-248,@CNN,Thu Aug 16 09:52:06 +0000 2018,"Uber cuts its losses, and revenue soars 63% https://t.co/44CO2Qz2vb https://t.co/R5FLejwWYm",-0.6659,0.406,0.594,0.0
-249,@CNN,Thu Aug 16 09:50:58 +0000 2018,"RT @cnni: Severe flooding in the southern Indian state of Kerala has killed 67 people in the past week, and more heavy rain is forecast in…",-0.7964,0.228,0.772,0.0
-250,@CNN,Thu Aug 16 09:45:03 +0000 2018,Mark Zuckerberg's nonprofit is helping separated migrant families https://t.co/icgpZfJhY5 https://t.co/yV26YqBq7Y,0.296,0.0,0.804,0.196
-251,@CNN,Thu Aug 16 09:37:05 +0000 2018,Kansas newspaper goes from endorsing Trump to denouncing his attacks on the press https://t.co/K2whlDn32h https://t.co/bPrtZptoj9,-0.4404,0.172,0.828,0.0
-252,@CNN,Thu Aug 16 09:30:10 +0000 2018,More than 20 people overdosed in one New Haven park today https://t.co/YvYySqaLHy https://t.co/Pr0Sdhzfvl,0.0,0.0,1.0,0.0
-253,@CNN,Thu Aug 16 09:22:04 +0000 2018,Goldman Sachs says it's acting as a financial adviser to Tesla https://t.co/Z4mht7sgjo https://t.co/ApqjBxqWsL,0.0,0.0,1.0,0.0
-254,@CNN,Thu Aug 16 09:22:04 +0000 2018,A Colorado couple adopted a child from Peru. Now they are fighting to keep her from being deported.… https://t.co/sxDI0b8EgX,-0.3612,0.135,0.865,0.0
-255,@CNN,Thu Aug 16 09:15:06 +0000 2018,Corona owner makes $4 billion bet on cannabis https://t.co/d5q9oLcgBf https://t.co/f1NI8HqCl5,0.0,0.0,1.0,0.0
-256,@CNN,Thu Aug 16 09:07:08 +0000 2018,"NY Gov. Andrew Cuomo says America ""was never that great"" https://t.co/qQ5MhUaWaS https://t.co/cgZwMqcj0y",-0.5096,0.23,0.77,0.0
-257,@CNN,Thu Aug 16 08:59:06 +0000 2018,California wildfire threatens the oldest and tallest juniper tree in the US https://t.co/EGSsMzEwPR https://t.co/1l4F8LVlei,-0.3818,0.167,0.833,0.0
-258,@CNN,Thu Aug 16 08:52:03 +0000 2018,Big Oil is racing to pump all the oil out of Texas https://t.co/FDmjm0dk3I https://t.co/lBRODBfZVc,0.0,0.0,1.0,0.0
-259,@CNN,Thu Aug 16 08:44:06 +0000 2018,Read the letter Pennsylvania's attorney general sent Pope Francis about child sex abuse https://t.co/fRpHEfOO2W https://t.co/3wQ3UJMk0V,-0.6369,0.231,0.769,0.0
-260,@CNN,Thu Aug 16 08:37:03 +0000 2018,At least 107 measles cases have been confirmed across more than 20 states https://t.co/XKqAI4zlQd https://t.co/apLB1rMR4d,0.0,0.0,1.0,0.0
-261,@CNN,Thu Aug 16 08:30:08 +0000 2018,"White House will ""try to diversify"" staff, press secretary Sarah Sanders says https://t.co/jUVWxw7xLP https://t.co/CK8pQ2NGAV",0.0,0.0,1.0,0.0
-262,@CNN,Thu Aug 16 08:22:04 +0000 2018,School closes for two days after threats against 12-year-old transgender student https://t.co/7P7BtC3G7b,-0.4215,0.203,0.797,0.0
-263,@CNN,Thu Aug 16 08:15:08 +0000 2018,Priest abuse victims detail lifetime of trauma and broken trust https://t.co/DFr3TYmKha https://t.co/OPoOLNrmM1,-0.8442,0.546,0.308,0.145
-264,@CNN,Thu Aug 16 08:07:05 +0000 2018,RECALL ALERT: Westminster Pharmaceuticals is recalling certain batches of hypothyroid medications after one of its… https://t.co/Fyr0Rpb8Qe,0.6166,0.0,0.736,0.264
-265,@CNN,Thu Aug 16 07:52:04 +0000 2018,They moved to escape Florida's toxic algae slime. Now red tide has shut down their business. https://t.co/HYSEo2Oo2s https://t.co/dVpDLw1Dis,0.1779,0.0,0.909,0.091
-266,@CNN,Thu Aug 16 07:45:07 +0000 2018,What you need to know about ex-CIA chief John Brennan https://t.co/0PvKtegwPT https://t.co/a2E9DYv63c,0.0,0.0,1.0,0.0
-267,@CNN,Thu Aug 16 07:44:56 +0000 2018,"RT @cnni: Life after Cristiano Ronaldo? 
+307,@CNN,Thu Aug 16 15:42:28 +0000 2018,"New York Gov. Andrew Cuomo says America ""was never that great"" https://t.co/pkjg2DTmAn https://t.co/H8VphxZcWE",-0.5096,0.215,0.785,0.0
+308,@CNN,Thu Aug 16 15:31:44 +0000 2018,"Two days after a highway bridge collapsed in northern Italy, experts are warning that thousands of other bridges in… https://t.co/ECeXSjSG31",-0.5423,0.209,0.791,0.0
+309,@CNN,Thu Aug 16 15:22:32 +0000 2018,Aretha Franklin was the first woman inducted into the Rock and Roll Hall of Fame https://t.co/Oh4Fz1mI4W https://t.co/zQHHnonCEJ,0.4404,0.0,0.847,0.153
+310,@CNN,Thu Aug 16 15:18:55 +0000 2018,"Life expectancy has dropped in the US and the UK, but risen in Australia, according to a new study https://t.co/xnWiJ9ICln",0.0,0.0,1.0,0.0
+311,@CNN,Thu Aug 16 15:13:30 +0000 2018,"RT @CNNnewsroom: ""We have lost a legend and a good person,"" says an emotional @donlemon, recalling his friendship with Aretha Franklin, who…",0.6249,0.089,0.623,0.288
+312,@CNN,Thu Aug 16 15:11:49 +0000 2018,Aretha Franklin's life in photos: https://t.co/SVzVEQyY8R,0.0,0.0,1.0,0.0
+313,@CNN,Thu Aug 16 15:06:12 +0000 2018,"""We are not the enemy; We are the people:"" 16 must-read editorials from newspapers taking a collective stand agains… https://t.co/04VA6REJ0t",0.431,0.0,0.863,0.137
+314,@CNN,Thu Aug 16 14:53:39 +0000 2018,"Aretha Franklin's gospel-rooted singing and bluesy yet expansive delivery earned her the title ""the Queen of Soul.""… https://t.co/uF5pi6XfjD",0.0,0.0,1.0,0.0
+315,@CNN,Thu Aug 16 14:45:00 +0000 2018,Aretha Franklin inspired generations with hits such as “Respect” and “Natural Woman” that stood as symbols of black… https://t.co/lTOcPY6qob,0.4939,0.0,0.849,0.151
+316,@CNN,Thu Aug 16 14:40:07 +0000 2018,"Aretha Franklin's ""Respect"" was no coquettish plea—it was a warning shot by a strong black woman demanding better t… https://t.co/tr11I9a78x",0.1779,0.253,0.506,0.241
+317,@CNN,Thu Aug 16 14:25:15 +0000 2018,Pennsylvania lawmakers are considering a bill that would eliminate the statute of limitations on child sex abuse ca… https://t.co/qU5DR5KKDI,-0.6369,0.198,0.802,0.0
+318,@CNN,Thu Aug 16 14:14:57 +0000 2018,"BREAKING: Aretha Franklin, the Queen of Soul, is dead at 76 https://t.co/fKJt6IbIiq https://t.co/XTGZcHkb4d",-0.6486,0.264,0.736,0.0
+319,@CNN,Thu Aug 16 14:06:07 +0000 2018,"Iranians vent anger at Trump as the wheels come off their economy: ""The price of an egg has doubled, and milk is ab… https://t.co/Y8KilmxHZe",-0.5719,0.139,0.861,0.0
+320,@CNN,Thu Aug 16 13:54:50 +0000 2018,"German grocer Aldi is going after Whole Foods in the US, hoping a shift to trendy, natural foods will help grow its… https://t.co/Q3kpbmqMfS",0.7906,0.0,0.704,0.296
+321,@CNN,Thu Aug 16 13:45:00 +0000 2018,Get ready to scream: It's National Roller Coaster Day https://t.co/edfk0jCXbe https://t.co/ygjvJkQvgC,-0.0516,0.19,0.634,0.176
+322,@CNN,Thu Aug 16 13:43:28 +0000 2018,"Unsafe levels of a weed killer chemical in oat products, report says https://t.co/RHL776U3Ux https://t.co/iUBQwPeXCs",-0.6486,0.264,0.736,0.0
+323,@CNN,Thu Aug 16 13:32:19 +0000 2018,White House corrects Sarah Sanders after false claim about African American job numbers https://t.co/ONf9ZI7koH https://t.co/sVMF5UtY0g,0.0,0.0,1.0,0.0
+324,@CNN,Thu Aug 16 13:21:33 +0000 2018,"Former Director of National Intelligence James Clapper says Trump is retaliating against an ""enemies list"" in threa… https://t.co/L6dYKByncw",-0.0258,0.143,0.717,0.139
+325,@CNN,Thu Aug 16 13:10:56 +0000 2018,"It was the perfect town to raise a family, until they learned about chemicals in the tap water… https://t.co/noGlEwKve5",0.5719,0.0,0.821,0.179
+326,@CNN,Thu Aug 16 12:59:36 +0000 2018,About 350 newspapers across the US have at least one thing in common today: a statement supporting the free press a… https://t.co/DH3gj6U5Ft,0.7351,0.0,0.754,0.246
+327,@CNN,Thu Aug 16 12:49:19 +0000 2018,9 extraordinary hotels to sleep in before you die https://t.co/dRmF3Fidlq https://t.co/2Alnz9r715,-0.5994,0.302,0.698,0.0
+328,@CNN,Thu Aug 16 12:36:40 +0000 2018,Would Medicare-for-all be expensive? Yes. But it would be significantly less costly than our current dysfunctional… https://t.co/ze3t8rDgFX,0.1753,0.064,0.833,0.103
+329,@CNN,Thu Aug 16 12:26:16 +0000 2018,It's Madonna's 60th birthday. Here's how the ever-evolving Material Girl has always stayed in vogue #MadonnaAt60… https://t.co/fuWRfJLL9H,0.0,0.0,1.0,0.0
+330,@CNN,Thu Aug 16 12:13:51 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/iskRHgIEwm,0.2263,0.0,0.826,0.174
+331,@CNN,Thu Aug 16 12:01:27 +0000 2018,"This teacher battling cancer ran out of sick days, so school employees showered him with theirs… https://t.co/zshoHSrTjL",-0.8689,0.412,0.588,0.0
+332,@CNN,Thu Aug 16 11:49:48 +0000 2018,Amateur golfer Ali Gibb hit three hole-in-ones on the same day https://t.co/xJuytM59pS,0.0,0.0,1.0,0.0
+333,@CNN,Thu Aug 16 11:37:55 +0000 2018,A Colorado man has been arrested after his pregnant wife and two young daughters disappeared this week… https://t.co/HKxRkF5eyg,-0.6124,0.25,0.75,0.0
+334,@CNN,Thu Aug 16 11:25:48 +0000 2018,"In a blistering op-ed, former CIA Director John Brennan says his security clearance was revoked to ""scare into sile… https://t.co/V2CJiHHcLg",-0.2023,0.142,0.752,0.106
+335,@CNN,Thu Aug 16 11:09:16 +0000 2018,Vegan diets may have major health benefits -- but those can be offset by deficiencies if the diet isn't managed car… https://t.co/ejqeKWM0eW,0.2023,0.0,0.921,0.079
+336,@CNN,Thu Aug 16 11:01:42 +0000 2018,China will become the first nation in the world to explore the dark side of the moon this year. Here's the rover it… https://t.co/uJLaisB0qd,0.0,0.0,1.0,0.0
+337,@CNN,Thu Aug 16 10:54:56 +0000 2018,"Hundreds of thousands of additional vaccines intended for children have been found to be faulty, the Chinese govern… https://t.co/Aq1mjgwJxr",-0.3182,0.113,0.887,0.0
+338,@CNN,Thu Aug 16 10:46:27 +0000 2018,"About 350 newspapers in the United States will have editorials today telling Trump that the media is not the ""enemy… https://t.co/cFl683SceJ",0.4215,0.0,0.877,0.123
+339,@CNN,Thu Aug 16 10:41:39 +0000 2018,"Florida's toxic algae has killed fish, turtles, manatees and even a whale shark. And it's a health risk for humans,… https://t.co/FolqjTZSZV",-0.765,0.28,0.72,0.0
+340,@CNN,Thu Aug 16 10:34:54 +0000 2018,The US Food and Drug Administration has raised alarm about one way people might access opioids: their pets https://t.co/ugHGUDG2ux,-0.34,0.118,0.882,0.0
+341,@CNN,Thu Aug 16 10:28:15 +0000 2018,A brief history of Madonna's relationship with Catholicism https://t.co/DSwgRmfona #MadonnaAt60 https://t.co/Pix1vmnkXU,0.0,0.0,1.0,0.0
+342,@CNN,Thu Aug 16 10:22:06 +0000 2018,A lawsuit filed by ten current and former Tinder executives accuses former CEO Greg Blatt of groping and sexually h… https://t.co/MTOxQC6Rjt,-0.5106,0.193,0.807,0.0
+343,@CNN,Thu Aug 16 10:15:10 +0000 2018,Every teacher in this Kentucky school district was gifted $100 for school supplies by an anonymous donor… https://t.co/dkfxiRk4EP,0.0,0.0,1.0,0.0
+344,@CNN,Thu Aug 16 10:07:07 +0000 2018,The Colorado baker who became a national figure after he refused to bake a custom cake to celebrate the marriage of… https://t.co/14utQjpgYT,0.3612,0.092,0.753,0.155
+345,@CNN,Thu Aug 16 09:59:03 +0000 2018,"Coast to coast, and in between, local news is standing up to President Trump's press attacks https://t.co/DSNO5j3eOm https://t.co/UwHf9VBwHG",-0.4404,0.146,0.854,0.0
+346,@CNN,Thu Aug 16 09:52:06 +0000 2018,"Uber cuts its losses, and revenue soars 63% https://t.co/44CO2Qz2vb https://t.co/R5FLejwWYm",-0.6659,0.406,0.594,0.0
+347,@CNN,Thu Aug 16 09:50:58 +0000 2018,"RT @cnni: Severe flooding in the southern Indian state of Kerala has killed 67 people in the past week, and more heavy rain is forecast in…",-0.7964,0.228,0.772,0.0
+348,@CNN,Thu Aug 16 09:45:03 +0000 2018,Mark Zuckerberg's nonprofit is helping separated migrant families https://t.co/icgpZfJhY5 https://t.co/yV26YqBq7Y,0.296,0.0,0.804,0.196
+349,@CNN,Thu Aug 16 09:37:05 +0000 2018,Kansas newspaper goes from endorsing Trump to denouncing his attacks on the press https://t.co/K2whlDn32h https://t.co/bPrtZptoj9,-0.4404,0.172,0.828,0.0
+350,@CNN,Thu Aug 16 09:30:10 +0000 2018,More than 20 people overdosed in one New Haven park today https://t.co/YvYySqaLHy https://t.co/Pr0Sdhzfvl,0.0,0.0,1.0,0.0
+351,@CNN,Thu Aug 16 09:22:04 +0000 2018,Goldman Sachs says it's acting as a financial adviser to Tesla https://t.co/Z4mht7sgjo https://t.co/ApqjBxqWsL,0.0,0.0,1.0,0.0
+352,@CNN,Thu Aug 16 09:22:04 +0000 2018,A Colorado couple adopted a child from Peru. Now they are fighting to keep her from being deported.… https://t.co/sxDI0b8EgX,-0.3612,0.135,0.865,0.0
+353,@CNN,Thu Aug 16 09:15:06 +0000 2018,Corona owner makes $4 billion bet on cannabis https://t.co/d5q9oLcgBf https://t.co/f1NI8HqCl5,0.0,0.0,1.0,0.0
+354,@CNN,Thu Aug 16 09:07:08 +0000 2018,"NY Gov. Andrew Cuomo says America ""was never that great"" https://t.co/qQ5MhUaWaS https://t.co/cgZwMqcj0y",-0.5096,0.23,0.77,0.0
+355,@CNN,Thu Aug 16 08:59:06 +0000 2018,California wildfire threatens the oldest and tallest juniper tree in the US https://t.co/EGSsMzEwPR https://t.co/1l4F8LVlei,-0.3818,0.167,0.833,0.0
+356,@CNN,Thu Aug 16 08:52:03 +0000 2018,Big Oil is racing to pump all the oil out of Texas https://t.co/FDmjm0dk3I https://t.co/lBRODBfZVc,0.0,0.0,1.0,0.0
+357,@CNN,Thu Aug 16 08:44:06 +0000 2018,Read the letter Pennsylvania's attorney general sent Pope Francis about child sex abuse https://t.co/fRpHEfOO2W https://t.co/3wQ3UJMk0V,-0.6369,0.231,0.769,0.0
+358,@CNN,Thu Aug 16 08:37:03 +0000 2018,At least 107 measles cases have been confirmed across more than 20 states https://t.co/XKqAI4zlQd https://t.co/apLB1rMR4d,0.0,0.0,1.0,0.0
+359,@CNN,Thu Aug 16 08:30:08 +0000 2018,"White House will ""try to diversify"" staff, press secretary Sarah Sanders says https://t.co/jUVWxw7xLP https://t.co/CK8pQ2NGAV",0.0,0.0,1.0,0.0
+360,@CNN,Thu Aug 16 08:22:04 +0000 2018,School closes for two days after threats against 12-year-old transgender student https://t.co/7P7BtC3G7b,-0.4215,0.203,0.797,0.0
+361,@CNN,Thu Aug 16 08:15:08 +0000 2018,Priest abuse victims detail lifetime of trauma and broken trust https://t.co/DFr3TYmKha https://t.co/OPoOLNrmM1,-0.8442,0.546,0.308,0.145
+362,@CNN,Thu Aug 16 08:07:05 +0000 2018,RECALL ALERT: Westminster Pharmaceuticals is recalling certain batches of hypothyroid medications after one of its… https://t.co/Fyr0Rpb8Qe,0.6166,0.0,0.736,0.264
+363,@CNN,Thu Aug 16 07:52:04 +0000 2018,They moved to escape Florida's toxic algae slime. Now red tide has shut down their business. https://t.co/HYSEo2Oo2s https://t.co/dVpDLw1Dis,0.1779,0.0,0.909,0.091
+364,@CNN,Thu Aug 16 07:45:07 +0000 2018,What you need to know about ex-CIA chief John Brennan https://t.co/0PvKtegwPT https://t.co/a2E9DYv63c,0.0,0.0,1.0,0.0
+365,@CNN,Thu Aug 16 07:44:56 +0000 2018,"RT @cnni: Life after Cristiano Ronaldo? 
 
 Real Madrid beaten by Atletico Madrid 4-2 in an entertaining #SuperCup2018 match at the Lillekula…",0.0258,0.113,0.769,0.117
-268,@CNN,Thu Aug 16 07:37:51 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/U9GscTYOZr,-0.3182,0.126,0.874,0.0
-269,@CNN,Thu Aug 16 07:30:10 +0000 2018,At least 107 measles cases have been confirmed across more than 20 states https://t.co/z19h8v7vbm https://t.co/R5iaLaMbtr,0.0,0.0,1.0,0.0
-270,@CNN,Thu Aug 16 07:22:06 +0000 2018,Pressure is mounting on Pope Francis to address abuse cover-ups https://t.co/RGvKmetc3e https://t.co/PBUY9gaED9,-0.7506,0.39,0.61,0.0
-271,@CNN,Thu Aug 16 07:20:05 +0000 2018,This ultra hot planet is so hot it has vaporized metal in its atmosphere https://t.co/jfLsvcD7t8 https://t.co/xvtMeYDGs4,0.0,0.0,1.0,0.0
-272,@CNN,Thu Aug 16 07:15:03 +0000 2018,"Former NSA and CIA Director Michael Hayden, a CNN national security analyst, says the news that President Trump is… https://t.co/B2xg4O7Jpl",0.34,0.0,0.882,0.118
-273,@CNN,Thu Aug 16 07:12:05 +0000 2018,"The migrants, including two pregnant women and 67 unaccompanied minors will soon be sent to locations in France, Ge… https://t.co/k3Wd6XtKbZ",0.0,0.0,1.0,0.0
-274,@CNN,Thu Aug 16 07:07:07 +0000 2018,A contact lens was embedded in a woman's eyelid for 28 years https://t.co/ZNu6xjfERW https://t.co/YIjfn7OK3C,0.0,0.0,1.0,0.0
-275,@CNN,Thu Aug 16 07:00:39 +0000 2018,"""The larger issue here, to me, throughout, has been infringement on First Amendment rights."" Former Director of Nat… https://t.co/eeRXKCCf2r",-0.4767,0.147,0.853,0.0
-276,@CNN,Thu Aug 16 06:52:04 +0000 2018,"Priest abuse survivor slams Catholic Church's lack of 'morality': ""They're supposed to tell me the morality... What… https://t.co/rUS2g8AFln",-0.6124,0.271,0.625,0.104
-277,@CNN,Thu Aug 16 06:45:04 +0000 2018,Director of National Intelligence Dan Coats wasn't consulted on revoking the clearance of former CIA Director John… https://t.co/9hqG0Xdo37,0.4767,0.0,0.846,0.154
-278,@CNN,Thu Aug 16 06:22:05 +0000 2018,How Michael Avenatti helped a 9-year-old Guatemalan boy make it back to his mother https://t.co/JZoICf38mM https://t.co/ijF8Opvpfb,0.0,0.0,1.0,0.0
-279,@CNN,Thu Aug 16 06:15:46 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/pWndpyg6b7,-0.3182,0.126,0.874,0.0
-280,@CNN,Thu Aug 16 06:07:07 +0000 2018,Tiffany is remodeling to draw more Millennials https://t.co/i1yPXEnRnO https://t.co/yN8VmG9OVT,0.0,0.0,1.0,0.0
-281,@CNN,Thu Aug 16 06:00:15 +0000 2018,How Michael Avenatti helped a 9-year-old Guatemalan boy make it back to his mother https://t.co/GQP8JQl0hQ` https://t.co/VcFSRQPWih,0.0,0.0,1.0,0.0
-282,@CNN,Thu Aug 16 05:52:04 +0000 2018,How to design a school in the era of mass shootings https://t.co/G83hRHhTB8 https://t.co/NBKKZzHPhO,0.0,0.0,1.0,0.0
-283,@CNN,Thu Aug 16 05:45:05 +0000 2018,"Democrats now lead Republicans by 52% to 41% in a nationwide generic Congressional ballot, according to a new CNN p… https://t.co/zkt93bWoNi",0.0,0.0,1.0,0.0
-284,@CNN,Thu Aug 16 05:37:05 +0000 2018,"TV audiences for golf's major championships have swelled since Tiger Woods has returned to the fray, most recently… https://t.co/wx6JdsEBkq",0.4939,0.0,0.849,0.151
-285,@CNN,Thu Aug 16 05:32:07 +0000 2018,"A hiker who was missing for six days on Mount St. Helens survived by eating bees and berries, his mother says https://t.co/srwKrY61Cc",0.2732,0.09,0.776,0.135
-286,@CNN,Thu Aug 16 05:30:13 +0000 2018,The eerie abandoned Olympic venues of Beijing 2008 https://t.co/3vcmpxvUfp https://t.co/mf4kTEn4pu,-0.6705,0.407,0.593,0.0
-287,@CNN,Thu Aug 16 05:26:00 +0000 2018,"""I am desperately in need of $400 in order to save myself from starvation.""
+366,@CNN,Thu Aug 16 07:37:51 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/U9GscTYOZr,-0.3182,0.126,0.874,0.0
+367,@CNN,Thu Aug 16 07:30:10 +0000 2018,At least 107 measles cases have been confirmed across more than 20 states https://t.co/z19h8v7vbm https://t.co/R5iaLaMbtr,0.0,0.0,1.0,0.0
+368,@CNN,Thu Aug 16 07:22:06 +0000 2018,Pressure is mounting on Pope Francis to address abuse cover-ups https://t.co/RGvKmetc3e https://t.co/PBUY9gaED9,-0.7506,0.39,0.61,0.0
+369,@CNN,Thu Aug 16 07:20:05 +0000 2018,This ultra hot planet is so hot it has vaporized metal in its atmosphere https://t.co/jfLsvcD7t8 https://t.co/xvtMeYDGs4,0.0,0.0,1.0,0.0
+370,@CNN,Thu Aug 16 07:15:03 +0000 2018,"Former NSA and CIA Director Michael Hayden, a CNN national security analyst, says the news that President Trump is… https://t.co/B2xg4O7Jpl",0.34,0.0,0.882,0.118
+371,@CNN,Thu Aug 16 07:12:05 +0000 2018,"The migrants, including two pregnant women and 67 unaccompanied minors will soon be sent to locations in France, Ge… https://t.co/k3Wd6XtKbZ",0.0,0.0,1.0,0.0
+372,@CNN,Thu Aug 16 07:07:07 +0000 2018,A contact lens was embedded in a woman's eyelid for 28 years https://t.co/ZNu6xjfERW https://t.co/YIjfn7OK3C,0.0,0.0,1.0,0.0
+373,@CNN,Thu Aug 16 07:00:39 +0000 2018,"""The larger issue here, to me, throughout, has been infringement on First Amendment rights."" Former Director of Nat… https://t.co/eeRXKCCf2r",-0.4767,0.147,0.853,0.0
+374,@CNN,Thu Aug 16 06:52:04 +0000 2018,"Priest abuse survivor slams Catholic Church's lack of 'morality': ""They're supposed to tell me the morality... What… https://t.co/rUS2g8AFln",-0.6124,0.271,0.625,0.104
+375,@CNN,Thu Aug 16 06:45:04 +0000 2018,Director of National Intelligence Dan Coats wasn't consulted on revoking the clearance of former CIA Director John… https://t.co/9hqG0Xdo37,0.4767,0.0,0.846,0.154
+376,@CNN,Thu Aug 16 06:22:05 +0000 2018,How Michael Avenatti helped a 9-year-old Guatemalan boy make it back to his mother https://t.co/JZoICf38mM https://t.co/ijF8Opvpfb,0.0,0.0,1.0,0.0
+377,@CNN,Thu Aug 16 06:15:46 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/pWndpyg6b7,-0.3182,0.126,0.874,0.0
+378,@CNN,Thu Aug 16 06:07:07 +0000 2018,Tiffany is remodeling to draw more Millennials https://t.co/i1yPXEnRnO https://t.co/yN8VmG9OVT,0.0,0.0,1.0,0.0
+379,@CNN,Thu Aug 16 06:00:15 +0000 2018,How Michael Avenatti helped a 9-year-old Guatemalan boy make it back to his mother https://t.co/GQP8JQl0hQ` https://t.co/VcFSRQPWih,0.0,0.0,1.0,0.0
+380,@CNN,Thu Aug 16 05:52:04 +0000 2018,How to design a school in the era of mass shootings https://t.co/G83hRHhTB8 https://t.co/NBKKZzHPhO,0.0,0.0,1.0,0.0
+381,@CNN,Thu Aug 16 05:45:05 +0000 2018,"Democrats now lead Republicans by 52% to 41% in a nationwide generic Congressional ballot, according to a new CNN p… https://t.co/zkt93bWoNi",0.0,0.0,1.0,0.0
+382,@CNN,Thu Aug 16 05:37:05 +0000 2018,"TV audiences for golf's major championships have swelled since Tiger Woods has returned to the fray, most recently… https://t.co/wx6JdsEBkq",0.4939,0.0,0.849,0.151
+383,@CNN,Thu Aug 16 05:32:07 +0000 2018,"A hiker who was missing for six days on Mount St. Helens survived by eating bees and berries, his mother says https://t.co/srwKrY61Cc",0.2732,0.09,0.776,0.135
+384,@CNN,Thu Aug 16 05:30:13 +0000 2018,The eerie abandoned Olympic venues of Beijing 2008 https://t.co/3vcmpxvUfp https://t.co/mf4kTEn4pu,-0.6705,0.407,0.593,0.0
+385,@CNN,Thu Aug 16 05:26:00 +0000 2018,"""I am desperately in need of $400 in order to save myself from starvation.""
 
 This message, sent by one of the women… https://t.co/5SaGqhmShW",0.1531,0.097,0.784,0.119
-288,@CNN,Thu Aug 16 05:22:06 +0000 2018,A community devastated by a deadly wildfire in Northern California has a message for the couple whose trailer start… https://t.co/jyTt3UiVK5,-0.6124,0.2,0.8,0.0
-289,@CNN,Thu Aug 16 05:15:03 +0000 2018,"Georgia GOP Secretary of State Brian Kemp, a gubernatorial candidate, has been accused in a federal lawsuit of fail… https://t.co/156QCQ3Hjv",-0.4767,0.204,0.796,0.0
-290,@CNN,Thu Aug 16 05:07:06 +0000 2018,Violent crime is like infectious disease -- and we know how to stop it spreading | via @CNNhealth… https://t.co/qTodT5lnRT,-0.7964,0.368,0.536,0.096
-291,@CNN,Thu Aug 16 05:06:50 +0000 2018,"A 61-year-old man was attacked by a shark on Wednesday, on Cape Cod in Massachusetts https://t.co/Na1Teft87I",-0.4588,0.188,0.812,0.0
-292,@CNN,Thu Aug 16 05:00:18 +0000 2018,White House press secretary Sarah Sanders apologizes for false claim about African-American jobs… https://t.co/WsIelfnwCJ,0.3612,0.0,0.839,0.161
-293,@CNN,Thu Aug 16 04:58:21 +0000 2018,"Prosecutors are barred from calling Laquan McDonald, who was killed by a Chicago police officer, a ""victim"" at leas… https://t.co/vbR9ow1NxU",-0.6705,0.209,0.791,0.0
-294,@CNN,Thu Aug 16 04:56:33 +0000 2018,The US is preparing to extradite an Iraqi refugee from California wanted in his home country in connection with an… https://t.co/zNDyQ7KBrC,0.0,0.0,1.0,0.0
-295,@CNN,Thu Aug 16 04:52:05 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/emCUI3G5W1",-0.765,0.248,0.752,0.0
-296,@CNN,Thu Aug 16 04:51:03 +0000 2018,"JUST IN: A judge has chosen not to acquit two women charged with murdering Kim Jong Nam, the half-brother of North… https://t.co/C0HWyRWzzR",-0.7712,0.299,0.701,0.0
-297,@CNN,Thu Aug 16 04:45:06 +0000 2018,Stevie Wonder visits with Aretha Franklin as the legendary singer receives hospice care https://t.co/euBFuq5cLr https://t.co/LGx9MHelr8,0.4939,0.0,0.814,0.186
-298,@CNN,Thu Aug 16 04:37:03 +0000 2018,Nearly $500K disappeared from school cafeterias. Officials say the lunch ladies did it https://t.co/9NW0uWP8IV https://t.co/PssvnjI01o,-0.2263,0.119,0.881,0.0
-299,@CNN,Thu Aug 16 04:30:04 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/f8OBzjnmMb",-0.765,0.248,0.752,0.0
-300,@CNN,Thu Aug 16 04:23:04 +0000 2018,Autonomous vehicles are coming. Now comes the hard part. https://t.co/xeRqOQ3a2j https://t.co/DypS1vmu2d,-0.1027,0.123,0.877,0.0
-301,@CNN,Thu Aug 16 04:15:04 +0000 2018,John Lennon and Paul McCartney's kids are friends https://t.co/pt5ItcaFHf https://t.co/AYe9f4EKJk,0.4767,0.0,0.744,0.256
-302,@CNN,Thu Aug 16 04:10:06 +0000 2018,Film fans are familiar with Robert De Niro's Oscar-winning roles — but fewer people know that he is also an astute… https://t.co/YVzzsOhmat,0.0,0.0,1.0,0.0
-303,@CNN,Thu Aug 16 04:03:01 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/Ttzkr6EPRD,0.2263,0.0,0.826,0.174
-304,@CNN,Thu Aug 16 04:01:04 +0000 2018,It's Madonna's 60th birthday - here's how the ever-evolving Material Girl has always stayed in vogue #MadonnaAt60 https://t.co/JthVXsGVys,0.0,0.0,1.0,0.0
-305,@CNN,Thu Aug 16 04:00:14 +0000 2018,She was the 2016 National Teacher of the Year and now she's one step closer towards becoming Connecticut's first bl… https://t.co/s69HvOEG4H,0.0,0.0,1.0,0.0
-306,@CNN,Thu Aug 16 03:56:06 +0000 2018,"Trump and his media boosters live in a hall of mirrors, writes CNN's Brian Stelter https://t.co/a4XjaGDQea https://t.co/nHyRKQi7DZ",0.0,0.0,1.0,0.0
-307,@CNN,Thu Aug 16 03:49:10 +0000 2018,"A teacher battling cancer ran out of sick days, so school employees showered him with theirs https://t.co/JVvNKngk3Q https://t.co/UoBZHVk9Xr",-0.8689,0.412,0.588,0.0
-308,@CNN,Thu Aug 16 03:45:03 +0000 2018,White House press secretary Sarah Sanders apologizes for false claim about African-American jobs… https://t.co/vkHEi5pXM0,0.3612,0.0,0.839,0.161
-309,@CNN,Thu Aug 16 03:30:47 +0000 2018,RT @CuomoPrimeTime: James Clapper warns that President Trump could pull Special Counsel Robert Mueller's security clearance pretty easily:…,0.7845,0.059,0.591,0.35
-310,@CNN,Thu Aug 16 03:30:00 +0000 2018,The world's biggest human catapult flings you out over the mountains of New Zealand at nearly 62 miles an hour… https://t.co/DkeU6rcZ9U,0.0,0.0,1.0,0.0
-311,@CNN,Thu Aug 16 03:15:04 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/juFICmySHo",-0.765,0.248,0.752,0.0
-312,@CNN,Thu Aug 16 03:00:14 +0000 2018,The eerie abandoned Olympic venues of Beijing 2008 https://t.co/Qp2lSWBFlX https://t.co/pLohfeWZRf,-0.6705,0.407,0.593,0.0
-313,@CNN,Thu Aug 16 02:45:07 +0000 2018,"A twisting, tree-covered skyscraper in Melbourne is set to become Australia's tallest building… https://t.co/iHB3l9IMI7",0.0,0.0,1.0,0.0
-314,@CNN,Thu Aug 16 02:44:58 +0000 2018,"RT @CNNTonight: Former CIA official Phil Mudd says Pres. Trump revoking John Brennan's security clearance is ""about the message that says i…",0.34,0.0,0.897,0.103
-315,@CNN,Thu Aug 16 02:37:05 +0000 2018,Sen. John Kennedy defended President Trump's decision to revoke John Brennan's security clearance and called the fo… https://t.co/HQrdAYRwfe,0.34,0.0,0.876,0.124
-316,@CNN,Thu Aug 16 02:30:13 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/Fi7hhzHrNs,0.2263,0.0,0.826,0.174
-317,@CNN,Thu Aug 16 02:22:05 +0000 2018,Shark attacks swimmer on Cape Cod https://t.co/7KDFdPk6GI https://t.co/t36kbtyTV6,-0.4404,0.293,0.707,0.0
-318,@CNN,Thu Aug 16 02:15:09 +0000 2018,"A teacher battling cancer ran out of sick days, so school employees showered him with theirs https://t.co/SLnklWCCBd https://t.co/sKmZ5kTksP",-0.8689,0.412,0.588,0.0
-319,@CNN,Thu Aug 16 02:07:04 +0000 2018,"""Shame on you."" Rep. Brenda Lawrence offered a highly personal rebuke of President Trump for his public feud with f… https://t.co/uYjfYnFgwJ",-0.6705,0.234,0.766,0.0
-320,@CNN,Thu Aug 16 02:00:15 +0000 2018,"Georgia GOP Secretary of State Brian Kemp, a gubernatorial candidate, has been accused in a federal lawsuit of fail… https://t.co/x2sTOc2Fq6",-0.4767,0.204,0.796,0.0
-321,@CNN,Thu Aug 16 01:52:02 +0000 2018,A lawsuit filed by ten current and former Tinder executives accuses former CEO Greg Blatt of groping and sexually h… https://t.co/nI4VBaueZW,-0.5106,0.193,0.807,0.0
-322,@CNN,Thu Aug 16 01:45:04 +0000 2018,Twitter has suspended far-right conspiracy theorist Alex Jones from its platform for one week https://t.co/gCRq27DF1x,-0.7579,0.333,0.667,0.0
-323,@CNN,Thu Aug 16 01:00:09 +0000 2018,Every teacher in this Kentucky school district was gifted $100 for school supplies by an anonymous donor… https://t.co/esYNrhIiLT,0.0,0.0,1.0,0.0
-324,@CNN,Thu Aug 16 00:45:09 +0000 2018,The Colorado baker who became a national figure after he refused to bake a custom cake to celebrate the marriage of… https://t.co/RYr9LsEJr5,0.3612,0.092,0.753,0.155
-325,@CNN,Thu Aug 16 00:38:35 +0000 2018,RT @AC360: “The White House just messaged the entire American intelligence community ––if you stand up and say things that upset the Presid…,0.128,0.097,0.787,0.116
-326,@CNN,Thu Aug 16 00:30:07 +0000 2018,"The 2018 election is going to be a wave for Democrats, writes Chris Cillizza. The only questions are how big — and… https://t.co/MrMb80MaOC",0.0,0.0,1.0,0.0
-327,@CNN,Thu Aug 16 00:15:07 +0000 2018,"Resting spot for scores of WWII sailors, stern of ship found near Alaska https://t.co/jslrMUnaTm https://t.co/4XYMmWVhMD",0.0,0.0,1.0,0.0
-328,@CNN,Thu Aug 16 00:09:20 +0000 2018,"RT @OutFrontCNN: ""Regardless of your points about slavery, which are nonsense. I hope that you RIP those talking points tonight, they shoul…",-0.6808,0.264,0.634,0.102
-329,@CNN,Thu Aug 16 00:00:07 +0000 2018,"Coast to coast, and in between, local news is standing up to President Trump's press attacks https://t.co/9rG19b1PMC https://t.co/n9DceKteb4",-0.4404,0.146,0.854,0.0
-330,@CNN,Wed Aug 15 23:45:08 +0000 2018,"Uber cuts its losses, and revenue soars 63% https://t.co/93RRtJbonM https://t.co/AIC7BhLkdZ",-0.6659,0.406,0.594,0.0
-331,@CNN,Wed Aug 15 23:30:04 +0000 2018,Two women accused of murdering the half-brother of North Korean leader Kim Jong Un could walk free if a judge decid… https://t.co/Tyf4L8aNac,-0.4939,0.234,0.647,0.119
-332,@CNN,Wed Aug 15 23:15:07 +0000 2018,A former US House candidate in California says his campaign to unseat Republican Rep. Dana Rohrabacher was hacked… https://t.co/L5KCH0a3f7,0.0,0.0,1.0,0.0
-333,@CNN,Wed Aug 15 23:00:08 +0000 2018,A Colorado couple adopted a child from Peru. Now they are fighting to keep her from being deported.… https://t.co/FK6E9ySe7D,-0.3612,0.135,0.865,0.0
-334,@CNN,Wed Aug 15 22:53:04 +0000 2018,Sex abuse scandal saps trust in the church but not in Catholic teaching https://t.co/khZLNzqNar (via @CNNOpinion) https://t.co/0N09PGXOmv,-0.34,0.22,0.676,0.104
-335,@CNN,Wed Aug 15 22:47:17 +0000 2018,"""My children, I couldn't hold or hug.""
+386,@CNN,Thu Aug 16 05:22:06 +0000 2018,A community devastated by a deadly wildfire in Northern California has a message for the couple whose trailer start… https://t.co/jyTt3UiVK5,-0.6124,0.2,0.8,0.0
+387,@CNN,Thu Aug 16 05:15:03 +0000 2018,"Georgia GOP Secretary of State Brian Kemp, a gubernatorial candidate, has been accused in a federal lawsuit of fail… https://t.co/156QCQ3Hjv",-0.4767,0.204,0.796,0.0
+388,@CNN,Thu Aug 16 05:07:06 +0000 2018,Violent crime is like infectious disease -- and we know how to stop it spreading | via @CNNhealth… https://t.co/qTodT5lnRT,-0.7964,0.368,0.536,0.096
+389,@CNN,Thu Aug 16 05:06:50 +0000 2018,"A 61-year-old man was attacked by a shark on Wednesday, on Cape Cod in Massachusetts https://t.co/Na1Teft87I",-0.4588,0.188,0.812,0.0
+390,@CNN,Thu Aug 16 05:00:18 +0000 2018,White House press secretary Sarah Sanders apologizes for false claim about African-American jobs… https://t.co/WsIelfnwCJ,0.3612,0.0,0.839,0.161
+391,@CNN,Thu Aug 16 04:58:21 +0000 2018,"Prosecutors are barred from calling Laquan McDonald, who was killed by a Chicago police officer, a ""victim"" at leas… https://t.co/vbR9ow1NxU",-0.6705,0.209,0.791,0.0
+392,@CNN,Thu Aug 16 04:56:33 +0000 2018,The US is preparing to extradite an Iraqi refugee from California wanted in his home country in connection with an… https://t.co/zNDyQ7KBrC,0.0,0.0,1.0,0.0
+393,@CNN,Thu Aug 16 04:52:05 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/emCUI3G5W1",-0.765,0.248,0.752,0.0
+394,@CNN,Thu Aug 16 04:51:03 +0000 2018,"JUST IN: A judge has chosen not to acquit two women charged with murdering Kim Jong Nam, the half-brother of North… https://t.co/C0HWyRWzzR",-0.7712,0.299,0.701,0.0
+395,@CNN,Thu Aug 16 04:45:06 +0000 2018,Stevie Wonder visits with Aretha Franklin as the legendary singer receives hospice care https://t.co/euBFuq5cLr https://t.co/LGx9MHelr8,0.4939,0.0,0.814,0.186
+396,@CNN,Thu Aug 16 04:37:03 +0000 2018,Nearly $500K disappeared from school cafeterias. Officials say the lunch ladies did it https://t.co/9NW0uWP8IV https://t.co/PssvnjI01o,-0.2263,0.119,0.881,0.0
+397,@CNN,Thu Aug 16 04:30:04 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/f8OBzjnmMb",-0.765,0.248,0.752,0.0
+398,@CNN,Thu Aug 16 04:23:04 +0000 2018,Autonomous vehicles are coming. Now comes the hard part. https://t.co/xeRqOQ3a2j https://t.co/DypS1vmu2d,-0.1027,0.123,0.877,0.0
+399,@CNN,Thu Aug 16 04:15:04 +0000 2018,John Lennon and Paul McCartney's kids are friends https://t.co/pt5ItcaFHf https://t.co/AYe9f4EKJk,0.4767,0.0,0.744,0.256
+400,@CNN,Thu Aug 16 04:10:06 +0000 2018,Film fans are familiar with Robert De Niro's Oscar-winning roles — but fewer people know that he is also an astute… https://t.co/YVzzsOhmat,0.0,0.0,1.0,0.0
+401,@CNN,Thu Aug 16 04:03:01 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/Ttzkr6EPRD,0.2263,0.0,0.826,0.174
+402,@CNN,Thu Aug 16 04:01:04 +0000 2018,It's Madonna's 60th birthday - here's how the ever-evolving Material Girl has always stayed in vogue #MadonnaAt60 https://t.co/JthVXsGVys,0.0,0.0,1.0,0.0
+403,@CNN,Thu Aug 16 04:00:14 +0000 2018,She was the 2016 National Teacher of the Year and now she's one step closer towards becoming Connecticut's first bl… https://t.co/s69HvOEG4H,0.0,0.0,1.0,0.0
+404,@CNN,Thu Aug 16 03:56:06 +0000 2018,"Trump and his media boosters live in a hall of mirrors, writes CNN's Brian Stelter https://t.co/a4XjaGDQea https://t.co/nHyRKQi7DZ",0.0,0.0,1.0,0.0
+405,@CNN,Thu Aug 16 03:49:10 +0000 2018,"A teacher battling cancer ran out of sick days, so school employees showered him with theirs https://t.co/JVvNKngk3Q https://t.co/UoBZHVk9Xr",-0.8689,0.412,0.588,0.0
+406,@CNN,Thu Aug 16 03:45:03 +0000 2018,White House press secretary Sarah Sanders apologizes for false claim about African-American jobs… https://t.co/vkHEi5pXM0,0.3612,0.0,0.839,0.161
+407,@CNN,Thu Aug 16 03:30:47 +0000 2018,RT @CuomoPrimeTime: James Clapper warns that President Trump could pull Special Counsel Robert Mueller's security clearance pretty easily:…,0.7845,0.059,0.591,0.35
+408,@CNN,Thu Aug 16 03:30:00 +0000 2018,The world's biggest human catapult flings you out over the mountains of New Zealand at nearly 62 miles an hour… https://t.co/DkeU6rcZ9U,0.0,0.0,1.0,0.0
+409,@CNN,Thu Aug 16 03:15:04 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/juFICmySHo",-0.765,0.248,0.752,0.0
+410,@CNN,Thu Aug 16 03:00:14 +0000 2018,The eerie abandoned Olympic venues of Beijing 2008 https://t.co/Qp2lSWBFlX https://t.co/pLohfeWZRf,-0.6705,0.407,0.593,0.0
+411,@CNN,Thu Aug 16 02:45:07 +0000 2018,"A twisting, tree-covered skyscraper in Melbourne is set to become Australia's tallest building… https://t.co/iHB3l9IMI7",0.0,0.0,1.0,0.0
+412,@CNN,Thu Aug 16 02:44:58 +0000 2018,"RT @CNNTonight: Former CIA official Phil Mudd says Pres. Trump revoking John Brennan's security clearance is ""about the message that says i…",0.34,0.0,0.897,0.103
+413,@CNN,Thu Aug 16 02:37:05 +0000 2018,Sen. John Kennedy defended President Trump's decision to revoke John Brennan's security clearance and called the fo… https://t.co/HQrdAYRwfe,0.34,0.0,0.876,0.124
+414,@CNN,Thu Aug 16 02:30:13 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/Fi7hhzHrNs,0.2263,0.0,0.826,0.174
+415,@CNN,Thu Aug 16 02:22:05 +0000 2018,Shark attacks swimmer on Cape Cod https://t.co/7KDFdPk6GI https://t.co/t36kbtyTV6,-0.4404,0.293,0.707,0.0
+416,@CNN,Thu Aug 16 02:15:09 +0000 2018,"A teacher battling cancer ran out of sick days, so school employees showered him with theirs https://t.co/SLnklWCCBd https://t.co/sKmZ5kTksP",-0.8689,0.412,0.588,0.0
+417,@CNN,Thu Aug 16 02:07:04 +0000 2018,"""Shame on you."" Rep. Brenda Lawrence offered a highly personal rebuke of President Trump for his public feud with f… https://t.co/uYjfYnFgwJ",-0.6705,0.234,0.766,0.0
+418,@CNN,Thu Aug 16 02:00:15 +0000 2018,"Georgia GOP Secretary of State Brian Kemp, a gubernatorial candidate, has been accused in a federal lawsuit of fail… https://t.co/x2sTOc2Fq6",-0.4767,0.204,0.796,0.0
+419,@CNN,Thu Aug 16 01:52:02 +0000 2018,A lawsuit filed by ten current and former Tinder executives accuses former CEO Greg Blatt of groping and sexually h… https://t.co/nI4VBaueZW,-0.5106,0.193,0.807,0.0
+420,@CNN,Thu Aug 16 01:45:04 +0000 2018,Twitter has suspended far-right conspiracy theorist Alex Jones from its platform for one week https://t.co/gCRq27DF1x,-0.7579,0.333,0.667,0.0
+421,@CNN,Thu Aug 16 01:00:09 +0000 2018,Every teacher in this Kentucky school district was gifted $100 for school supplies by an anonymous donor… https://t.co/esYNrhIiLT,0.0,0.0,1.0,0.0
+422,@CNN,Thu Aug 16 00:45:09 +0000 2018,The Colorado baker who became a national figure after he refused to bake a custom cake to celebrate the marriage of… https://t.co/RYr9LsEJr5,0.3612,0.092,0.753,0.155
+423,@CNN,Thu Aug 16 00:38:35 +0000 2018,RT @AC360: “The White House just messaged the entire American intelligence community ––if you stand up and say things that upset the Presid…,0.128,0.097,0.787,0.116
+424,@CNN,Thu Aug 16 00:30:07 +0000 2018,"The 2018 election is going to be a wave for Democrats, writes Chris Cillizza. The only questions are how big — and… https://t.co/MrMb80MaOC",0.0,0.0,1.0,0.0
+425,@CNN,Thu Aug 16 00:15:07 +0000 2018,"Resting spot for scores of WWII sailors, stern of ship found near Alaska https://t.co/jslrMUnaTm https://t.co/4XYMmWVhMD",0.0,0.0,1.0,0.0
+426,@CNN,Thu Aug 16 00:09:20 +0000 2018,"RT @OutFrontCNN: ""Regardless of your points about slavery, which are nonsense. I hope that you RIP those talking points tonight, they shoul…",-0.6808,0.264,0.634,0.102
+427,@CNN,Thu Aug 16 00:00:07 +0000 2018,"Coast to coast, and in between, local news is standing up to President Trump's press attacks https://t.co/9rG19b1PMC https://t.co/n9DceKteb4",-0.4404,0.146,0.854,0.0
+428,@CNN,Wed Aug 15 23:45:08 +0000 2018,"Uber cuts its losses, and revenue soars 63% https://t.co/93RRtJbonM https://t.co/AIC7BhLkdZ",-0.6659,0.406,0.594,0.0
+429,@CNN,Wed Aug 15 23:30:04 +0000 2018,Two women accused of murdering the half-brother of North Korean leader Kim Jong Un could walk free if a judge decid… https://t.co/Tyf4L8aNac,-0.4939,0.234,0.647,0.119
+430,@CNN,Wed Aug 15 23:15:07 +0000 2018,A former US House candidate in California says his campaign to unseat Republican Rep. Dana Rohrabacher was hacked… https://t.co/L5KCH0a3f7,0.0,0.0,1.0,0.0
+431,@CNN,Wed Aug 15 23:00:08 +0000 2018,A Colorado couple adopted a child from Peru. Now they are fighting to keep her from being deported.… https://t.co/FK6E9ySe7D,-0.3612,0.135,0.865,0.0
+432,@CNN,Wed Aug 15 22:53:04 +0000 2018,Sex abuse scandal saps trust in the church but not in Catholic teaching https://t.co/khZLNzqNar (via @CNNOpinion) https://t.co/0N09PGXOmv,-0.34,0.22,0.676,0.104
+433,@CNN,Wed Aug 15 22:47:17 +0000 2018,"""My children, I couldn't hold or hug.""
 
 In a scathing report, a grand jury said more than 300 ""predator priests"" ha… https://t.co/nhGHQbMWSW",0.4588,0.0,0.857,0.143
-336,@CNN,Wed Aug 15 22:39:05 +0000 2018,"It's time for the EPA to ban asbestos once and for all, Linda Reinstein writes for @CNNOpinion… https://t.co/r9lirVzjsf",-0.5574,0.175,0.825,0.0
-337,@CNN,Wed Aug 15 22:32:04 +0000 2018,Mark Zuckerberg's nonprofit is helping separated migrant families https://t.co/M85HPmbI4j https://t.co/Qkf0C0Y7Dh,0.296,0.0,0.804,0.196
-338,@CNN,Wed Aug 15 22:25:04 +0000 2018,LIVE NOW: Christine Hallquist joins Anderson Cooper on Full Circle. She could become the first transgender governor… https://t.co/kbaui5N8Dr,0.0,0.0,1.0,0.0
-339,@CNN,Wed Aug 15 22:22:04 +0000 2018,Christine Hallquist could become the first transgender governor in US history after winning the Democratic primary… https://t.co/HiAXDVl7O7,0.5267,0.0,0.825,0.175
-340,@CNN,Wed Aug 15 22:17:05 +0000 2018,Senate report finds issues with the Trump administration's handling of unaccompanied migrant children… https://t.co/V4Lb4X0brJ,0.0,0.0,1.0,0.0
-341,@CNN,Wed Aug 15 22:11:05 +0000 2018,Facebook reinstates suspended data firm following investigation https://t.co/1AftCi1nDC https://t.co/XO18KSNqcm,-0.4767,0.279,0.721,0.0
-342,@CNN,Wed Aug 15 22:04:09 +0000 2018,Kansas newspaper goes from endorsing Trump to denouncing his attacks on the press https://t.co/hRueS9bYWy https://t.co/O8zMD334jP,-0.4404,0.172,0.828,0.0
-343,@CNN,Wed Aug 15 21:57:06 +0000 2018,More than 20 people overdosed in one New Haven park today https://t.co/vEuSabfcha https://t.co/3OU1JmVvMh,0.0,0.0,1.0,0.0
-344,@CNN,Wed Aug 15 21:50:04 +0000 2018,Goldman Sachs says it's acting as a financial adviser to Tesla https://t.co/t4iMzQCDTY https://t.co/9GVluukTEH,0.0,0.0,1.0,0.0
-345,@CNN,Wed Aug 15 21:43:06 +0000 2018,"Why ""Crazy Rich Asians"" is the right movie for this moment https://t.co/8H1XoXLp1h (via @CNNOpinion) https://t.co/bdRCzPdMOw",0.296,0.126,0.684,0.189
-346,@CNN,Wed Aug 15 21:36:03 +0000 2018,Corona owner makes $4 billion bet on cannabis https://t.co/v14vLDNKuQ https://t.co/Vaqz79wtTn,0.0,0.0,1.0,0.0
-347,@CNN,Wed Aug 15 21:29:07 +0000 2018,"Sarah Sanders' ""linguistic sleight of hand"" on Omarosa's non-disclosure agreement https://t.co/gmGnqTQpt0 | Analysi… https://t.co/XVJ5I3ReQC",0.7506,0.0,0.632,0.368
-348,@CNN,Wed Aug 15 21:22:02 +0000 2018,"NY Gov. Andrew Cuomo says America ""was never that great"" https://t.co/8UihXsJa28 https://t.co/NGGU6XkIL4",-0.5096,0.23,0.77,0.0
-349,@CNN,Wed Aug 15 21:15:11 +0000 2018,A number of Democrats running for the House have shunned Minority Leader Nancy Pelosi — but they may have to thank… https://t.co/Zsobb99JQk,0.0387,0.0,0.943,0.057
-350,@CNN,Wed Aug 15 21:08:06 +0000 2018,"Over Facebook, Amazon, Apple, Netflix and Google? Tech investors should focus on these stocks next:… https://t.co/GCjHUr0kdA",0.1779,0.0,0.898,0.102
-351,@CNN,Wed Aug 15 21:01:09 +0000 2018,California wildfire threatens the oldest and tallest juniper tree in the US https://t.co/CW3neCQmoy https://t.co/M4KNew5FkY,-0.3818,0.167,0.833,0.0
-352,@CNN,Wed Aug 15 20:54:07 +0000 2018,Big Oil is racing to pump all the oil out of Texas https://t.co/8DVg79umuZ https://t.co/Tkc0IHoqN8,0.0,0.0,1.0,0.0
-353,@CNN,Wed Aug 15 20:47:07 +0000 2018,President Trump revokes ex-CIA director John Brennan's security clearance https://t.co/0KzJOLaYSj https://t.co/EJ28rd9nOB,0.34,0.0,0.806,0.194
-354,@CNN,Wed Aug 15 20:40:11 +0000 2018,Read the letter Pennsylvania's attorney general sent Pope Francis about child sex abuse https://t.co/CZ7GXvMPaa https://t.co/ZIG7WrBmRh,-0.6369,0.231,0.769,0.0
-355,@CNN,Wed Aug 15 20:33:05 +0000 2018,Quickly catch up on the day's news https://t.co/3WpxdLfJzf https://t.co/8S9ZF8MKWZ,0.0,0.0,1.0,0.0
-356,@CNN,Wed Aug 15 20:26:05 +0000 2018,At least 107 measles cases have been confirmed across more than 20 states https://t.co/LEpeGqC9CC https://t.co/cwFYFC2Wsa,0.0,0.0,1.0,0.0
-357,@CNN,Wed Aug 15 20:19:06 +0000 2018,"White House will ""try to diversify"" staff, press secretary Sarah Sanders says https://t.co/TZADJ3mtGi https://t.co/hWbQ68LE37",0.0,0.0,1.0,0.0
-358,@CNN,Wed Aug 15 20:12:05 +0000 2018,Young people are more skeptical that Democrats will take control of Congress https://t.co/RlimMBHNhu https://t.co/RHyPFkSL2t,-0.3804,0.166,0.834,0.0
-359,@CNN,Wed Aug 15 20:05:06 +0000 2018,School closes for two days after threats against 12-year-old transgender student https://t.co/RoLvukmA9X,-0.4215,0.203,0.797,0.0
-360,@CNN,Wed Aug 15 19:58:03 +0000 2018,Priest abuse victims detail lifetime of trauma and broken trust https://t.co/cJpUjOXwK3 https://t.co/smN3Z5npqi,-0.8442,0.546,0.308,0.145
-361,@CNN,Wed Aug 15 19:51:05 +0000 2018,RECALL ALERT: Westminster Pharmaceuticals is recalling certain batches of hypothyroid medications after one of its… https://t.co/OTo03LWZ8T,0.6166,0.0,0.736,0.264
-362,@CNN,Wed Aug 15 19:45:05 +0000 2018,They moved to escape Florida's toxic algae slime. Now red tide has shut down their business. https://t.co/wJli8inoGd https://t.co/Nkp6xq6VKn,0.1779,0.0,0.909,0.091
-363,@CNN,Wed Aug 15 19:38:07 +0000 2018,"Former NSA and CIA Director Michael Hayden, a CNN national security analyst, says the news that President Trump is… https://t.co/8vttUGxZpu",0.34,0.0,0.882,0.118
-364,@CNN,Wed Aug 15 19:31:11 +0000 2018,What you need to know about ex-CIA chief John Brennan https://t.co/qyzo6ts2zF https://t.co/ST1GeKV2D0,0.0,0.0,1.0,0.0
-365,@CNN,Wed Aug 15 19:24:50 +0000 2018,"""The larger issue here, to me, throughout, has been infringement on First Amendment rights."" Former Director of Nat… https://t.co/A3a2u6IX8f",-0.4767,0.147,0.853,0.0
-366,@CNN,Wed Aug 15 19:17:05 +0000 2018,"Trained in martial arts and armed with assault rifles, India's first all-female SWAT team hits the streets… https://t.co/G2Zp1QdNfH",-0.5859,0.183,0.817,0.0
-367,@CNN,Wed Aug 15 19:10:11 +0000 2018,Director of National Intelligence Dan Coats wasn't consulted on revoking the clearance of former CIA Director John… https://t.co/FEgEXdJ2Pi,0.4767,0.0,0.846,0.154
-368,@CNN,Wed Aug 15 19:03:07 +0000 2018,"Sarah Sanders says she ""not aware"" of any recent conversations between President Trump and his former campaign mana… https://t.co/HGFrjOoU4R",0.0,0.0,1.0,0.0
-369,@CNN,Wed Aug 15 18:56:12 +0000 2018,"Sanders says Trump is also looking at the possibility of revoking these former officials' security clearances:
+434,@CNN,Wed Aug 15 22:39:05 +0000 2018,"It's time for the EPA to ban asbestos once and for all, Linda Reinstein writes for @CNNOpinion… https://t.co/r9lirVzjsf",-0.5574,0.175,0.825,0.0
+435,@CNN,Wed Aug 15 22:32:04 +0000 2018,Mark Zuckerberg's nonprofit is helping separated migrant families https://t.co/M85HPmbI4j https://t.co/Qkf0C0Y7Dh,0.296,0.0,0.804,0.196
+436,@CNN,Wed Aug 15 22:25:04 +0000 2018,LIVE NOW: Christine Hallquist joins Anderson Cooper on Full Circle. She could become the first transgender governor… https://t.co/kbaui5N8Dr,0.0,0.0,1.0,0.0
+437,@CNN,Wed Aug 15 22:22:04 +0000 2018,Christine Hallquist could become the first transgender governor in US history after winning the Democratic primary… https://t.co/HiAXDVl7O7,0.5267,0.0,0.825,0.175
+438,@CNN,Wed Aug 15 22:17:05 +0000 2018,Senate report finds issues with the Trump administration's handling of unaccompanied migrant children… https://t.co/V4Lb4X0brJ,0.0,0.0,1.0,0.0
+439,@CNN,Wed Aug 15 22:11:05 +0000 2018,Facebook reinstates suspended data firm following investigation https://t.co/1AftCi1nDC https://t.co/XO18KSNqcm,-0.4767,0.279,0.721,0.0
+440,@CNN,Wed Aug 15 22:04:09 +0000 2018,Kansas newspaper goes from endorsing Trump to denouncing his attacks on the press https://t.co/hRueS9bYWy https://t.co/O8zMD334jP,-0.4404,0.172,0.828,0.0
+441,@CNN,Wed Aug 15 21:57:06 +0000 2018,More than 20 people overdosed in one New Haven park today https://t.co/vEuSabfcha https://t.co/3OU1JmVvMh,0.0,0.0,1.0,0.0
+442,@CNN,Wed Aug 15 21:50:04 +0000 2018,Goldman Sachs says it's acting as a financial adviser to Tesla https://t.co/t4iMzQCDTY https://t.co/9GVluukTEH,0.0,0.0,1.0,0.0
+443,@CNN,Wed Aug 15 21:43:06 +0000 2018,"Why ""Crazy Rich Asians"" is the right movie for this moment https://t.co/8H1XoXLp1h (via @CNNOpinion) https://t.co/bdRCzPdMOw",0.296,0.126,0.684,0.189
+444,@CNN,Wed Aug 15 21:36:03 +0000 2018,Corona owner makes $4 billion bet on cannabis https://t.co/v14vLDNKuQ https://t.co/Vaqz79wtTn,0.0,0.0,1.0,0.0
+445,@CNN,Wed Aug 15 21:29:07 +0000 2018,"Sarah Sanders' ""linguistic sleight of hand"" on Omarosa's non-disclosure agreement https://t.co/gmGnqTQpt0 | Analysi… https://t.co/XVJ5I3ReQC",0.7506,0.0,0.632,0.368
+446,@CNN,Wed Aug 15 21:22:02 +0000 2018,"NY Gov. Andrew Cuomo says America ""was never that great"" https://t.co/8UihXsJa28 https://t.co/NGGU6XkIL4",-0.5096,0.23,0.77,0.0
+447,@CNN,Wed Aug 15 21:15:11 +0000 2018,A number of Democrats running for the House have shunned Minority Leader Nancy Pelosi — but they may have to thank… https://t.co/Zsobb99JQk,0.0387,0.0,0.943,0.057
+448,@CNN,Wed Aug 15 21:08:06 +0000 2018,"Over Facebook, Amazon, Apple, Netflix and Google? Tech investors should focus on these stocks next:… https://t.co/GCjHUr0kdA",0.1779,0.0,0.898,0.102
+449,@CNN,Wed Aug 15 21:01:09 +0000 2018,California wildfire threatens the oldest and tallest juniper tree in the US https://t.co/CW3neCQmoy https://t.co/M4KNew5FkY,-0.3818,0.167,0.833,0.0
+450,@CNN,Wed Aug 15 20:54:07 +0000 2018,Big Oil is racing to pump all the oil out of Texas https://t.co/8DVg79umuZ https://t.co/Tkc0IHoqN8,0.0,0.0,1.0,0.0
+451,@CNN,Wed Aug 15 20:47:07 +0000 2018,President Trump revokes ex-CIA director John Brennan's security clearance https://t.co/0KzJOLaYSj https://t.co/EJ28rd9nOB,0.34,0.0,0.806,0.194
+452,@CNN,Wed Aug 15 20:40:11 +0000 2018,Read the letter Pennsylvania's attorney general sent Pope Francis about child sex abuse https://t.co/CZ7GXvMPaa https://t.co/ZIG7WrBmRh,-0.6369,0.231,0.769,0.0
+453,@CNN,Wed Aug 15 20:33:05 +0000 2018,Quickly catch up on the day's news https://t.co/3WpxdLfJzf https://t.co/8S9ZF8MKWZ,0.0,0.0,1.0,0.0
+454,@CNN,Wed Aug 15 20:26:05 +0000 2018,At least 107 measles cases have been confirmed across more than 20 states https://t.co/LEpeGqC9CC https://t.co/cwFYFC2Wsa,0.0,0.0,1.0,0.0
+455,@CNN,Wed Aug 15 20:19:06 +0000 2018,"White House will ""try to diversify"" staff, press secretary Sarah Sanders says https://t.co/TZADJ3mtGi https://t.co/hWbQ68LE37",0.0,0.0,1.0,0.0
+456,@CNN,Wed Aug 15 20:12:05 +0000 2018,Young people are more skeptical that Democrats will take control of Congress https://t.co/RlimMBHNhu https://t.co/RHyPFkSL2t,-0.3804,0.166,0.834,0.0
+457,@CNN,Wed Aug 15 20:05:06 +0000 2018,School closes for two days after threats against 12-year-old transgender student https://t.co/RoLvukmA9X,-0.4215,0.203,0.797,0.0
+458,@CNN,Wed Aug 15 19:58:03 +0000 2018,Priest abuse victims detail lifetime of trauma and broken trust https://t.co/cJpUjOXwK3 https://t.co/smN3Z5npqi,-0.8442,0.546,0.308,0.145
+459,@CNN,Wed Aug 15 19:51:05 +0000 2018,RECALL ALERT: Westminster Pharmaceuticals is recalling certain batches of hypothyroid medications after one of its… https://t.co/OTo03LWZ8T,0.6166,0.0,0.736,0.264
+460,@CNN,Wed Aug 15 19:45:05 +0000 2018,They moved to escape Florida's toxic algae slime. Now red tide has shut down their business. https://t.co/wJli8inoGd https://t.co/Nkp6xq6VKn,0.1779,0.0,0.909,0.091
+461,@CNN,Wed Aug 15 19:38:07 +0000 2018,"Former NSA and CIA Director Michael Hayden, a CNN national security analyst, says the news that President Trump is… https://t.co/8vttUGxZpu",0.34,0.0,0.882,0.118
+462,@CNN,Wed Aug 15 19:31:11 +0000 2018,What you need to know about ex-CIA chief John Brennan https://t.co/qyzo6ts2zF https://t.co/ST1GeKV2D0,0.0,0.0,1.0,0.0
+463,@CNN,Wed Aug 15 19:24:50 +0000 2018,"""The larger issue here, to me, throughout, has been infringement on First Amendment rights."" Former Director of Nat… https://t.co/A3a2u6IX8f",-0.4767,0.147,0.853,0.0
+464,@CNN,Wed Aug 15 19:17:05 +0000 2018,"Trained in martial arts and armed with assault rifles, India's first all-female SWAT team hits the streets… https://t.co/G2Zp1QdNfH",-0.5859,0.183,0.817,0.0
+465,@CNN,Wed Aug 15 19:10:11 +0000 2018,Director of National Intelligence Dan Coats wasn't consulted on revoking the clearance of former CIA Director John… https://t.co/FEgEXdJ2Pi,0.4767,0.0,0.846,0.154
+466,@CNN,Wed Aug 15 19:03:07 +0000 2018,"Sarah Sanders says she ""not aware"" of any recent conversations between President Trump and his former campaign mana… https://t.co/HGFrjOoU4R",0.0,0.0,1.0,0.0
+467,@CNN,Wed Aug 15 18:56:12 +0000 2018,"Sanders says Trump is also looking at the possibility of revoking these former officials' security clearances:
 ■ Ja… https://t.co/kSsqmkaQTZ",0.34,0.0,0.876,0.124
-370,@CNN,Wed Aug 15 18:44:00 +0000 2018,JUST IN: White House says President Trump has revoked former CIA director John Brennan's security clearance… https://t.co/g8klj9MKUo,0.34,0.0,0.87,0.13
-371,@CNN,Wed Aug 15 18:37:14 +0000 2018,"White House press secretary Sarah Sanders takes questions a day after she said she ""can't guarantee"" President Trum… https://t.co/J9Mr6lhc0j",-0.1877,0.093,0.907,0.0
-372,@CNN,Wed Aug 15 18:30:14 +0000 2018,"Republican Sen. Orrin Hatch on President Trump tweet calling Omarosa a 'dog': ""I'm not comfortable with that""… https://t.co/fecDFDUS6S",-0.4023,0.144,0.856,0.0
-373,@CNN,Wed Aug 15 18:20:06 +0000 2018,"A suicide attack in the Afghan capital of Kabul on Wednesday killed at least 48 people, a government official said.… https://t.co/8JFje2DIyc",-0.9201,0.431,0.569,0.0
-374,@CNN,Wed Aug 15 18:10:09 +0000 2018,This exchange between Rudy Giuliani and Chris Cuomo is our current politics in a nutshell | Analysis by… https://t.co/waiBvMqGiC,0.0,0.0,1.0,0.0
-375,@CNN,Wed Aug 15 17:50:44 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/nc4dbGFtq1,-0.3182,0.126,0.874,0.0
-376,@CNN,Wed Aug 15 17:40:00 +0000 2018,No one knows how long MoviePass will survive. What we do know: movie subscription services like AMC Stubs A-List ar… https://t.co/1KnZOXDsK8,0.0772,0.093,0.802,0.105
-377,@CNN,Wed Aug 15 17:35:09 +0000 2018,Pressure is mounting on Pope Francis to address abuse cover-ups https://t.co/LYa3ZJQQrl https://t.co/B7xPpD3Rnf,-0.7506,0.39,0.61,0.0
-378,@CNN,Wed Aug 15 17:34:56 +0000 2018,RT @AC360: Christine Hallquist could become the first transgender governor in the history of the United States after winning the democratic…,0.7351,0.0,0.754,0.246
-379,@CNN,Wed Aug 15 17:25:16 +0000 2018,A contact lens was embedded in a woman's eyelid for 28 years https://t.co/CqrJDuhOvy https://t.co/jB4SYAOAxl,0.0,0.0,1.0,0.0
-380,@CNN,Wed Aug 15 17:12:00 +0000 2018,Imagine a device that would allow humans to breathe underwater without heavy equipment. It could become a reality.… https://t.co/nOvcmfPHs4,0.2263,0.0,0.894,0.106
-381,@CNN,Wed Aug 15 17:04:14 +0000 2018,"Former Vice President Joe Biden canceled a planned appearance in Illinois this week because he is sick and ""under d… https://t.co/VMin4izrSo",-0.5106,0.148,0.852,0.0
-382,@CNN,Wed Aug 15 16:44:20 +0000 2018,Russian cosmonauts are venturing outside the International Space Station for a spacewalk. They're expected to manua… https://t.co/WN0x3STyXu,0.0,0.0,1.0,0.0
-383,@CNN,Wed Aug 15 16:42:05 +0000 2018,"Should investors be buying, selling, or shorting Tesla? Tune in to @CNNMoney's ""Markets Now"" at 12:45 p.m. ET to he… https://t.co/b5vG6BDgqA",0.0,0.0,1.0,0.0
-384,@CNN,Wed Aug 15 16:40:05 +0000 2018,"Priest abuse survivor slams Catholic Church's lack of 'morality': ""They're supposed to tell me the morality... What… https://t.co/2xmoEaRisQ",-0.6124,0.271,0.625,0.104
-385,@CNN,Wed Aug 15 16:30:12 +0000 2018,Genoa bridge collapse came after years of warnings https://t.co/0P01Kjd0uC https://t.co/KNvuUiWf67,-0.6597,0.403,0.597,0.0
-386,@CNN,Wed Aug 15 16:20:06 +0000 2018,How Michael Avenatti helped a 9-year-old Guatemalan boy make it back to his mother https://t.co/VJtjj83chh https://t.co/9PlAQRNDot,0.0,0.0,1.0,0.0
-387,@CNN,Wed Aug 15 16:10:04 +0000 2018,"Democrats now lead Republicans by 52% to 41% in a nationwide generic Congressional ballot, according to a new CNN p… https://t.co/BrKzZqegMC",0.0,0.0,1.0,0.0
-388,@CNN,Wed Aug 15 16:07:11 +0000 2018,The eerie abandoned Olympic venues of Beijing 2008 https://t.co/P9OJGkYrLb https://t.co/2Yo0uQbaPa,-0.6705,0.407,0.593,0.0
-389,@CNN,Wed Aug 15 15:57:28 +0000 2018,This beach is a slice of calm in Santa Barbara https://t.co/nWyWn9ou6w https://t.co/mKV5l0GM70,0.3182,0.0,0.813,0.187
-390,@CNN,Wed Aug 15 15:45:22 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/NUfzHOqMRY",-0.765,0.248,0.752,0.0
-391,@CNN,Wed Aug 15 15:20:03 +0000 2018,Why Sarah Sanders' 'can't guarantee' answer matters so much | Analysis by @CillizzaCNN https://t.co/9n9yJ2demv https://t.co/C10gKwjnAq,-0.2057,0.19,0.81,0.0
-392,@CNN,Wed Aug 15 15:10:00 +0000 2018,It takes most hikers between 10 and 12 days to complete this trail. Meet the ultra-runner who did it in two:… https://t.co/klVJKEWWSI,0.0,0.0,1.0,0.0
-393,@CNN,Wed Aug 15 15:00:16 +0000 2018,"He wandered across the Indian border into Pakistan in 1982. He spent the next 36 years in prison. 
+468,@CNN,Wed Aug 15 18:44:00 +0000 2018,JUST IN: White House says President Trump has revoked former CIA director John Brennan's security clearance… https://t.co/g8klj9MKUo,0.34,0.0,0.87,0.13
+469,@CNN,Wed Aug 15 18:37:14 +0000 2018,"White House press secretary Sarah Sanders takes questions a day after she said she ""can't guarantee"" President Trum… https://t.co/J9Mr6lhc0j",-0.1877,0.093,0.907,0.0
+470,@CNN,Wed Aug 15 18:30:14 +0000 2018,"Republican Sen. Orrin Hatch on President Trump tweet calling Omarosa a 'dog': ""I'm not comfortable with that""… https://t.co/fecDFDUS6S",-0.4023,0.144,0.856,0.0
+471,@CNN,Wed Aug 15 18:20:06 +0000 2018,"A suicide attack in the Afghan capital of Kabul on Wednesday killed at least 48 people, a government official said.… https://t.co/8JFje2DIyc",-0.9201,0.431,0.569,0.0
+472,@CNN,Wed Aug 15 18:10:09 +0000 2018,This exchange between Rudy Giuliani and Chris Cuomo is our current politics in a nutshell | Analysis by… https://t.co/waiBvMqGiC,0.0,0.0,1.0,0.0
+473,@CNN,Wed Aug 15 17:50:44 +0000 2018,Two gangs fought over a Chicago neighborhood for years. Then rival gang members helped build a playground together.… https://t.co/nc4dbGFtq1,-0.3182,0.126,0.874,0.0
+474,@CNN,Wed Aug 15 17:40:00 +0000 2018,No one knows how long MoviePass will survive. What we do know: movie subscription services like AMC Stubs A-List ar… https://t.co/1KnZOXDsK8,0.0772,0.093,0.802,0.105
+475,@CNN,Wed Aug 15 17:35:09 +0000 2018,Pressure is mounting on Pope Francis to address abuse cover-ups https://t.co/LYa3ZJQQrl https://t.co/B7xPpD3Rnf,-0.7506,0.39,0.61,0.0
+476,@CNN,Wed Aug 15 17:34:56 +0000 2018,RT @AC360: Christine Hallquist could become the first transgender governor in the history of the United States after winning the democratic…,0.7351,0.0,0.754,0.246
+477,@CNN,Wed Aug 15 17:25:16 +0000 2018,A contact lens was embedded in a woman's eyelid for 28 years https://t.co/CqrJDuhOvy https://t.co/jB4SYAOAxl,0.0,0.0,1.0,0.0
+478,@CNN,Wed Aug 15 17:12:00 +0000 2018,Imagine a device that would allow humans to breathe underwater without heavy equipment. It could become a reality.… https://t.co/nOvcmfPHs4,0.2263,0.0,0.894,0.106
+479,@CNN,Wed Aug 15 17:04:14 +0000 2018,"Former Vice President Joe Biden canceled a planned appearance in Illinois this week because he is sick and ""under d… https://t.co/VMin4izrSo",-0.5106,0.148,0.852,0.0
+480,@CNN,Wed Aug 15 16:44:20 +0000 2018,Russian cosmonauts are venturing outside the International Space Station for a spacewalk. They're expected to manua… https://t.co/WN0x3STyXu,0.0,0.0,1.0,0.0
+481,@CNN,Wed Aug 15 16:42:05 +0000 2018,"Should investors be buying, selling, or shorting Tesla? Tune in to @CNNMoney's ""Markets Now"" at 12:45 p.m. ET to he… https://t.co/b5vG6BDgqA",0.0,0.0,1.0,0.0
+482,@CNN,Wed Aug 15 16:40:05 +0000 2018,"Priest abuse survivor slams Catholic Church's lack of 'morality': ""They're supposed to tell me the morality... What… https://t.co/2xmoEaRisQ",-0.6124,0.271,0.625,0.104
+483,@CNN,Wed Aug 15 16:30:12 +0000 2018,Genoa bridge collapse came after years of warnings https://t.co/0P01Kjd0uC https://t.co/KNvuUiWf67,-0.6597,0.403,0.597,0.0
+484,@CNN,Wed Aug 15 16:20:06 +0000 2018,How Michael Avenatti helped a 9-year-old Guatemalan boy make it back to his mother https://t.co/VJtjj83chh https://t.co/9PlAQRNDot,0.0,0.0,1.0,0.0
+485,@CNN,Wed Aug 15 16:10:04 +0000 2018,"Democrats now lead Republicans by 52% to 41% in a nationwide generic Congressional ballot, according to a new CNN p… https://t.co/BrKzZqegMC",0.0,0.0,1.0,0.0
+486,@CNN,Wed Aug 15 16:07:11 +0000 2018,The eerie abandoned Olympic venues of Beijing 2008 https://t.co/P9OJGkYrLb https://t.co/2Yo0uQbaPa,-0.6705,0.407,0.593,0.0
+487,@CNN,Wed Aug 15 15:57:28 +0000 2018,This beach is a slice of calm in Santa Barbara https://t.co/nWyWn9ou6w https://t.co/mKV5l0GM70,0.3182,0.0,0.813,0.187
+488,@CNN,Wed Aug 15 15:45:22 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/NUfzHOqMRY",-0.765,0.248,0.752,0.0
+489,@CNN,Wed Aug 15 15:20:03 +0000 2018,Why Sarah Sanders' 'can't guarantee' answer matters so much | Analysis by @CillizzaCNN https://t.co/9n9yJ2demv https://t.co/C10gKwjnAq,-0.2057,0.19,0.81,0.0
+490,@CNN,Wed Aug 15 15:10:00 +0000 2018,It takes most hikers between 10 and 12 days to complete this trail. Meet the ultra-runner who did it in two:… https://t.co/klVJKEWWSI,0.0,0.0,1.0,0.0
+491,@CNN,Wed Aug 15 15:00:16 +0000 2018,"He wandered across the Indian border into Pakistan in 1982. He spent the next 36 years in prison. 
 
 How he ended up… https://t.co/4BWzu11Ude",-0.5106,0.13,0.87,0.0
-394,@CNN,Wed Aug 15 14:52:02 +0000 2018,"RT @CNNMoney: Today's guest on ""Markets Now"" believes Tesla will go private between $400 and $425 per share. What would you like to ask him…",0.5719,0.0,0.83,0.17
-395,@CNN,Wed Aug 15 14:50:07 +0000 2018,Rudy Giuliani has taken up arms in Donald Trump's war on facts | Analysis by @CillizzaCNN https://t.co/Jy76er5Ctk https://t.co/s78CXtxFa8,-0.5994,0.196,0.804,0.0
-396,@CNN,Wed Aug 15 14:40:07 +0000 2018,"Former Vice President Joe Biden canceled a planned appearance in Illinois this week because he is sick and ""under d… https://t.co/AUKUWvdFQi",-0.5106,0.148,0.852,0.0
-397,@CNN,Wed Aug 15 14:30:06 +0000 2018,"Vermont's Democratic nominee for governor Christine Hallquist, who made history Tuesday as the first transgender gu… https://t.co/gEBIu0udMD",0.0,0.0,1.0,0.0
-398,@CNN,Wed Aug 15 14:20:08 +0000 2018,"Closing arguments begin in the trial of ex-Trump campaign chairman Paul Manafort https://t.co/HeOoex3wAN
+492,@CNN,Wed Aug 15 14:52:02 +0000 2018,"RT @CNNMoney: Today's guest on ""Markets Now"" believes Tesla will go private between $400 and $425 per share. What would you like to ask him…",0.5719,0.0,0.83,0.17
+493,@CNN,Wed Aug 15 14:50:07 +0000 2018,Rudy Giuliani has taken up arms in Donald Trump's war on facts | Analysis by @CillizzaCNN https://t.co/Jy76er5Ctk https://t.co/s78CXtxFa8,-0.5994,0.196,0.804,0.0
+494,@CNN,Wed Aug 15 14:40:07 +0000 2018,"Former Vice President Joe Biden canceled a planned appearance in Illinois this week because he is sick and ""under d… https://t.co/AUKUWvdFQi",-0.5106,0.148,0.852,0.0
+495,@CNN,Wed Aug 15 14:30:06 +0000 2018,"Vermont's Democratic nominee for governor Christine Hallquist, who made history Tuesday as the first transgender gu… https://t.co/gEBIu0udMD",0.0,0.0,1.0,0.0
+496,@CNN,Wed Aug 15 14:20:08 +0000 2018,"Closing arguments begin in the trial of ex-Trump campaign chairman Paul Manafort https://t.co/HeOoex3wAN
 
 Follow li… https://t.co/XJYL2SfIR4",-0.4019,0.153,0.847,0.0
-399,@CNN,Wed Aug 15 14:10:08 +0000 2018,The UK is trying to rein in CEO pay. It isn't working. https://t.co/BbNPU2Y8or https://t.co/hkmVLeTRNi,-0.1027,0.097,0.903,0.0
-400,@CNN,Wed Aug 15 14:00:07 +0000 2018,Tiffany is remodeling to draw more Millennials https://t.co/MWkuRPp3mn https://t.co/RJXdL0Fa4x,0.0,0.0,1.0,0.0
-401,@CNN,Wed Aug 15 13:50:03 +0000 2018,"Georgia GOP Secretary of State Brian Kemp, a gubernatorial candidate, has been accused in a federal lawsuit of fail… https://t.co/KHripDE2st",-0.4767,0.204,0.796,0.0
-402,@CNN,Wed Aug 15 13:39:01 +0000 2018,"As students start another school year at Marjory Stoneman Douglas High School, reminders of the tragedy linger in t… https://t.co/QaAzxuQmk1",-0.6597,0.188,0.812,0.0
-403,@CNN,Wed Aug 15 13:28:30 +0000 2018,White House press secretary Sarah Sanders apologizes for false claim about African-American jobs… https://t.co/0spngGLhek,0.3612,0.0,0.839,0.161
-404,@CNN,Wed Aug 15 13:13:41 +0000 2018,Minnesota proved again last night that the old Republican Party is dead | Analysis by @CillizzaCNN… https://t.co/yM1QaC2pqA,-0.3818,0.205,0.667,0.129
-405,@CNN,Wed Aug 15 13:00:02 +0000 2018,"In the CNN podcast series “RBG: Beyond Notorious,” @PoppyHarlowCNN and @JeffreyToobin go behind the scenes of the C… https://t.co/wfouCcXYyy",0.0,0.0,1.0,0.0
-406,@CNN,Wed Aug 15 12:50:09 +0000 2018,Stevie Wonder visits with Aretha Franklin as the legendary singer receives hospice care https://t.co/blR2IaRXCP https://t.co/BJ3uwyaDZm,0.4939,0.0,0.814,0.186
-407,@CNN,Wed Aug 15 12:50:08 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/MaNmR7ci4b",-0.765,0.248,0.752,0.0
-408,@CNN,Wed Aug 15 12:40:11 +0000 2018,"Startup accelerator Y Combinator, which helped launch the likes of Airbnb and Dropbox, wants to find the next big t… https://t.co/QqCDGyPPjU",0.4215,0.0,0.872,0.128
-409,@CNN,Wed Aug 15 12:30:00 +0000 2018,"Today's top business headlines with @ChristineRomans before the opening bell:
-
-- Wall Street jumps as lira rebounds… https://t.co/G3Ru2aQxrT",0.2023,0.0,0.899,0.101
-410,@CNN,Wed Aug 15 12:20:05 +0000 2018,John Lennon and Paul McCartney's kids are friends https://t.co/PnHiXJAJ2x https://t.co/XS1AHAng4D,0.4767,0.0,0.744,0.256
-411,@CNN,Wed Aug 15 12:10:07 +0000 2018,How to design a school in the era of mass shootings https://t.co/BFtOLRMCZH https://t.co/XNIiZOZ70M,0.0,0.0,1.0,0.0
-412,@CNN,Wed Aug 15 12:00:19 +0000 2018,"TV audiences for golf's major championships have swelled since Tiger Woods has returned to the fray, most recently… https://t.co/3VEL5MTIRU",0.4939,0.0,0.849,0.151
-413,@CNN,Wed Aug 15 11:57:54 +0000 2018,"RT @CNNPolitics: Christine Hallquist reflects on her historic primary win, making her the first transgender gubernatorial nominee for a maj…",0.5859,0.0,0.826,0.174
-414,@CNN,Wed Aug 15 11:50:51 +0000 2018,The husband of White House adviser Kellyanne Conway appears to hammer President Trump for making false statements a… https://t.co/R4wQAOal0D,0.0,0.0,1.0,0.0
-415,@CNN,Wed Aug 15 11:50:07 +0000 2018,A community devastated by a deadly wildfire in Northern California has a message for the couple whose trailer start… https://t.co/7ZPv5HFAow,-0.6124,0.2,0.8,0.0
-416,@CNN,Wed Aug 15 11:40:08 +0000 2018,Violent crime is like infectious disease -- and we know how to stop it spreading | via @CNNhealth… https://t.co/a7nwLaCp1Z,-0.7964,0.368,0.536,0.096
-417,@CNN,Wed Aug 15 11:35:03 +0000 2018,"5 things for Wednesday:
-
-- Politics
-- Clergy sex abuse
-- Italy bridge collapse
-- Turkey
-- Immigration
-
-https://t.co/bLDTwYmKrF",-0.8126,0.402,0.598,0.0
-418,@CNN,Wed Aug 15 11:30:04 +0000 2018,She was the 2016 National Teacher of the Year and now she's one step closer towards becoming Connecticut's first bl… https://t.co/5wnTh9ptn3,0.0,0.0,1.0,0.0
-419,@CNN,Wed Aug 15 11:20:08 +0000 2018,"For four years, nearly half-a-million dollars quietly vanished from cafeteria registers at two schools in Connectic… https://t.co/jKf41dpENS",0.0,0.0,1.0,0.0
-420,@CNN,Wed Aug 15 11:10:08 +0000 2018,The deadly wildfires are not only destroying homes and burning everything in their path -- but they're also causing… https://t.co/JLAzTrstWh,0.2411,0.0,0.906,0.094
-421,@CNN,Wed Aug 15 11:00:01 +0000 2018,"Trail runner Daniel Jung recently completed the Tyrolean High Altitude Trail Challenge​ -- a 124 mile-long, 45,800… https://t.co/Ynp6vtJgC9",0.0,0.0,1.0,0.0
-422,@CNN,Wed Aug 15 10:50:08 +0000 2018,"On #IndependenceDayIndia, Prime Minister Narendra Modi has promised India's first manned mission to space by 2022… https://t.co/Xj2Myfdsow",0.3612,0.0,0.865,0.135
-423,@CNN,Wed Aug 15 10:40:05 +0000 2018,"The nation's first transgender governor, its first Somali-American woman in Congress and its first black woman in C… https://t.co/kozLRL0FnF",0.0,0.0,1.0,0.0
-424,@CNN,Wed Aug 15 10:30:32 +0000 2018,White House press secretary Sarah Sanders apologizes for false claim about African-American jobs… https://t.co/y6pywHDFWK,0.3612,0.0,0.839,0.161
-425,@CNN,Wed Aug 15 10:13:24 +0000 2018,Drones driven by AI will track illegal fishing in African waters https://t.co/42dbJvwFC8 https://t.co/ijkozA8lvR,-0.5574,0.231,0.769,0.0
-426,@CNN,Wed Aug 15 10:07:00 +0000 2018,The world's biggest human catapult flings you out over the mountains of New Zealand at nearly 62 miles an hour… https://t.co/nnNzchEPPU,0.0,0.0,1.0,0.0
-427,@CNN,Wed Aug 15 10:02:31 +0000 2018,"Insurance refused to cover her cancer treatment. So her parents paid the $95,000 out of pocket -- and she's now can… https://t.co/MZDZXQWCjQ",-0.765,0.248,0.752,0.0
-428,@CNN,Wed Aug 15 09:54:21 +0000 2018,"Startup accelerator Y Combinator, which helped launch the likes of Airbnb and Dropbox, wants to find the next big t… https://t.co/5XL2VESpnw",0.4215,0.0,0.872,0.128
-429,@CNN,Wed Aug 15 09:42:35 +0000 2018,The eerie abandoned Olympic venues of Beijing 2008 https://t.co/pj0UegbZax https://t.co/fdb0Es5HkM,-0.6705,0.407,0.593,0.0
-430,@CNN,Wed Aug 15 09:23:02 +0000 2018,"RT @cnni: After wreaking havoc in Africa, this ""impossible to kill"" crop-destroying worm has reached India https://t.co/hoXvkld247 https://…",-0.8481,0.344,0.6,0.056
-431,@CNN,Wed Aug 15 09:14:45 +0000 2018,Facebook struck a deal with Spain's top soccer league to broadcast its matches in India for free https://t.co/meRRArqudq,0.4767,0.095,0.664,0.242
-432,@CNN,Wed Aug 15 09:03:04 +0000 2018,Nearly $500K disappeared from school cafeterias. Officials say the lunch ladies did it https://t.co/PBDv8lAIDC https://t.co/doYT3hVe6x,-0.2263,0.119,0.881,0.0
-433,@CNN,Wed Aug 15 08:52:06 +0000 2018,"Unsafe levels of a weed killer chemical in oat products, report says https://t.co/EtiJxnfYQV https://t.co/ddiU7wVJjX",-0.6486,0.264,0.736,0.0
-434,@CNN,Wed Aug 15 08:41:53 +0000 2018,"The nation's first transgender governor, its first Somali-American woman in Congress and its first black woman in C… https://t.co/klXIz1058K",0.0,0.0,1.0,0.0
-435,@CNN,Wed Aug 15 08:40:01 +0000 2018,Take our quiz to find out which part of India you should visit https://t.co/G3MpiGHdu5 https://t.co/nAy7kjxmlk,0.0,0.0,1.0,0.0
-436,@CNN,Wed Aug 15 08:34:28 +0000 2018,"Christine Hallquist will make history as first openly transgender major party nominee for governor, CNN projects… https://t.co/GofR3FcZQr",0.4019,0.0,0.856,0.144
-437,@CNN,Wed Aug 15 08:02:03 +0000 2018,At least 36 people have died following the Morandi Bridge disaster in Genoa as the rescue operation continues https://t.co/n5H5rIFCmk,-0.6597,0.285,0.593,0.122
-438,@CNN,Wed Aug 15 07:56:31 +0000 2018,RT @cnni: At least 36 people have died following the Morandi Bridge disaster in Genoa as the rescue operation continues https://t.co/xEcQMw…,-0.6597,0.266,0.621,0.114
-439,@CNN,Wed Aug 15 07:30:10 +0000 2018,Two Venezuela officers detained in alleged plot on President Nicolas Maduro https://t.co/YccM8hmYXA https://t.co/uN2DEwoGkT,-0.4019,0.184,0.816,0.0
-440,@CNN,Wed Aug 15 07:22:02 +0000 2018,New Zealand's parliament passed a law banning foreigners from buying into most parts of its residential property ma… https://t.co/e88VFzeiY0,0.0,0.0,1.0,0.0
-441,@CNN,Wed Aug 15 07:15:08 +0000 2018,Sears CEO Eddie Lampert says he's willing to pay his company $400 million to buy its Kenmore appliance brand… https://t.co/2bGF3xxXiW,-0.1027,0.069,0.931,0.0
-442,@CNN,Wed Aug 15 07:08:05 +0000 2018,"Rescue operations are continuing after at least 26 people died in the Morandi Bridge disaster in Genoa. 
-
-Italy's P… https://t.co/5K2fonzhaY",-0.6597,0.275,0.607,0.118
-443,@CNN,Wed Aug 15 07:00:20 +0000 2018,"Puerto Rico says power restoration after Hurricane Maria is complete, but that's not quite right… https://t.co/GpGHLeEuks",0.0,0.0,1.0,0.0
-444,@CNN,Wed Aug 15 06:57:05 +0000 2018,British police are trying to determine the suspect's motive after he crashed a car into security barriers outside t… https://t.co/6wppNH4Nil,0.34,0.0,0.882,0.118
-445,@CNN,Wed Aug 15 06:52:03 +0000 2018,"A twisting, tree-covered skyscraper in Melbourne is set to become Australia's tallest building… https://t.co/sjBcjvevly",0.0,0.0,1.0,0.0
-446,@CNN,Wed Aug 15 06:45:06 +0000 2018,State Department says Secretary of State Mike Pompeo did discuss the recent Saudi-led airstrike in Yemen in a call… https://t.co/YkQcS2S7mB,0.0,0.0,1.0,0.0
-447,@CNN,Wed Aug 15 06:37:03 +0000 2018,Autonomous vehicles are coming. Now comes the hard part. https://t.co/B0wPrfTH2F https://t.co/ue3ukNWJj8,-0.1027,0.123,0.877,0.0
-448,@CNN,Wed Aug 15 06:30:13 +0000 2018,Pentagon to return bells captured in the Philippines over 100 years ago https://t.co/ur84Aagwkm https://t.co/j9IVEZNdus,0.0,0.0,1.0,0.0
-449,@CNN,Wed Aug 15 06:28:02 +0000 2018,"As students start another school year at Marjory Stoneman Douglas High School, reminders of the tragedy linger in t… https://t.co/7vVgEEN2CG",-0.6597,0.188,0.812,0.0
-450,@CNN,Wed Aug 15 06:22:04 +0000 2018,"Meet the woman known as the ""Mama Elephant"" of Kenya, who helped changed the fate of elephants worldwide https://t.co/KNqr0ya7x3",0.0,0.0,1.0,0.0
-451,@CNN,Wed Aug 15 06:15:07 +0000 2018,Film fans are familiar with Robert De Niro's Oscar-winning roles — but fewer people know that he is also an astute… https://t.co/KITT73JRW3,0.0,0.0,1.0,0.0
-452,@CNN,Wed Aug 15 06:08:04 +0000 2018,Omarosa's scorched-earth tell-all is a rare public breach of Trump's loyalty test | Analysis by @zbyronwolf… https://t.co/CfaXPu9DTS,0.5423,0.0,0.8,0.2
-453,@CNN,Wed Aug 15 06:00:08 +0000 2018,"Turkey has intensified its clash with the US, announcing heavy new tariffs on some American products including cars… https://t.co/X2VpDM1Pqr",0.0,0.0,1.0,0.0
-454,@CNN,Wed Aug 15 06:00:04 +0000 2018,White House corrects Sarah Sanders after false claim about African American job numbers https://t.co/8oYfPGvPqr https://t.co/ImAbXvCYcS,0.0,0.0,1.0,0.0
-455,@CNN,Wed Aug 15 05:54:01 +0000 2018,Philippines President Rodrigo Duterte has called for the Chinese government to tone down its behavior in the South… https://t.co/1NiRpKagtO,0.0,0.0,1.0,0.0
-456,@CNN,Wed Aug 15 05:45:07 +0000 2018,Trump campaign official Katrina Pierson says she was placating Omarosa Manigault Newman when she indicated on tape… https://t.co/a14SsVfdo8,0.0,0.0,1.0,0.0
-457,@CNN,Wed Aug 15 05:30:12 +0000 2018,Here's what happened on Day 11 of the trial of former Trump campaign chairman Paul Manafort https://t.co/yU7yBQMySS https://t.co/ZLXwRHto6y,0.0,0.0,1.0,0.0
-458,@CNN,Wed Aug 15 05:15:16 +0000 2018,This 3D-printed 'gill' may allow humans to breathe underwater https://t.co/3JSQTX5RIL,0.2263,0.0,0.826,0.174
-459,@CNN,Wed Aug 15 05:15:06 +0000 2018,The husband of White House adviser Kellyanne Conway appears to hammer President Trump for making false statements a… https://t.co/DITeoJtIu2,0.0,0.0,1.0,0.0
-460,@CNN,Wed Aug 15 05:05:05 +0000 2018,The Puerto Rico Electric Power Authority says that power restoration after Hurricane Maria has been completed -- bu… https://t.co/kkrnTO4254,0.0772,0.0,0.933,0.067
-461,@CNN,Wed Aug 15 05:00:02 +0000 2018,"Trump and his media boosters live in a hall of mirrors, writes CNN's Brian Stelter https://t.co/Ho9wGyAow2 https://t.co/QXqT87Q9uV",0.0,0.0,1.0,0.0
-462,@CNN,Wed Aug 15 04:45:04 +0000 2018,"Google parent company Alphabet invests $375 million in Oscar Health, a small insurer that thinks it can use big dat… https://t.co/i3moeix6CR",0.0,0.0,1.0,0.0
-463,@CNN,Wed Aug 15 04:30:05 +0000 2018,"A teacher battling cancer ran out of sick days, so school employees showered him with theirs https://t.co/XDU4SBObPx https://t.co/OpYQT7KFOR",-0.8689,0.412,0.588,0.0
-464,@CNN,Wed Aug 15 04:29:05 +0000 2018,"RT @CNNTonight: ""What we're looking at in our political world is a definite reaction to what happened in 2016. People like myself and peopl…",0.5574,0.0,0.82,0.18
-465,@CNN,Wed Aug 15 04:15:07 +0000 2018,The Indiana woman who lost 9 members in a duck boat sinking last month in Missouri wants the amphibious vehicles ba… https://t.co/5Kc0LO5kG0,-0.3182,0.108,0.892,0.0
-466,@CNN,Wed Aug 15 04:00:10 +0000 2018,"Georgia GOP Secretary of State Brian Kemp, a gubernatorial candidate, has been accused in a federal lawsuit of fail… https://t.co/Xw43eA1Crw",-0.4767,0.204,0.796,0.0
-467,@CNN,Wed Aug 15 03:56:05 +0000 2018,Twitter has suspended far-right conspiracy theorist Alex Jones from its platform for one week https://t.co/q1oncs3Tbt,-0.7579,0.333,0.667,0.0
-468,@CNN,Wed Aug 15 03:50:57 +0000 2018,RT @CNNPolitics: Ilhan Omar will win the Democratic primary in Minnesota's 5th Congressional District and could become the first Somali-Ame…,0.5859,0.0,0.833,0.167
-469,@CNN,Wed Aug 15 03:50:09 +0000 2018,"A sex trafficking lawsuit against disgraced media mogul Harvey Weinstein can move forward, a federal judge in New Y… https://t.co/nZOn4kljn4",-0.5994,0.234,0.766,0.0
-470,@CNN,Wed Aug 15 03:45:05 +0000 2018,"A Virginia report clears child detention center of abuse, but the youths' lawyer says the investigation was insuffi… https://t.co/r2DpH0CH62",-0.4939,0.212,0.732,0.056
-471,@CNN,Wed Aug 15 03:44:46 +0000 2018,"RT @CNNTonight: ""I see it as a victory for all Americans."" Christine Hallquist will win Vermont's Democratic primary for governor, making h…",0.5859,0.0,0.84,0.16
-472,@CNN,Wed Aug 15 03:44:36 +0000 2018,"RT @CuomoPrimeTime: .@ChrisCuomo: The President’s rhetoric is indefensible… The bottom line is we have to be better than this. Division, in…",0.4404,0.0,0.873,0.127
-473,@CNN,Wed Aug 15 03:30:11 +0000 2018,A new section of the Berlin Wall has been found in Germany https://t.co/9QIcTjbr90 https://t.co/jS8B6oQsI4,0.0,0.0,1.0,0.0
-474,@CNN,Wed Aug 15 03:15:07 +0000 2018,What special counsel Robert Mueller and former Trump campaign chairman Paul Manafort need to do in closing argument… https://t.co/ycnwOd1mAr,0.4019,0.0,0.87,0.13
-475,@CNN,Wed Aug 15 03:00:06 +0000 2018,"Former Trump spokeswoman Katrina Pierson's explanations of the alleged ""n-word"" tape make no sense, writes CNN's Ch… https://t.co/5aZGdNiJlL",-0.296,0.115,0.885,0.0
-476,@CNN,Wed Aug 15 02:45:03 +0000 2018,A man tried to grab a girl. Her sister hurled coffee at him to escape. https://t.co/qBrmAyjraY https://t.co/uEYLNretAf,0.1779,0.0,0.892,0.108
-477,@CNN,Wed Aug 15 02:37:02 +0000 2018,"President Trump's attorney, Rudy Giuliani, says he believes special counsel Robert Mueller is waiting for a verdict… https://t.co/Nv5x90KqG4",0.4019,0.0,0.856,0.144
-478,@CNN,Wed Aug 15 02:30:13 +0000 2018,"Kroger is making another big push into online groceries — this time, by opening a digital business in China… https://t.co/auU0UGxnBD",0.0,0.0,1.0,0.0
-479,@CNN,Wed Aug 15 02:22:05 +0000 2018,Artificial gills for humans could become a reality https://t.co/NNMewD1YpJ https://t.co/OXU8z7LUlK,0.0,0.0,1.0,0.0
-480,@CNN,Wed Aug 15 02:15:07 +0000 2018,Lawsuit seeks to stop Medicaid work requirements in Arkansas https://t.co/nZA10PYAt6 https://t.co/09z4U4kv0d,-0.4767,0.313,0.687,0.0
-481,@CNN,Wed Aug 15 02:07:58 +0000 2018,SpaceX's Crew Dragon is designed to get NASA astronauts to the International Space Station after being launched fro… https://t.co/TBoXdvb33A,0.128,0.0,0.923,0.077
-482,@CNN,Wed Aug 15 02:00:08 +0000 2018,"A University of Maryland football player who died of heatstroke this summer didn't receive proper medical care, an… https://t.co/tLbQ4E9oUQ",-0.1027,0.158,0.702,0.14
-483,@CNN,Wed Aug 15 01:45:05 +0000 2018,Judge in New Mexico child abuse case receives threats https://t.co/Qx3TwN1cM9 https://t.co/OyRDvB0sdj,-0.7906,0.438,0.562,0.0
-484,@CNN,Wed Aug 15 01:37:04 +0000 2018,"CNN projects Christine Hallquist will win Vermont's Democratic primary, making her the first transgender person nom… https://t.co/r7gUoOf9hM",0.5859,0.0,0.808,0.192
-485,@CNN,Wed Aug 15 01:30:08 +0000 2018,"Polls have closed in Minnesota and Wisconsin, where Democratic candidates are competing to become governors in thei… https://t.co/LlbJmyXzOK",0.0,0.0,1.0,0.0
-486,@CNN,Wed Aug 15 01:22:45 +0000 2018,"RT @CuomoPrimeTime: “I know she’s lying.” Speaking with @ChrisCuomo, President Trump's lawyer Rudy Giuliani says Omarosa Manigault Newman's…",0.0,0.0,1.0,0.0
-487,@CNN,Wed Aug 15 01:15:08 +0000 2018,A Boston-area immigration office appears to have coordinated with ICE to arrest undocumented immigrants when they s… https://t.co/6rYYWHrRqm,-0.34,0.13,0.87,0.0
-488,@CNN,Wed Aug 15 01:04:47 +0000 2018,"JUST IN: Kansas Secretary of State Kris Kobach has narrowly won last week's GOP primary for governor, after incumbe… https://t.co/QPTBRrt7U5",0.5719,0.0,0.837,0.163
-489,@CNN,Wed Aug 15 00:45:04 +0000 2018,"CNN projects incumbent Sen. Bernie Sanders, an independent who caucuses with the Democratic Party, will win the Dem… https://t.co/0bZDVNmqq5",0.7579,0.0,0.723,0.277
-490,@CNN,Wed Aug 15 00:30:07 +0000 2018,These Democrats are running to be Connecticut's next governor https://t.co/vBJhi70jmn https://t.co/ybk6qd0GlA,0.0,0.0,1.0,0.0
-491,@CNN,Wed Aug 15 00:15:11 +0000 2018,"The polls just closed in Connecticut, where Democratic Sen. Chris Murphy is up for re-election… https://t.co/dUcqo8p28S",0.0,0.0,1.0,0.0
-492,@CNN,Wed Aug 15 00:00:05 +0000 2018,Vermont could have the first transgender governor in the US https://t.co/bIPy3wvHbd https://t.co/2uWrufMVYi,0.0,0.0,1.0,0.0
-493,@CNN,Tue Aug 14 23:45:09 +0000 2018,A store accused a woman of hiding school supplies under her clothes. She was pregnant. https://t.co/CZIbdYqVLR https://t.co/cw09VRlNYj,-0.5267,0.253,0.747,0.0
-494,@CNN,Tue Aug 14 23:30:12 +0000 2018,"Polls just closed in Vermont, where former energy executive Christine Hallquist is running to become the nation's f… https://t.co/YukX4VUwED",0.2732,0.0,0.896,0.104
-495,@CNN,Tue Aug 14 23:24:38 +0000 2018,"RT @OutFrontCNN: Trump 2020 campaign senior adviser Katrina Pierson says ""it's not in the realm of possibility"" that President Trump has us…",0.0,0.0,1.0,0.0
-496,@CNN,Tue Aug 14 23:15:08 +0000 2018,What to expect in the closing arguments of former Trump campaign chairman Paul Manafort's trial… https://t.co/chXOPyV7lm,-0.4019,0.153,0.847,0.0
-497,@CNN,Tue Aug 14 23:03:09 +0000 2018,John Lennon and Paul McCartney's kids are friends https://t.co/9e87K8NYPc https://t.co/gHdujYDTx1,0.4767,0.0,0.744,0.256
-498,@CNN,Tue Aug 14 22:56:05 +0000 2018,He's 14 and wants to be Vermont's next governor https://t.co/Y5nazYUUta https://t.co/CJWI9F6jBU,0.0,0.0,1.0,0.0
-499,@CNN,Tue Aug 14 22:49:03 +0000 2018,The murder of 3 Russian journalists investigating the work of private military contractors in the Central African R… https://t.co/tj7CyKbFp6,-0.6908,0.217,0.783,0.0
+497,@CNN,Wed Aug 15 14:10:08 +0000 2018,The UK is trying to rein in CEO pay. It isn't working. https://t.co/BbNPU2Y8or https://t.co/hkmVLeTRNi,-0.1027,0.097,0.903,0.0
+498,@CNN,Wed Aug 15 14:00:07 +0000 2018,Tiffany is remodeling to draw more Millennials https://t.co/MWkuRPp3mn https://t.co/RJXdL0Fa4x,0.0,0.0,1.0,0.0
+499,@CNN,Wed Aug 15 13:50:03 +0000 2018,"Georgia GOP Secretary of State Brian Kemp, a gubernatorial candidate, has been accused in a federal lawsuit of fail… https://t.co/KHripDE2st",-0.4767,0.204,0.796,0.0
