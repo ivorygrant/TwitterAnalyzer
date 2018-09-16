@@ -1,6 +1,8 @@
 # TwitterAnalyzer
 A script that analyzes and visualizes a user's twitter feed
 
+To use this script, clone this repo and create a config.py file that contains the keys required to access the Twitter API.
+
 ## Outstanding Items:
 1. Fix tweet issue:
   create script that follows someone automatically once he/she follows you. The analysis won't run if the user is not already   friends. Tweet must show in my timeline. Also check mentions?
