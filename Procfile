@@ -1,1 +1,1 @@
-web: gunicorn app:PlotBot.py
+web: gunicorn app:app
