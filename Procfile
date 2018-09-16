@@ -1,1 +1,1 @@
-worker: python PlotBot.py
+web: gunicorn app:PlotBot.py
