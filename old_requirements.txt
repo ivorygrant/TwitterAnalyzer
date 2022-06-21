@@ -1,5 +1,5 @@
 tweepy==3.6.0
-numpy==1.14.3
+numpy==1.22.0
 numpydoc==0.8.0
 pandas==0.22.0
 matplotlib==2.2.2
